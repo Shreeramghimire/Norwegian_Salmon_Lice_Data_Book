@@ -329,40 +329,40 @@ To generate actionable, locality-specific outbreak forecasts and management cale
 - Predicted trend (2026-2030): ↑ Increasing risk in northern zones, → Stable in southern zones
 
 ### Management Recommendations
-- Zone-Specific Strategies
--- Southern Zones (1-2): Focus on early detection, temperature monitoring, and coordinated regional treatments during weeks 15-25
+#### Zone-Specific Strategies
+- Southern Zones (1-2): Focus on early detection, temperature monitoring, and coordinated regional treatments during weeks 15-25
 
--- Mid Zones (3): Transition zone requiring adaptive strategies based on seasonal forecasts
+- Mid Zones (3): Transition zone requiring adaptive strategies based on seasonal forecasts
 
--- Northern Zones (4-5): Pre-emptive treatments before short warm seasons; maximize narrow treatment windows
+- Northern Zones (4-5): Pre-emptive treatments before short warm seasons; maximize narrow treatment windows
 
-- Monitoring Schedule
--- High Risk Zones: Weekly monitoring (April-September)
+#### Monitoring Schedule
+- High Risk Zones: Weekly monitoring (April-September)
 
--- Medium Risk Zones: Bi-weekly monitoring (May-August)
+- Medium Risk Zones: Bi-weekly monitoring (May-August)
 
--- Low Risk Zones: Monthly monitoring (June-July)
+- Low Risk Zones: Monthly monitoring (June-July)
 
-- Treatment Protocols
--- Time treatments using predictive calendar (2 weeks before predicted peak)
+#### Treatment Protocols
+- Time treatments using predictive calendar (2 weeks before predicted peak)
 
--- Coordinate treatments within zones to prevent re-infestation
+- Coordinate treatments within zones to prevent re-infestation
 
--- Consider temperature thresholds (8°C-11°C) when planning treatments
+- Consider temperature thresholds (8°C-11°C) when planning treatments
 
-- Biosecurity Measures
--- Enhanced measures in high-risk zones during critical weeks
+#### Biosecurity Measures
+- Enhanced measures in high-risk zones during critical weeks
 
--- Regular equipment disinfection between farm visits
+- Regular equipment disinfection between farm visits
 
--- Monitor water exchange patterns between neighboring farms
+- Monitor water exchange patterns between neighboring farms
 
-- Data Collection Priorities
-Continue weekly temperature monitoring
+#### Data Collection Priorities
+- Continue weekly temperature monitoring
 
-Record treatment dates, methods, and outcomes
+- Record treatment dates, methods, and outcomes
 
-Share data regionally for model improvement
+- Share data regionally for model improvement
 
 ## Technical Tools & Libraries
 - Category	Tools Used
