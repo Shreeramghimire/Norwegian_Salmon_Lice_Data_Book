@@ -177,12 +177,15 @@ To segment the Norwegian coast into biologically meaningful latitudinal zones an
 
 ### Key Results:
 
-Zone	            Latitude	      Exceedance Rate    	Mean Temp	      Predictability	         Photoperiod Variation
-Zone 1 (Southern)	58-60°N	         28.5%	             10.5°C	            0.31	                 8.2 hours
-Zone 2 (Western)	60-63°N	         24.2%	              9.8°C	            0.28	                 10.5 hours
-Zone 3 (Mid)	    63-66°N	         19.7%	              8.9°C	            0.22	                 13.1 hours
-Zone 4 (Northern)	66-69°N	         15.3%	              8.0°C	            0.18	                 16.4 hours
-Zone 5 (Arctic)	  69-71°N	         11.8%	              7.2°C	            0.12	                 20.8 hours
+- Zone 1 (Southern, 58–60°N) has an exceedance rate of 28.5%, a mean temperature of 10.5°C, a predictability index of 0.31, and a photoperiod variation of 8.2 hours.
+
+- Zone 2 (Western, 60–63°N) shows an exceedance rate of 24.2%, a mean temperature of 9.8°C, a predictability value of 0.28, and a photoperiod variation of 10.5 hours.
+
+- Zone 3 (Mid, 63–66°N) records an exceedance rate of 19.7%, a mean temperature of 8.9°C, a predictability index of 0.22, and a photoperiod variation of 13.1 hours.
+
+- Zone 4 (Northern, 66–69°N) has an exceedance rate of 15.3%, a mean temperature of 8.0°C, a predictability value of 0.18, and a photoperiod variation of 16.4 hours.
+
+- Zone 5 (Arctic, 69–71°N) exhibits the lowest exceedance rate at 11.8%, a mean temperature of 7.2°C, a predictability index of 0.12, and the highest photoperiod variation at 20.8 hours.
 
 - Highest risk zone: Southern (28.5% exceedance rate)
 
@@ -256,31 +259,33 @@ Engineered features including:
 
 ### Model Performance:
 
-Model	Accuracy	Precision	Recall	F1-Score	AUC-ROC
-Random Forest	0.82	0.79	0.76	0.77	0.88
-Gradient Boosting	0.81	0.77	0.75	0.76	0.86
-XGBoost	0.83	0.80	0.78	0.79	0.89
-Top Feature Importances:
+- Random Forest achieved an accuracy of 0.82, a precision of 0.79, a recall of 0.76, an F1-score of 0.77, and an AUC-ROC of 0.88.
 
-Sea Temperature (0.21)
+- Gradient Boosting reached an accuracy of 0.81, a precision of 0.77, a recall of 0.75, an F1-score of 0.76, and an AUC-ROC of 0.86.
 
-Temperature Rolling Mean (0.16)
+- XGBoost delivered the highest performance with an accuracy of 0.83, a precision of 0.80, a recall of 0.78, an F1-score of 0.79, and an AUC-ROC of 0.89.
+  
+### Top Feature Importances:
 
-Week_Cos (0.12)
+- Sea Temperature (0.21)
 
-Photoperiod Estimate (0.11)
+- Temperature Rolling Mean (0.16)
 
-Lice Rolling Mean (0.09)
+- Week_Cos (0.12)
+
+- Photoperiod Estimate (0.11)
+
+- Lice Rolling Mean (0.09)
 
 ### Vulnerability Assessment Results:
 
-High/Very High Risk Localities: 342 (33.4%)
+- High/Very High Risk Localities: 342 (33.4%)
 
-Mean Vulnerability Score: 0.47
+- Mean Vulnerability Score: 0.47
 
-Most Vulnerable Zone: Southern (mean score 0.62)
+- Most Vulnerable Zone: Southern (mean score 0.62)
 
-Least Vulnerable Zone: Arctic (mean score 0.28)
+- Least Vulnerable Zone: Arctic (mean score 0.28)
 
 ## STEP 7: Predictive Calendar (2026-2030)
 ### Rationale:
@@ -310,12 +315,15 @@ To generate actionable, locality-specific outbreak forecasts and management cale
 
 ### 2026 Predictions Summary:
 
-Zone	     Overall Risk	       Season Start	      Season End	    Peak Week	         High-Risk Weeks
-Southern	 32.4%	              Week 14	           Week 30	       Week 20	                8 
-Western	   28.7%	              Week 15	           Week 29	       Week 21	                6
-Mid	       22.1%	              Week 16	           Week 28	       Week 22	                4
-Northern	 18.5%	              Week 18	           Week 27	       Week 23	                3
-Arctic	   14.2%	              Week 20	           Week 26	       Week 24	                2
+- Southern Zone has an overall risk of 32.4%, with the season starting in Week 14 and ending in Week 30; the peak occurs in Week 20, and there are 8 high-risk weeks.
+
+- Western Zone shows an overall risk of 28.7%, with the season running from Week 15 to Week 29; the peak is in Week 21, with 6 high-risk weeks.
+
+- Mid Zone records an overall risk of 22.1%, beginning in Week 16 and ending in Week 28; the peak falls in Week 22, with 4 high-risk weeks.
+
+- Northern Zone has an overall risk of 18.5%, with the season spanning Week 18 to Week 27; the peak occurs in Week 23, and there are 3 high-risk weeks.
+
+- Arctic Zone exhibits the lowest overall risk at 14.2%, starting in Week 20 and ending in Week 26; the peak is in Week 24, with 2 high-risk weeks.
 - Total predicted high-risk weeks (2026): 23 weeks across all zones
 - Highest predicted risk zone: Southern (32.4% average risk)
 - Predicted trend (2026-2030): ↑ Increasing risk in northern zones, → Stable in southern zones
@@ -356,7 +364,7 @@ Record treatment dates, methods, and outcomes
 
 Share data regionally for model improvement
 
-### Technical Tools & Libraries
+## Technical Tools & Libraries
 - Category	Tools Used
 - Data Processing	Pandas, NumPy
 - Visualization	Matplotlib, Seaborn, Plotly, Folium
