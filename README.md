@@ -37,11 +37,11 @@ This granular level of data enables a multi-faceted investigation into the dynam
 ## Applications ##
 The insights derived from this data book can be applied in several important ways:
 
-### Research: Provides a baseline for academic studies on parasite epidemiology, climate impacts, and ecological dynamics in marine aquaculture systems.
+Research: Provides a baseline for academic studies on parasite epidemiology, climate impacts, and ecological dynamics in marine aquaculture systems.
 
-### Industry Management: Offers a data-driven perspective for farm operators to benchmark their performance, understand regional risk factors, and optimize treatment strategies.
+Industry Management: Offers a data-driven perspective for farm operators to benchmark their performance, understand regional risk factors, and optimize treatment strategies.
 
-### Policy Development: Informs policymakers and regulators about the long-term trends and effectiveness of current lice management zones and intervention thresholds (the 0.5 adult female lice threshold).
+Policy Development: Informs policymakers and regulators about the long-term trends and effectiveness of current lice management zones and intervention thresholds (the 0.5 adult female lice threshold).
 
 ## Acknowledgements
 I gratefully acknowledge the public data sources that made this work possible. The primary data originates from BarentsWatch (www.barentswatch.no), a collaborative platform that provides open access to Norwegian aquaculture data. I also thank the Norwegian Directorate of Fisheries (www.fiskedir.no) and Statistics Norway (SSB) for their foundational work in collecting, maintaining, and disseminating this valuable public information. Their commitment to transparency and open data is essential for advancing knowledge and sustainable practices in the aquaculture industry.
