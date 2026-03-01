@@ -1,0 +1,797 @@
+{
+  "zone_management": {
+    "Zone 1": {
+      "overall_risk_percent": 2.996837888825564,
+      "season_start_week": 21,
+      "season_end_week": 33,
+      "peak_week": 24,
+      "high_risk_weeks": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "recommended_actions": [
+        "Monthly monitoring",
+        "Preventive measures focus",
+        "Basic biosecurity protocols",
+        "Seasonal risk assessment",
+        "Quarterly reporting"
+      ]
+    },
+    "Zone 2": {
+      "overall_risk_percent": 2.7095429121546366,
+      "season_start_week": 1,
+      "season_end_week": 43,
+      "peak_week": 2,
+      "high_risk_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        35,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43
+      ],
+      "recommended_actions": [
+        "Monthly monitoring",
+        "Preventive measures focus",
+        "Basic biosecurity protocols",
+        "Seasonal risk assessment",
+        "Quarterly reporting"
+      ]
+    },
+    "Zone 3": {
+      "overall_risk_percent": 1.4885644649954346,
+      "season_start_week": 1,
+      "season_end_week": 48,
+      "peak_week": 38,
+      "high_risk_weeks": [
+        1,
+        2,
+        3,
+        26,
+        38,
+        40,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "recommended_actions": [
+        "Monthly monitoring",
+        "Preventive measures focus",
+        "Basic biosecurity protocols",
+        "Seasonal risk assessment",
+        "Quarterly reporting"
+      ]
+    },
+    "Zone 4": {
+      "overall_risk_percent": 1.0125176901416282,
+      "season_start_week": 30,
+      "season_end_week": 47,
+      "peak_week": 30,
+      "high_risk_weeks": [
+        30,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        41,
+        42,
+        43,
+        45,
+        46,
+        47
+      ],
+      "recommended_actions": [
+        "Monthly monitoring",
+        "Preventive measures focus",
+        "Basic biosecurity protocols",
+        "Seasonal risk assessment",
+        "Quarterly reporting"
+      ]
+    },
+    "Zone 5": {
+      "overall_risk_percent": 0.6246737138023963,
+      "season_start_week": 38,
+      "season_end_week": 50,
+      "peak_week": 40,
+      "high_risk_weeks": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "recommended_actions": [
+        "Monthly monitoring",
+        "Preventive measures focus",
+        "Basic biosecurity protocols",
+        "Seasonal risk assessment",
+        "Quarterly reporting"
+      ]
+    }
+  },
+  "locality_priorities": {
+    "high_priority": [
+      {
+        "locality_number": 10041,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10045,
+        "zone": "Zone 2",
+        "risk_level": "High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10050,
+        "zone": "Zone 1",
+        "risk_level": "High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10054,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10078,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10080,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10086,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10087,
+        "zone": "Zone 2",
+        "risk_level": "High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10090,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      },
+      {
+        "locality_number": 10091,
+        "zone": "Zone 2",
+        "risk_level": "Very High",
+        "critical_weeks": [],
+        "actions": [
+          "Weekly monitoring mandatory",
+          "Pre-emptive treatments recommended",
+          "Strict biosecurity protocols",
+          "Coordinate with neighboring farms"
+        ]
+      }
+    ],
+    "medium_priority": [
+      {
+        "locality_number": 10029,
+        "zone": "Zone 1",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10110,
+        "zone": "Zone 1",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10113,
+        "zone": "Zone 1",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10149,
+        "zone": "Zone 1",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10181,
+        "zone": "Zone 2",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10212,
+        "zone": "Zone 3",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10213,
+        "zone": "Zone 2",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10216,
+        "zone": "Zone 3",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10223,
+        "zone": "Zone 3",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10224,
+        "zone": "Zone 3",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10229,
+        "zone": "Zone 3",
+        "risk_level": "Medium",
+        "critical_weeks": [],
+        "actions": [
+          "Bi-weekly monitoring",
+          "Selective treatments as needed",
+          "Regular biosecurity checks"
+        ]
+      },
+      {
+        "locality_number": 10232,
+        "zone": "Zone 3",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10240,
+        "zone": "Zone 3",
+        "risk_level": "Very Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10256,
+        "zone": "Zone 3",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10262,
+        "zone": "Zone 3",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10264,
+        "zone": "Zone 3",
+        "risk_level": "Very Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10275,
+        "zone": "Zone 5",
+        "risk_level": "Very Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10276,
+        "zone": "Zone 5",
+        "risk_level": "Very Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10281,
+        "zone": "Zone 5",
+        "risk_level": "Very Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      },
+      {
+        "locality_number": 10292,
+        "zone": "Zone 1",
+        "risk_level": "Low",
+        "critical_weeks": [],
+        "actions": [
+          "Monthly monitoring",
+          "Focus on prevention measures",
+          "Seasonal risk assessment"
+        ]
+      }
+    ]
+  },
+  "environmental_thresholds": {
+    "Zone 1": {
+      "optimal_temperature_range": [
+        7.5,
+        15.3
+      ],
+      "mean_optimal_temp": 11.420702040816327,
+      "peak_vulnerability_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    "Zone 2": {
+      "optimal_temperature_range": [
+        8.07,
+        14.1
+      ],
+      "mean_optimal_temp": 11.156607474158497,
+      "peak_vulnerability_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    "Zone 3": {
+      "optimal_temperature_range": [
+        8.86,
+        13.6
+      ],
+      "mean_optimal_temp": 11.203862042088854,
+      "peak_vulnerability_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    "Zone 4": {
+      "optimal_temperature_range": [
+        8.4325,
+        12.4
+      ],
+      "mean_optimal_temp": 10.326388044579534,
+      "peak_vulnerability_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    "Zone 5": {
+      "optimal_temperature_range": [
+        6.0,
+        10.8
+      ],
+      "mean_optimal_temp": 8.437952755905512,
+      "peak_vulnerability_weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    }
+  }
+}
