@@ -399,7 +399,6 @@ File	Description:
 - temperature_patterns_map.html	(Temperature consistency and trend map)
 - temperature_synchrony_map.html	(Temperature-synchronized outbreaks map)
 - zone_analysis_map.html	(Latitudinal zone visualization)
-- vulnerability_map.html	(Risk heatmap with locality-level vulnerability)
 - zone_predictions_2026_2030.csv	(Zone-level weekly predictions)
 - locality_predictions_2026.csv	(Locality-specific 2026 forecasts)
 - management_calendar_2026.json	(Structured management recommendations)
