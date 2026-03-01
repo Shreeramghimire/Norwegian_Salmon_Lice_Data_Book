@@ -1,4 +1,0 @@
-recurrence pattern map: https://licedatabookmap01.vercel.app/
-temperature pattern map: https://licedatabookmap02.vercel.app/
-temperature synchrony map: https://licedatabookmap03.vercel.app/
-zone analysis map: https://licedatabookmap04.vercel.app/
