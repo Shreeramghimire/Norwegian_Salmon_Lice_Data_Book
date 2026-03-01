@@ -1,0 +1,1095 @@
+Locality_Number,Outbreak_Years,Latitude,Longitude,Zone,Locality_Name,Recurrence_Level,Fjord_Position,Is_Persistent,Distance_to_River_km,Nearest_River,River_Size,Distance_Category,River_Influence
+10029,0,59.371235,5.216333,Zone 1: Southern (58-60°N),Tuholmane Ø,Sporadic (0-2 years),Mid-Fjord,False,56.2,Etneelva,small,Far (>50km),No Influence
+10041,4,60.054317,5.090733,Zone 2: Western (60-63°N),Kviksholmen,Occasional (3-5 years),Mid-Fjord,False,75.9,Etneelva,small,Far (>50km),No Influence
+10045,0,60.08808,5.120633,Zone 2: Western (60-63°N),Eidholmen,Sporadic (0-2 years),Mid-Fjord,False,77.3,Etneelva,small,Far (>50km),No Influence
+10050,1,59.866566,5.228133,Zone 1: Southern (58-60°N),Ospøy Ø,Sporadic (0-2 years),Mid-Fjord,False,57.3,Etneelva,small,Far (>50km),No Influence
+10054,3,60.02432,5.30815,Zone 2: Western (60-63°N),Tobbeholmane,Occasional (3-5 years),Mid-Fjord,False,64.9,Etneelva,small,Far (>50km),No Influence
+10078,0,60.997734,5.0304,Zone 2: Western (60-63°N),Mjånes,Sporadic (0-2 years),Mid-Fjord,False,72.9,Jølstra,small,Far (>50km),No Influence
+10080,3,60.53015,5.11575,Zone 2: Western (60-63°N),Laksevika,Occasional (3-5 years),Mid-Fjord,False,70.9,Vosso,medium,Far (>50km),No Influence
+10086,6,60.723415,5.328583,Zone 2: Western (60-63°N),Rekeviki,Recurrent (6-8 years),Mid-Fjord,False,60.2,Vosso,medium,Far (>50km),No Influence
+10087,6,61.319366,4.707167,Zone 2: Western (60-63°N),Kalvøya N,Recurrent (6-8 years),Mid-Fjord,False,66.8,Jølstra,small,Far (>50km),No Influence
+10090,2,61.370384,5.0185,Zone 2: Western (60-63°N),Trellevika,Sporadic (0-2 years),Mid-Fjord,False,49.2,Jølstra,small,Moderate (25-50km),No Influence
+10091,6,61.489735,5.023517,Zone 2: Western (60-63°N),Vågsøya,Recurrent (6-8 years),Mid-Fjord,False,46.7,Jølstra,small,Moderate (25-50km),No Influence
+10110,3,59.1474,5.863783,Zone 1: Southern (58-60°N),Djupevik,Occasional (3-5 years),Mid-Fjord,False,52.2,Etneelva,small,Far (>50km),No Influence
+10113,4,59.12232,5.934433,Zone 1: Southern (58-60°N),Kobbavika,Occasional (3-5 years),Mid-Fjord,False,53.0,Suldalslågen,medium,Far (>50km),No Influence
+10136,4,59.95335,5.669683,Zone 1: Southern (58-60°N),Onarøy,Occasional (3-5 years),Mid-Fjord,False,46.2,Etneelva,small,Moderate (25-50km),No Influence
+10137,4,60.264084,5.6591,Zone 2: Western (60-63°N),Matland,Occasional (3-5 years),Mid-Fjord,False,55.4,Vosso,medium,Far (>50km),No Influence
+10147,2,59.741932,5.98095,Zone 1: Southern (58-60°N),Tungesvik,Sporadic (0-2 years),Mid-Fjord,False,17.2,Etneelva,small,Close (10-25km),Weak Influence
+10149,7,59.790916,6.176567,Zone 1: Southern (58-60°N),Rafdal,Recurrent (6-8 years),Mid-Fjord,False,21.7,Etneelva,small,Close (10-25km),Weak Influence
+10181,5,62.5174,6.15805,Zone 2: Western (60-63°N),Oksebåsen V,Occasional (3-5 years),Mid-Fjord,False,59.1,Norddalselva,small,Far (>50km),No Influence
+10194,3,62.735832,6.74745,Zone 2: Western (60-63°N),Hellaren,Occasional (3-5 years),Mid-Fjord,False,53.9,Norddalselva,small,Far (>50km),No Influence
+10197,4,62.28765,6.990333,Zone 2: Western (60-63°N),Opshaugvik,Occasional (3-5 years),Mid-Fjord,False,11.0,Norddalselva,small,Close (10-25km),Moderate Influence
+10206,2,63.0693,7.60185,Zone 3: Mid (63-66°N),Kleven,Sporadic (0-2 years),Mid-Fjord,False,58.8,Surna,medium,Far (>50km),No Influence
+10212,4,63.077667,7.90345,Zone 3: Mid (63-66°N),Bogen,Occasional (3-5 years),Mid-Fjord,False,45.0,Surna,medium,Moderate (25-50km),No Influence
+10213,3,62.9424,8.0756,Zone 2: Western (60-63°N),Naustneset,Occasional (3-5 years),Coastal/Outer,False,32.1,Surna,medium,Moderate (25-50km),No Influence
+10216,3,63.076733,8.19315,Zone 3: Mid (63-66°N),Skåren,Occasional (3-5 years),Mid-Fjord,False,32.4,Surna,medium,Moderate (25-50km),No Influence
+10223,5,63.39795,8.214317,Zone 3: Mid (63-66°N),Bremnessvaet,Occasional (3-5 years),Mid-Fjord,False,60.7,Surna,medium,Far (>50km),No Influence
+10224,6,63.14268,8.225383,Zone 3: Mid (63-66°N),Korsneset,Recurrent (6-8 years),Mid-Fjord,False,36.2,Surna,medium,Moderate (25-50km),No Influence
+10229,3,63.144585,8.459567,Zone 3: Mid (63-66°N),Fætten,Occasional (3-5 years),Mid-Fjord,False,29.9,Surna,medium,Moderate (25-50km),Weak Influence
+10232,6,63.8473,8.53675,Zone 3: Mid (63-66°N),Mannbruholmen,Recurrent (6-8 years),Mid-Fjord,False,87.5,Orkla,major,Far (>50km),No Influence
+10240,3,63.651974,8.88687,Zone 3: Mid (63-66°N),Ilsøya Ø,Occasional (3-5 years),Mid-Fjord,False,60.1,Orkla,major,Far (>50km),No Influence
+10256,0,64.81715,10.7425,Zone 3: Mid (63-66°N),Bondøya,Sporadic (0-2 years),Mid-Fjord,False,50.6,Namsen,major,Far (>50km),No Influence
+10262,0,65.01145,11.6139,Zone 3: Mid (63-66°N),Lille Kvitholmen,Sporadic (0-2 years),Mid-Fjord,False,57.3,Namsen,major,Far (>50km),No Influence
+10264,0,64.9774,11.728117,Zone 3: Mid (63-66°N),Digermulen,Sporadic (0-2 years),Mid-Fjord,False,54.3,Namsen,major,Far (>50km),No Influence
+10275,2,70.14145,22.3542,Zone 5: Arctic (69-71°N),Auskarnes Ø,Sporadic (0-2 years),Mid-Fjord,False,42.0,Altaelva,major,Moderate (25-50km),No Influence
+10276,2,70.077034,22.666183,Zone 5: Arctic (69-71°N),Sommarbukt,Sporadic (0-2 years),Mid-Fjord,False,28.4,Altaelva,major,Moderate (25-50km),Weak Influence
+10281,6,70.32066,22.89715,Zone 5: Arctic (69-71°N),Store Kvalfjord,Recurrent (6-8 years),Mid-Fjord,False,48.3,Altaelva,major,Moderate (25-50km),No Influence
+10291,4,59.72663,5.145617,Zone 1: Southern (58-60°N),Hiskholmen,Occasional (3-5 years),Mid-Fjord,False,55.6,Etneelva,small,Far (>50km),No Influence
+10292,3,59.714535,5.15405,Zone 1: Southern (58-60°N),Lyklingholmen N,Occasional (3-5 years),Mid-Fjord,False,54.8,Etneelva,small,Far (>50km),No Influence
+10298,3,59.8665,5.244133,Zone 1: Southern (58-60°N),Ålforo,Occasional (3-5 years),Mid-Fjord,False,56.6,Etneelva,small,Far (>50km),No Influence
+10300,6,59.6084,5.311917,Zone 1: Southern (58-60°N),Hillersvik,Recurrent (6-8 years),Mid-Fjord,False,44.5,Etneelva,small,Moderate (25-50km),No Influence
+10303,4,59.743034,5.363783,Zone 1: Southern (58-60°N),Nappeholmane,Occasional (3-5 years),Mid-Fjord,False,44.4,Etneelva,small,Moderate (25-50km),No Influence
+10309,2,60.468468,4.965967,Zone 2: Western (60-63°N),Syrtangen,Sporadic (0-2 years),Mid-Fjord,False,80.1,Vosso,medium,Far (>50km),No Influence
+10311,8,61.201717,5.170933,Zone 2: Western (60-63°N),Storlia,Recurrent (6-8 years),Mid-Fjord,False,51.3,Jølstra,small,Far (>50km),No Influence
+10317,0,61.31663,4.979333,Zone 2: Western (60-63°N),Garvik,Sporadic (0-2 years),Mid-Fjord,False,53.3,Jølstra,small,Far (>50km),No Influence
+10318,6,61.75802,5.069883,Zone 2: Western (60-63°N),Gulestø,Recurrent (6-8 years),Mid-Fjord,False,52.6,Jølstra,small,Far (>50km),No Influence
+10319,2,61.584034,5.133633,Zone 2: Western (60-63°N),Ålvora,Sporadic (0-2 years),Mid-Fjord,False,41.8,Jølstra,small,Moderate (25-50km),No Influence
+10324,4,60.223083,5.641167,Zone 2: Western (60-63°N),Gjerdeviksflua,Occasional (3-5 years),Mid-Fjord,False,59.3,Vosso,medium,Far (>50km),No Influence
+10328,3,60.141033,5.906933,Zone 2: Western (60-63°N),Sagvik,Occasional (3-5 years),Mid-Fjord,False,57.9,Vosso,medium,Far (>50km),No Influence
+10331,6,60.112434,6.042483,Zone 2: Western (60-63°N),Åkre,Recurrent (6-8 years),Mid-Fjord,False,57.2,Etneelva,small,Far (>50km),No Influence
+10332,4,60.08243,6.080067,Zone 2: Western (60-63°N),Trommo,Occasional (3-5 years),Mid-Fjord,False,53.8,Etneelva,small,Far (>50km),No Influence
+10338,2,60.4075,6.356717,Zone 2: Western (60-63°N),Djupevik,Sporadic (0-2 years),Mid-Fjord,False,21.6,Vosso,medium,Close (10-25km),Weak Influence
+10375,5,63.589466,9.409383,Zone 3: Mid (63-66°N),Nord Leksa,Occasional (3-5 years),Mid-Fjord,False,37.7,Orkla,major,Moderate (25-50km),No Influence
+10398,5,64.09225,10.115983,Zone 3: Mid (63-66°N),Seiskjæra,Occasional (3-5 years),Mid-Fjord,False,75.3,Verdalselva,medium,Far (>50km),No Influence
+10409,3,64.64391,11.388517,Zone 3: Mid (63-66°N),Kjelneset,Occasional (3-5 years),Mid-Fjord,False,16.9,Namsen,major,Close (10-25km),Weak Influence
+10410,5,64.77393,11.44087,Zone 3: Mid (63-66°N),Hindholmen,Occasional (3-5 years),Mid-Fjord,False,30.7,Namsen,major,Moderate (25-50km),No Influence
+10417,0,64.9591,11.6157,Zone 3: Mid (63-66°N),Storbukta,Sporadic (0-2 years),Mid-Fjord,False,51.5,Namsen,major,Far (>50km),No Influence
+10421,0,64.92893,11.912917,Zone 3: Mid (63-66°N),Storvikbukta,Sporadic (0-2 years),Mid-Fjord,False,51.7,Namsen,major,Far (>50km),No Influence
+10425,1,65.12658,12.071983,Zone 3: Mid (63-66°N),Heggvika,Sporadic (0-2 years),Mid-Fjord,False,75.0,Namsen,major,Far (>50km),No Influence
+10447,3,65.85145,12.2872,Zone 3: Mid (63-66°N),Mefaldskjæret,Occasional (3-5 years),Mid-Fjord,False,42.1,Vefsna,major,Moderate (25-50km),No Influence
+10504,2,68.77659,14.613858,Zone 4: Northern (66-69°N),Vedvika,Sporadic (0-2 years),Inner Fjord,False,158.2,Målselva,major,Far (>50km),No Influence
+10505,2,68.58348,14.706217,Zone 4: Northern (66-69°N),Dragnes,Sporadic (0-2 years),Inner Fjord,False,160.1,Målselva,major,Far (>50km),No Influence
+10513,1,67.45849,15.511583,Zone 4: Northern (66-69°N),Nedre Kvarv,Sporadic (0-2 years),Inner Fjord,False,40.3,Saltdalselva,medium,Moderate (25-50km),No Influence
+10518,0,68.02078,15.302383,Zone 4: Northern (66-69°N),Horsvågen,Sporadic (0-2 years),Inner Fjord,False,102.8,Saltdalselva,medium,Far (>50km),No Influence
+10536,5,69.03105,16.481916,Zone 5: Arctic (69-71°N),Høgholmen,Occasional (3-5 years),Inner Fjord,False,80.8,Målselva,major,Far (>50km),No Influence
+10544,2,69.18692,17.013733,Zone 5: Arctic (69-71°N),Flakstadvåg,Sporadic (0-2 years),Inner Fjord,False,62.8,Målselva,major,Far (>50km),No Influence
+10545,1,69.335266,17.076218,Zone 5: Arctic (69-71°N),Sylsnes,Sporadic (0-2 years),Inner Fjord,False,67.8,Målselva,major,Far (>50km),No Influence
+10550,3,68.72922,17.307068,Zone 4: Northern (66-69°N),Skardbergvika,Occasional (3-5 years),Inner Fjord,False,56.7,Målselva,major,Far (>50km),No Influence
+10552,1,68.89622,17.487316,Zone 4: Northern (66-69°N),Storvika III,Sporadic (0-2 years),Inner Fjord,False,42.2,Målselva,major,Moderate (25-50km),No Influence
+10570,1,69.79892,20.641933,Zone 5: Arctic (69-71°N),Uløy,Sporadic (0-2 years),Mid-Fjord,False,99.0,Altaelva,major,Far (>50km),No Influence
+10582,0,58.21977,6.685633,Zone 1: Southern (58-60°N),Tarmevikodden,Sporadic (0-2 years),Mid-Fjord,False,78.5,Otra,major,Far (>50km),No Influence
+10611,3,70.24958,21.706633,Zone 5: Arctic (69-71°N),Marøya,Occasional (3-5 years),Mid-Fjord,False,68.9,Altaelva,major,Far (>50km),No Influence
+10614,4,70.263466,23.3193,Zone 5: Arctic (69-71°N),Kråkevik,Occasional (3-5 years),Mid-Fjord,False,40.8,Altaelva,major,Moderate (25-50km),No Influence
+10616,5,70.57315,23.397882,Zone 5: Arctic (69-71°N),Vinnalandet,Occasional (3-5 years),Mid-Fjord,False,75.5,Altaelva,major,Far (>50km),No Influence
+10635,5,70.5734,24.074734,Zone 5: Arctic (69-71°N),Toknebuktneset,Occasional (3-5 years),Mid-Fjord,False,82.1,Altaelva,major,Far (>50km),No Influence
+10652,1,70.7514,25.636984,Zone 5: Arctic (69-71°N),Vedbotn,Sporadic (0-2 years),Mid-Fjord,False,113.7,Tana,major,Far (>50km),No Influence
+10660,1,70.88875,24.941366,Zone 5: Arctic (69-71°N),Skinnstakkvika,Sporadic (0-2 years),Mid-Fjord,False,128.1,Altaelva,major,Far (>50km),No Influence
+10724,1,69.81612,20.717817,Zone 5: Arctic (69-71°N),Klokkstein,Sporadic (0-2 years),Mid-Fjord,False,95.9,Altaelva,major,Far (>50km),No Influence
+10726,2,69.860085,20.713966,Zone 5: Arctic (69-71°N),Uløybukt,Sporadic (0-2 years),Mid-Fjord,False,95.6,Altaelva,major,Far (>50km),No Influence
+10734,0,69.57835,20.510433,Zone 5: Arctic (69-71°N),Gourtesjouka,Sporadic (0-2 years),Mid-Fjord,False,102.3,Målselva,major,Far (>50km),No Influence
+10735,0,69.66185,20.329067,Zone 5: Arctic (69-71°N),Storbukta,Sporadic (0-2 years),Mid-Fjord,False,103.2,Målselva,major,Far (>50km),No Influence
+10747,2,69.95137,19.587868,Zone 5: Arctic (69-71°N),Futnes,Sporadic (0-2 years),Mid-Fjord,False,114.4,Målselva,major,Far (>50km),No Influence
+10753,0,69.8813,19.434532,Zone 5: Arctic (69-71°N),Strandmo,Sporadic (0-2 years),Mid-Fjord,False,104.9,Målselva,major,Far (>50km),No Influence
+10754,0,69.833015,19.361467,Zone 5: Arctic (69-71°N),Glimbukta,Sporadic (0-2 years),Mid-Fjord,False,98.9,Målselva,major,Far (>50km),No Influence
+10757,3,70.0722,19.341066,Zone 5: Arctic (69-71°N),Dåvøya,Occasional (3-5 years),Mid-Fjord,False,124.0,Målselva,major,Far (>50km),No Influence
+10759,2,70.06638,19.305317,Zone 5: Arctic (69-71°N),Karanes,Sporadic (0-2 years),Mid-Fjord,False,123.0,Målselva,major,Far (>50km),No Influence
+10789,3,70.28717,23.466833,Zone 5: Arctic (69-71°N),Store Lerresfjord,Occasional (3-5 years),Mid-Fjord,False,44.4,Altaelva,major,Moderate (25-50km),No Influence
+10790,4,70.38598,23.472271,Zone 5: Arctic (69-71°N),Olderfjord,Occasional (3-5 years),Mid-Fjord,False,55.2,Altaelva,major,Far (>50km),No Influence
+10791,4,70.2831,23.400017,Zone 5: Arctic (69-71°N),Nordnes,Occasional (3-5 years),Mid-Fjord,False,43.4,Altaelva,major,Moderate (25-50km),No Influence
+10794,3,70.12487,23.223034,Zone 5: Arctic (69-71°N),Mortensnes,Occasional (3-5 years),Mid-Fjord,False,25.1,Altaelva,major,Moderate (25-50km),Weak Influence
+10795,2,70.2122,22.2785,Zone 5: Arctic (69-71°N),Olaneset,Sporadic (0-2 years),Mid-Fjord,False,49.4,Altaelva,major,Moderate (25-50km),No Influence
+10796,1,70.19289,21.81905,Zone 5: Arctic (69-71°N),Hundbergan,Sporadic (0-2 years),Mid-Fjord,False,61.9,Altaelva,major,Far (>50km),No Influence
+10798,0,70.0186,22.018316,Zone 5: Arctic (69-71°N),Svartberget,Sporadic (0-2 years),Mid-Fjord,False,47.1,Altaelva,major,Moderate (25-50km),No Influence
+10803,2,69.90455,21.876833,Zone 5: Arctic (69-71°N),Fjellbukt,Sporadic (0-2 years),Mid-Fjord,False,50.8,Altaelva,major,Far (>50km),No Influence
+10804,0,69.85198,21.828983,Zone 5: Arctic (69-71°N),Karvika,Sporadic (0-2 years),Mid-Fjord,False,52.9,Altaelva,major,Far (>50km),No Influence
+10806,2,69.88507,21.729982,Zone 5: Arctic (69-71°N),Rakkenes,Sporadic (0-2 years),Mid-Fjord,False,56.4,Altaelva,major,Far (>50km),No Influence
+10808,2,69.9116,21.597166,Zone 5: Arctic (69-71°N),Hjellberget,Sporadic (0-2 years),Mid-Fjord,False,61.5,Altaelva,major,Far (>50km),No Influence
+10811,0,70.1337,23.330383,Zone 5: Arctic (69-71°N),Elva I Årøysundet,Sporadic (0-2 years),Mid-Fjord,False,26.5,Altaelva,major,Moderate (25-50km),Weak Influence
+10814,5,70.24095,23.28445,Zone 5: Arctic (69-71°N),MårsanYesrga,Occasional (3-5 years),Mid-Fjord,False,38.2,Altaelva,major,Moderate (25-50km),No Influence
+10819,1,70.091,22.755167,Zone 5: Arctic (69-71°N),Eidsnes,Sporadic (0-2 years),Mid-Fjord,False,27.3,Altaelva,major,Moderate (25-50km),Weak Influence
+10821,2,70.09161,22.708982,Zone 5: Arctic (69-71°N),Tuvan,Sporadic (0-2 years),Mid-Fjord,False,28.4,Altaelva,major,Moderate (25-50km),Weak Influence
+10822,3,70.08587,22.6618,Zone 5: Arctic (69-71°N),Rivarbukt,Occasional (3-5 years),Mid-Fjord,False,29.2,Altaelva,major,Moderate (25-50km),Weak Influence
+10825,1,70.1517,22.312668,Zone 5: Arctic (69-71°N),Steinviknes,Sporadic (0-2 years),Mid-Fjord,False,44.0,Altaelva,major,Moderate (25-50km),No Influence
+10828,3,70.53805,23.558533,Zone 5: Arctic (69-71°N),Kleppenes N,Occasional (3-5 years),Mid-Fjord,False,72.5,Altaelva,major,Far (>50km),No Influence
+10837,1,70.666435,23.164333,Zone 5: Arctic (69-71°N),Kuvika,Sporadic (0-2 years),Mid-Fjord,False,85.5,Altaelva,major,Far (>50km),No Influence
+10838,2,70.62572,23.104816,Zone 5: Arctic (69-71°N),Slettnesfjord,Sporadic (0-2 years),Mid-Fjord,False,81.0,Altaelva,major,Far (>50km),No Influence
+10839,2,70.35332,23.079117,Zone 5: Arctic (69-71°N),Store Kufjord,Sporadic (0-2 years),Mid-Fjord,False,50.8,Altaelva,major,Far (>50km),No Influence
+10840,5,70.34652,22.974916,Zone 5: Arctic (69-71°N),Lille Kufjord,Occasional (3-5 years),Mid-Fjord,False,50.5,Altaelva,major,Far (>50km),No Influence
+10841,0,70.34088,22.804867,Zone 5: Arctic (69-71°N),Pollen,Sporadic (0-2 years),Mid-Fjord,False,51.4,Altaelva,major,Far (>50km),No Influence
+10858,1,65.10865,12.442233,Zone 3: Mid (63-66°N),Mulingen,Sporadic (0-2 years),Mid-Fjord,False,81.3,Namsen,major,Far (>50km),No Influence
+10862,1,65.11767,12.321467,Zone 3: Mid (63-66°N),Båsen,Sporadic (0-2 years),Mid-Fjord,False,79.2,Namsen,major,Far (>50km),No Influence
+10875,0,65.7337,12.5357,Zone 3: Mid (63-66°N),Storurdvika,Sporadic (0-2 years),Mid-Fjord,False,31.3,Vefsna,major,Moderate (25-50km),No Influence
+10876,5,65.4468,12.560367,Zone 3: Mid (63-66°N),Istervika,Occasional (3-5 years),Mid-Fjord,False,49.2,Vefsna,major,Moderate (25-50km),No Influence
+10877,1,65.45723,12.549733,Zone 3: Mid (63-66°N),Mortenøy,Sporadic (0-2 years),Mid-Fjord,False,48.6,Vefsna,major,Moderate (25-50km),No Influence
+10880,2,65.723236,12.475317,Zone 3: Mid (63-66°N),Forvik,Sporadic (0-2 years),Mid-Fjord,False,34.3,Vefsna,major,Moderate (25-50km),No Influence
+10885,2,65.31274,12.4022,Zone 3: Mid (63-66°N),Jektvika II,Sporadic (0-2 years),Mid-Fjord,False,65.6,Vefsna,major,Far (>50km),No Influence
+10893,4,66.502815,12.070967,Zone 4: Northern (66-69°N),Rensøya N,Occasional (3-5 years),Inner Fjord,False,89.1,Ranfjorden rivers,medium,Far (>50km),No Influence
+10898,10,65.47093,12.1338,Zone 3: Mid (63-66°N),Lamholmen,Persistent (9-10 years),Mid-Fjord,True,61.3,Vefsna,major,Far (>50km),No Influence
+10961,2,65.80648,12.619767,Zone 3: Mid (63-66°N),Skonseng,Sporadic (0-2 years),Mid-Fjord,False,26.6,Vefsna,major,Moderate (25-50km),Weak Influence
+10968,2,66.35845,12.485017,Zone 4: Northern (66-69°N),Vardskjær Ø,Sporadic (0-2 years),Inner Fjord,False,68.2,Ranfjorden rivers,medium,Far (>50km),No Influence
+10974,5,66.40135,12.420717,Zone 4: Northern (66-69°N),Store Bukkøy N,Occasional (3-5 years),Inner Fjord,False,71.6,Ranfjorden rivers,medium,Far (>50km),No Influence
+10989,5,66.01273,12.351417,Zone 4: Northern (66-69°N),Labukta V,Occasional (3-5 years),Inner Fjord,False,45.4,Vefsna,major,Moderate (25-50km),No Influence
+10990,1,66.22988,12.317533,Zone 4: Northern (66-69°N),Lille Åsvær,Sporadic (0-2 years),Inner Fjord,False,62.5,Vefsna,major,Far (>50km),No Influence
+10996,2,66.23212,12.280317,Zone 4: Northern (66-69°N),Ramnøya S,Sporadic (0-2 years),Inner Fjord,False,63.7,Vefsna,major,Far (>50km),No Influence
+11015,3,65.90735,12.220967,Zone 3: Mid (63-66°N),Brattholmen,Occasional (3-5 years),Mid-Fjord,False,46.3,Vefsna,major,Moderate (25-50km),No Influence
+11041,7,66.07035,12.065617,Zone 4: Northern (66-69°N),Nord-Gåsvær,Recurrent (6-8 years),Inner Fjord,False,59.8,Vefsna,major,Far (>50km),No Influence
+11072,3,66.69935,13.624117,Zone 4: Northern (66-69°N),Rendalsvik,Occasional (3-5 years),Inner Fjord,False,47.6,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+11074,1,66.66908,13.391633,Zone 4: Northern (66-69°N),Kvalvika,Sporadic (0-2 years),Inner Fjord,False,49.3,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+11076,2,66.67648,13.316867,Zone 4: Northern (66-69°N),Digermulen,Sporadic (0-2 years),Inner Fjord,False,51.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+11087,4,66.64097,12.994583,Zone 4: Northern (66-69°N),Bukkøya Ø,Occasional (3-5 years),Inner Fjord,False,58.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+11088,2,66.584,13.003933,Zone 4: Northern (66-69°N),Ørnstolen,Sporadic (0-2 years),Inner Fjord,False,54.6,Ranfjorden rivers,medium,Far (>50km),No Influence
+11112,3,67.107864,14.268983,Zone 4: Northern (66-69°N),Kjerkvika,Occasional (3-5 years),Inner Fjord,False,49.1,Saltdalselva,medium,Moderate (25-50km),No Influence
+11116,4,67.05762,14.025033,Zone 4: Northern (66-69°N),Langholmen,Occasional (3-5 years),Inner Fjord,False,60.0,Saltdalselva,medium,Far (>50km),No Influence
+11119,0,67.14978,13.991,Zone 4: Northern (66-69°N),Arnøysundet,Sporadic (0-2 years),Inner Fjord,False,61.4,Saltdalselva,medium,Far (>50km),No Influence
+11122,3,67.073,13.947583,Zone 4: Northern (66-69°N),Røssøya N,Occasional (3-5 years),Inner Fjord,False,63.2,Saltdalselva,medium,Far (>50km),No Influence
+11129,5,67.083916,13.85685,Zone 4: Northern (66-69°N),Nordfugløy,Occasional (3-5 years),Inner Fjord,False,67.1,Saltdalselva,medium,Far (>50km),No Influence
+11137,1,66.807884,13.56575,Zone 4: Northern (66-69°N),Vassdalsvik,Sporadic (0-2 years),Inner Fjord,False,59.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+11138,4,66.7146,13.561517,Zone 4: Northern (66-69°N),Skålsvika,Occasional (3-5 years),Inner Fjord,False,50.2,Ranfjorden rivers,medium,Far (>50km),No Influence
+11144,5,66.76923,13.170633,Zone 4: Northern (66-69°N),Svinvær,Occasional (3-5 years),Inner Fjord,False,64.0,Ranfjorden rivers,medium,Far (>50km),No Influence
+11162,0,68.43512,14.848083,Zone 4: Northern (66-69°N),Bullatholmen,Sporadic (0-2 years),Inner Fjord,False,150.7,Saltdalselva,medium,Far (>50km),No Influence
+11168,3,68.270386,14.769483,Zone 4: Northern (66-69°N),Oddværsætra,Occasional (3-5 years),Inner Fjord,False,133.2,Saltdalselva,medium,Far (>50km),No Influence
+11179,4,68.20737,14.446867,Zone 4: Northern (66-69°N),Alterosen,Occasional (3-5 years),Inner Fjord,False,130.0,Saltdalselva,medium,Far (>50km),No Influence
+11193,1,68.11055,13.74305,Zone 4: Northern (66-69°N),Gamskjæran,Sporadic (0-2 years),Inner Fjord,False,132.9,Saltdalselva,medium,Far (>50km),No Influence
+11198,3,68.09026,13.735617,Zone 4: Northern (66-69°N),Geiterøya I,Occasional (3-5 years),Inner Fjord,False,131.2,Saltdalselva,medium,Far (>50km),No Influence
+11201,5,68.088165,13.68965,Zone 4: Northern (66-69°N),Kolvikodden Ø,Occasional (3-5 years),Inner Fjord,False,132.1,Saltdalselva,medium,Far (>50km),No Influence
+11205,7,68.092636,13.634483,Zone 4: Northern (66-69°N),Oterholmen I,Recurrent (6-8 years),Inner Fjord,False,133.8,Saltdalselva,medium,Far (>50km),No Influence
+11225,4,68.91838,14.981183,Zone 4: Northern (66-69°N),Juvågen,Occasional (3-5 years),Inner Fjord,False,141.3,Målselva,major,Far (>50km),No Influence
+11238,6,68.80405,14.8663,Zone 4: Northern (66-69°N),Langøyhovden,Recurrent (6-8 years),Inner Fjord,False,147.6,Målselva,major,Far (>50km),No Influence
+11241,1,68.57475,14.850883,Zone 4: Northern (66-69°N),Bergvikodden,Sporadic (0-2 years),Inner Fjord,False,154.8,Målselva,major,Far (>50km),No Influence
+11248,3,68.81738,14.7101,Zone 4: Northern (66-69°N),Bonhammaren,Occasional (3-5 years),Inner Fjord,False,153.6,Målselva,major,Far (>50km),No Influence
+11251,4,68.78958,14.627,Zone 4: Northern (66-69°N),Hysjorda,Occasional (3-5 years),Inner Fjord,False,157.4,Målselva,major,Far (>50km),No Influence
+11252,2,68.78075,14.593733,Zone 4: Northern (66-69°N),Vindhammeren,Sporadic (0-2 years),Inner Fjord,False,158.9,Målselva,major,Far (>50km),No Influence
+11269,0,67.53132,15.443567,Zone 4: Northern (66-69°N),Jektvika I,Sporadic (0-2 years),Inner Fjord,False,48.1,Saltdalselva,medium,Moderate (25-50km),No Influence
+11272,0,67.13742,15.405083,Zone 4: Northern (66-69°N),Øksengård,Sporadic (0-2 years),Inner Fjord,False,4.2,Saltdalselva,medium,Very Close (<10km),Strong Influence
+11273,0,67.243034,15.398867,Zone 4: Northern (66-69°N),Skysselvika V,Sporadic (0-2 years),Inner Fjord,False,16.0,Saltdalselva,medium,Close (10-25km),Weak Influence
+11274,0,67.533035,15.386383,Zone 4: Northern (66-69°N),Bjørnsvik,Sporadic (0-2 years),Inner Fjord,False,48.3,Saltdalselva,medium,Moderate (25-50km),No Influence
+11290,2,68.19825,16.134117,Zone 4: Northern (66-69°N),Stormneset,Sporadic (0-2 years),Inner Fjord,False,126.4,Saltdalselva,medium,Far (>50km),No Influence
+11298,3,68.42792,15.86515,Zone 4: Northern (66-69°N),Storøya Nø,Occasional (3-5 years),Inner Fjord,False,124.4,Målselva,major,Far (>50km),No Influence
+11303,3,67.962,15.8058,Zone 4: Northern (66-69°N),Veggfjell,Occasional (3-5 years),Inner Fjord,False,97.7,Saltdalselva,medium,Far (>50km),No Influence
+11312,3,67.93948,15.503168,Zone 4: Northern (66-69°N),Svartfjell,Occasional (3-5 years),Inner Fjord,False,93.7,Saltdalselva,medium,Far (>50km),No Influence
+11315,4,67.72638,15.37989,Zone 4: Northern (66-69°N),Vinkfjorden,Occasional (3-5 years),Inner Fjord,False,69.9,Saltdalselva,medium,Far (>50km),No Influence
+11318,4,68.37497,15.317333,Zone 4: Northern (66-69°N),Hallvardøy,Occasional (3-5 years),Inner Fjord,False,142.2,Saltdalselva,medium,Far (>50km),No Influence
+11320,4,67.97493,15.310767,Zone 4: Northern (66-69°N),Oksøy,Occasional (3-5 years),Inner Fjord,False,97.7,Saltdalselva,medium,Far (>50km),No Influence
+11326,3,69.017,17.45725,Zone 5: Arctic (69-71°N),Skøyen,Occasional (3-5 years),Inner Fjord,False,41.7,Målselva,major,Moderate (25-50km),No Influence
+11330,3,68.72655,17.343483,Zone 4: Northern (66-69°N),Åmundsvika,Occasional (3-5 years),Inner Fjord,False,55.7,Målselva,major,Far (>50km),No Influence
+11332,4,68.78055,17.282284,Zone 4: Northern (66-69°N),Myrlandshaug,Occasional (3-5 years),Inner Fjord,False,54.7,Målselva,major,Far (>50km),No Influence
+11334,3,68.732086,17.226,Zone 4: Northern (66-69°N),Skjærvika,Occasional (3-5 years),Inner Fjord,False,59.4,Målselva,major,Far (>50km),No Influence
+11338,2,68.71948,17.138817,Zone 4: Northern (66-69°N),Ytre Stræte,Sporadic (0-2 years),Inner Fjord,False,63.1,Målselva,major,Far (>50km),No Influence
+11339,3,68.92402,17.149817,Zone 4: Northern (66-69°N),Ånderkleiva,Occasional (3-5 years),Inner Fjord,False,54.8,Målselva,major,Far (>50km),No Influence
+11340,9,68.892365,17.110233,Zone 4: Northern (66-69°N),Bjørnstein,Persistent (9-10 years),Inner Fjord,True,57.0,Målselva,major,Far (>50km),No Influence
+11350,2,69.25753,17.0887,Zone 5: Arctic (69-71°N),Lavika,Sporadic (0-2 years),Inner Fjord,False,63.1,Målselva,major,Far (>50km),No Influence
+11351,3,68.71678,17.022867,Zone 4: Northern (66-69°N),Trollvika,Occasional (3-5 years),Inner Fjord,False,67.3,Målselva,major,Far (>50km),No Influence
+11353,1,69.32917,17.060183,Zone 5: Arctic (69-71°N),Finnstein,Sporadic (0-2 years),Inner Fjord,False,67.9,Målselva,major,Far (>50km),No Influence
+11355,1,69.24668,17.025682,Zone 5: Arctic (69-71°N),Flesen,Sporadic (0-2 years),Inner Fjord,False,64.8,Målselva,major,Far (>50km),No Influence
+11357,4,69.14665,17.010267,Zone 5: Arctic (69-71°N),Skarvberget,Occasional (3-5 years),Inner Fjord,False,61.6,Målselva,major,Far (>50km),No Influence
+11363,5,68.7276,16.910467,Zone 4: Northern (66-69°N),Enkeltstein,Occasional (3-5 years),Inner Fjord,False,70.8,Målselva,major,Far (>50km),No Influence
+11364,3,69.1959,16.91595,Zone 5: Arctic (69-71°N),Årberg,Occasional (3-5 years),Inner Fjord,False,66.8,Målselva,major,Far (>50km),No Influence
+11365,4,69.050316,16.887266,Zone 5: Arctic (69-71°N),Gjervika,Occasional (3-5 years),Inner Fjord,False,64.7,Målselva,major,Far (>50km),No Influence
+11378,4,68.98167,16.534666,Zone 4: Northern (66-69°N),Øvergården,Occasional (3-5 years),Inner Fjord,False,78.7,Målselva,major,Far (>50km),No Influence
+11381,3,68.96087,16.530416,Zone 4: Northern (66-69°N),Dypingen,Occasional (3-5 years),Inner Fjord,False,79.0,Målselva,major,Far (>50km),No Influence
+11385,3,68.98158,16.48835,Zone 4: Northern (66-69°N),Vestnes,Occasional (3-5 years),Inner Fjord,False,80.5,Målselva,major,Far (>50km),No Influence
+11399,1,68.6565,15.90035,Zone 4: Northern (66-69°N),Bogelva,Sporadic (0-2 years),Inner Fjord,False,111.6,Målselva,major,Far (>50km),No Influence
+11405,1,68.630714,15.483317,Zone 4: Northern (66-69°N),Innerbrokløysa,Sporadic (0-2 years),Inner Fjord,False,128.5,Målselva,major,Far (>50km),No Influence
+11410,1,68.611664,15.381083,Zone 4: Northern (66-69°N),Litleøya,Sporadic (0-2 years),Inner Fjord,False,133.1,Målselva,major,Far (>50km),No Influence
+11413,2,68.88583,15.314567,Zone 4: Northern (66-69°N),Sandan Sø,Sporadic (0-2 years),Inner Fjord,False,128.4,Målselva,major,Far (>50km),No Influence
+11414,2,68.86898,15.30105,Zone 4: Northern (66-69°N),Toften,Sporadic (0-2 years),Inner Fjord,False,129.2,Målselva,major,Far (>50km),No Influence
+11433,2,69.500565,17.919018,Zone 5: Arctic (69-71°N),Finnvika Sør,Sporadic (0-2 years),Inner Fjord,False,60.4,Målselva,major,Far (>50km),No Influence
+11435,0,59.429016,5.096417,Zone 1: Southern (58-60°N),Bryggelandsholmane,Sporadic (0-2 years),Mid-Fjord,False,59.9,Etneelva,small,Far (>50km),No Influence
+11438,2,59.179733,5.472633,Zone 1: Southern (58-60°N),Lauplandsholmen,Sporadic (0-2 years),Mid-Fjord,False,58.8,Etneelva,small,Far (>50km),No Influence
+11486,2,59.7604,5.341183,Zone 1: Southern (58-60°N),Stokkavik,Sporadic (0-2 years),Mid-Fjord,False,46.3,Etneelva,small,Moderate (25-50km),No Influence
+11488,5,60.044117,5.303317,Zone 2: Western (60-63°N),Brattavika,Occasional (3-5 years),Mid-Fjord,False,66.7,Etneelva,small,Far (>50km),No Influence
+11492,5,59.839317,5.30495,Zone 1: Southern (58-60°N),Storevikholmen,Occasional (3-5 years),Mid-Fjord,False,52.1,Etneelva,small,Far (>50km),No Influence
+11511,5,59.626266,5.250717,Zone 1: Southern (58-60°N),Hattasteinen,Occasional (3-5 years),Mid-Fjord,False,48.0,Etneelva,small,Moderate (25-50km),No Influence
+11513,4,59.6365,5.247133,Zone 1: Southern (58-60°N),Andal,Occasional (3-5 years),Mid-Fjord,False,48.3,Etneelva,small,Moderate (25-50km),No Influence
+11525,1,60.08255,5.1457,Zone 2: Western (60-63°N),Stille S,Sporadic (0-2 years),Mid-Fjord,False,75.8,Etneelva,small,Far (>50km),No Influence
+11530,7,59.62327,5.159667,Zone 1: Southern (58-60°N),Gissøysundet S,Recurrent (6-8 years),Mid-Fjord,False,53.1,Etneelva,small,Far (>50km),No Influence
+11533,1,60.1749,5.0917,Zone 2: Western (60-63°N),Usholmsvika,Sporadic (0-2 years),Mid-Fjord,False,85.4,Etneelva,small,Far (>50km),No Influence
+11534,6,59.596783,5.161567,Zone 1: Southern (58-60°N),Klungsholmen,Recurrent (6-8 years),Mid-Fjord,False,53.0,Etneelva,small,Far (>50km),No Influence
+11543,6,60.020782,5.07965,Zone 2: Western (60-63°N),Buholmen Ø,Recurrent (6-8 years),Mid-Fjord,False,74.0,Etneelva,small,Far (>50km),No Influence
+11552,1,60.249683,4.978117,Zone 2: Western (60-63°N),Stuholmen,Sporadic (0-2 years),Mid-Fjord,False,87.5,Vosso,medium,Far (>50km),No Influence
+11559,4,59.65735,5.404167,Zone 1: Southern (58-60°N),Grimsholmen,Occasional (3-5 years),Mid-Fjord,False,39.8,Etneelva,small,Moderate (25-50km),No Influence
+11571,7,59.776585,5.321817,Zone 1: Southern (58-60°N),Holevik,Recurrent (6-8 years),Mid-Fjord,False,48.0,Etneelva,small,Moderate (25-50km),No Influence
+11574,3,59.671185,5.31215,Zone 1: Southern (58-60°N),Breivik S,Occasional (3-5 years),Mid-Fjord,False,45.1,Etneelva,small,Moderate (25-50km),No Influence
+11575,1,59.8616,5.288267,Zone 1: Southern (58-60°N),Koløy N,Sporadic (0-2 years),Mid-Fjord,False,54.2,Etneelva,small,Far (>50km),No Influence
+11605,2,59.90708,5.159833,Zone 1: Southern (58-60°N),Soløy Ø,Sporadic (0-2 years),Mid-Fjord,False,63.0,Etneelva,small,Far (>50km),No Influence
+11611,6,60.13907,5.112783,Zone 2: Western (60-63°N),Naveide,Recurrent (6-8 years),Mid-Fjord,False,81.6,Etneelva,small,Far (>50km),No Influence
+11633,8,59.7879,5.100533,Zone 1: Southern (58-60°N),Krossholmen,Recurrent (6-8 years),Mid-Fjord,False,60.1,Etneelva,small,Far (>50km),No Influence
+11640,4,60.332535,4.942783,Zone 2: Western (60-63°N),Skorpeosen,Occasional (3-5 years),Mid-Fjord,False,85.5,Vosso,medium,Far (>50km),No Influence
+11643,7,61.200916,5.262117,Zone 2: Western (60-63°N),Hatlem Ø,Recurrent (6-8 years),Mid-Fjord,False,47.7,Jølstra,small,Moderate (25-50km),No Influence
+11644,6,60.809,5.295667,Zone 2: Western (60-63°N),Duesund,Recurrent (6-8 years),Mid-Fjord,False,64.6,Vosso,medium,Far (>50km),No Influence
+11649,1,60.605118,5.1257,Zone 2: Western (60-63°N),Stolane,Sporadic (0-2 years),Mid-Fjord,False,69.8,Vosso,medium,Far (>50km),No Influence
+11651,2,60.434082,5.062733,Zone 2: Western (60-63°N),Ramsøy S,Sporadic (0-2 years),Mid-Fjord,False,75.7,Vosso,medium,Far (>50km),No Influence
+11652,5,60.5428,5.035883,Zone 2: Western (60-63°N),Kjeppevikholmen,Occasional (3-5 years),Mid-Fjord,False,75.1,Vosso,medium,Far (>50km),No Influence
+11657,7,60.861782,4.934883,Zone 2: Western (60-63°N),Gråvika,Recurrent (6-8 years),Mid-Fjord,False,85.1,Vosso,medium,Far (>50km),No Influence
+11665,4,60.752533,4.884617,Zone 2: Western (60-63°N),Jibbersholmane,Occasional (3-5 years),Mid-Fjord,False,84.6,Vosso,medium,Far (>50km),No Influence
+11667,5,60.53972,4.903867,Zone 2: Western (60-63°N),Gardskråneset,Occasional (3-5 years),Mid-Fjord,False,82.3,Vosso,medium,Far (>50km),No Influence
+11677,1,60.537384,5.3434,Zone 2: Western (60-63°N),Øyjordsvika,Sporadic (0-2 years),Mid-Fjord,False,58.4,Vosso,medium,Far (>50km),No Influence
+11687,6,60.578167,5.1907,Zone 2: Western (60-63°N),Ramsvik,Recurrent (6-8 years),Mid-Fjord,False,66.3,Vosso,medium,Far (>50km),No Influence
+11688,4,61.18885,5.090017,Zone 2: Western (60-63°N),Portevika,Occasional (3-5 years),Mid-Fjord,False,55.5,Jølstra,small,Far (>50km),No Influence
+11689,5,60.960182,5.106783,Zone 2: Western (60-63°N),Kjerringneset,Occasional (3-5 years),Mid-Fjord,False,73.7,Jølstra,small,Far (>50km),No Influence
+11690,5,60.595768,5.159717,Zone 2: Western (60-63°N),Grasholmen,Occasional (3-5 years),Mid-Fjord,False,68.0,Vosso,medium,Far (>50km),No Influence
+11700,1,60.8763,5.02805,Zone 2: Western (60-63°N),Storeneset,Sporadic (0-2 years),Mid-Fjord,False,80.9,Vosso,medium,Far (>50km),No Influence
+11714,7,61.0678,4.94225,Zone 2: Western (60-63°N),Kvernhusvika,Recurrent (6-8 years),Mid-Fjord,False,70.4,Jølstra,small,Far (>50km),No Influence
+11719,8,61.05835,4.921317,Zone 2: Western (60-63°N),Kråkenes,Recurrent (6-8 years),Mid-Fjord,False,72.0,Jølstra,small,Far (>50km),No Influence
+11721,0,61.098267,4.90485,Zone 2: Western (60-63°N),Bukkeholmen,Sporadic (0-2 years),Mid-Fjord,False,69.6,Jølstra,small,Far (>50km),No Influence
+11736,10,61.0559,4.866617,Zone 2: Western (60-63°N),Fureholmen S,Persistent (9-10 years),Mid-Fjord,True,74.3,Jølstra,small,Far (>50km),No Influence
+11737,2,60.944233,4.882817,Zone 2: Western (60-63°N),Skorpa,Sporadic (0-2 years),Mid-Fjord,False,82.6,Jølstra,small,Far (>50km),No Influence
+11738,7,60.68693,4.907933,Zone 2: Western (60-63°N),Otterholmen,Recurrent (6-8 years),Mid-Fjord,False,82.2,Vosso,medium,Far (>50km),No Influence
+11740,7,60.404766,4.93995,Zone 2: Western (60-63°N),Haverøy,Recurrent (6-8 years),Mid-Fjord,False,83.1,Vosso,medium,Far (>50km),No Influence
+11749,5,60.9452,4.84605,Zone 2: Western (60-63°N),Bårøy,Occasional (3-5 years),Mid-Fjord,False,83.8,Jølstra,small,Far (>50km),No Influence
+11754,3,60.727882,4.8641,Zone 2: Western (60-63°N),Bøøy,Occasional (3-5 years),Mid-Fjord,False,85.2,Vosso,medium,Far (>50km),No Influence
+11756,1,60.77465,4.8536,Zone 2: Western (60-63°N),Allersholmen,Sporadic (0-2 years),Mid-Fjord,False,86.7,Vosso,medium,Far (>50km),No Influence
+11758,4,60.592335,4.857833,Zone 2: Western (60-63°N),Sauøy Ø,Occasional (3-5 years),Mid-Fjord,False,84.5,Vosso,medium,Far (>50km),No Influence
+11763,7,60.5735,4.818517,Zone 2: Western (60-63°N),Knappen,Recurrent (6-8 years),Mid-Fjord,False,86.7,Vosso,medium,Far (>50km),No Influence
+11767,1,61.04395,4.724283,Zone 2: Western (60-63°N),Langøy,Sporadic (0-2 years),Mid-Fjord,False,81.0,Jølstra,small,Far (>50km),No Influence
+11770,4,60.6826,4.759533,Zone 2: Western (60-63°N),Rotøy,Occasional (3-5 years),Mid-Fjord,False,90.2,Vosso,medium,Far (>50km),No Influence
+11771,0,60.792717,4.693633,Zone 2: Western (60-63°N),Grisholmsundet,Sporadic (0-2 years),Mid-Fjord,False,95.6,Vosso,medium,Far (>50km),No Influence
+11772,1,60.789734,4.700983,Zone 2: Western (60-63°N),Moldøyosen,Sporadic (0-2 years),Mid-Fjord,False,95.2,Vosso,medium,Far (>50km),No Influence
+11775,7,61.467815,5.2203,Zone 2: Western (60-63°N),Kviteskjeret,Recurrent (6-8 years),Mid-Fjord,False,36.4,Jølstra,small,Moderate (25-50km),No Influence
+11776,3,61.557716,5.215333,Zone 2: Western (60-63°N),Sveholmane,Occasional (3-5 years),Mid-Fjord,False,37.0,Jølstra,small,Moderate (25-50km),No Influence
+11783,5,61.40663,5.080817,Zone 2: Western (60-63°N),Hella,Occasional (3-5 years),Mid-Fjord,False,44.9,Jølstra,small,Moderate (25-50km),No Influence
+11786,1,61.37475,4.965133,Zone 2: Western (60-63°N),Høyvika,Sporadic (0-2 years),Mid-Fjord,False,51.8,Jølstra,small,Far (>50km),No Influence
+11791,2,61.6319,4.863433,Zone 2: Western (60-63°N),Langeråa,Sporadic (0-2 years),Mid-Fjord,False,57.0,Jølstra,small,Far (>50km),No Influence
+11793,4,61.28417,4.727567,Zone 2: Western (60-63°N),Ånnaholmane,Occasional (3-5 years),Mid-Fjord,False,67.1,Jølstra,small,Far (>50km),No Influence
+11800,6,61.49072,5.169133,Zone 2: Western (60-63°N),Austneståa,Recurrent (6-8 years),Mid-Fjord,False,38.9,Jølstra,small,Moderate (25-50km),No Influence
+11803,5,61.316433,5.1563,Zone 2: Western (60-63°N),Kyravika,Occasional (3-5 years),Mid-Fjord,False,44.7,Jølstra,small,Moderate (25-50km),No Influence
+11807,4,61.505882,5.1143,Zone 2: Western (60-63°N),Marøytåa,Occasional (3-5 years),Mid-Fjord,False,41.8,Jølstra,small,Moderate (25-50km),No Influence
+11809,4,61.894566,5.0616,Zone 2: Western (60-63°N),Krabbestig,Occasional (3-5 years),Mid-Fjord,False,62.5,Jølstra,small,Far (>50km),No Influence
+11813,3,61.303116,5.101167,Zone 2: Western (60-63°N),Svinøy V,Occasional (3-5 years),Mid-Fjord,False,48.0,Jølstra,small,Moderate (25-50km),No Influence
+11814,1,61.30595,5.072183,Zone 2: Western (60-63°N),Furevika,Sporadic (0-2 years),Mid-Fjord,False,49.2,Jølstra,small,Moderate (25-50km),No Influence
+11833,6,61.57615,4.807333,Zone 2: Western (60-63°N),Flåtegrunnen,Recurrent (6-8 years),Mid-Fjord,False,58.7,Jølstra,small,Far (>50km),No Influence
+11854,3,58.225533,6.682717,Zone 1: Southern (58-60°N),Pinnen,Occasional (3-5 years),Mid-Fjord,False,78.8,Otra,major,Far (>50km),No Influence
+11856,4,58.223434,6.63615,Zone 1: Southern (58-60°N),Salvågvika,Occasional (3-5 years),Mid-Fjord,False,81.5,Otra,major,Far (>50km),No Influence
+11857,4,58.2074,6.63505,Zone 1: Southern (58-60°N),Buksevika,Occasional (3-5 years),Mid-Fjord,False,81.3,Otra,major,Far (>50km),No Influence
+11858,1,58.2316,6.628533,Zone 1: Southern (58-60°N),Støytland,Sporadic (0-2 years),Mid-Fjord,False,82.0,Otra,major,Far (>50km),No Influence
+11861,4,58.24148,6.5958,Zone 1: Southern (58-60°N),Skipningsdalen,Occasional (3-5 years),Mid-Fjord,False,84.1,Otra,major,Far (>50km),No Influence
+11864,5,58.24867,6.53675,Zone 1: Southern (58-60°N),Napp,Occasional (3-5 years),Mid-Fjord,False,87.7,Otra,major,Far (>50km),No Influence
+11888,1,59.31445,6.170917,Zone 1: Southern (58-60°N),Sandvik,Sporadic (0-2 years),Mid-Fjord,False,27.9,Suldalslågen,medium,Moderate (25-50km),Weak Influence
+11893,6,59.2699,6.14295,Zone 1: Southern (58-60°N),Fosså,Recurrent (6-8 years),Mid-Fjord,False,32.7,Suldalslågen,medium,Moderate (25-50km),No Influence
+11907,5,58.87195,6.123217,Zone 1: Southern (58-60°N),Gråtnes,Occasional (3-5 years),Mid-Fjord,False,73.2,Suldalslågen,medium,Far (>50km),No Influence
+11908,4,58.854916,6.124417,Zone 1: Southern (58-60°N),Oltesvik,Occasional (3-5 years),Mid-Fjord,False,75.0,Suldalslågen,medium,Far (>50km),No Influence
+11913,5,59.2933,6.0729,Zone 1: Southern (58-60°N),Kjeahola,Occasional (3-5 years),Mid-Fjord,False,33.5,Suldalslågen,medium,Moderate (25-50km),No Influence
+11920,4,59.4664,6.0262,Zone 1: Southern (58-60°N),Herøy,Occasional (3-5 years),Mid-Fjord,False,15.5,Etneelva,small,Close (10-25km),Weak Influence
+11922,0,58.910084,6.079483,Zone 1: Southern (58-60°N),Oanes Sjø,Sporadic (0-2 years),Mid-Fjord,False,70.0,Suldalslågen,medium,Far (>50km),No Influence
+11925,3,59.399384,6.020533,Zone 1: Southern (58-60°N),Vintraviki,Occasional (3-5 years),Mid-Fjord,False,22.8,Etneelva,small,Close (10-25km),Weak Influence
+11928,3,59.230766,6.004483,Zone 1: Southern (58-60°N),Langavika,Occasional (3-5 years),Mid-Fjord,False,41.2,Suldalslågen,medium,Moderate (25-50km),No Influence
+11930,7,59.45165,5.991917,Zone 1: Southern (58-60°N),Bjelkavik,Recurrent (6-8 years),Mid-Fjord,False,17.6,Etneelva,small,Close (10-25km),Weak Influence
+11939,5,59.2051,5.966083,Zone 1: Southern (58-60°N),Smal-Skar,Occasional (3-5 years),Mid-Fjord,False,44.6,Etneelva,small,Moderate (25-50km),No Influence
+11957,4,58.9542,5.943617,Zone 1: Southern (58-60°N),Indre Slettavikneset,Occasional (3-5 years),Mid-Fjord,False,68.6,Suldalslågen,medium,Far (>50km),No Influence
+11964,1,59.405468,5.8631,Zone 1: Southern (58-60°N),RingYes,Sporadic (0-2 years),Mid-Fjord,False,25.5,Etneelva,small,Moderate (25-50km),Weak Influence
+11966,3,59.49595,5.840517,Zone 1: Southern (58-60°N),Skigelstrand,Occasional (3-5 years),Mid-Fjord,False,18.7,Etneelva,small,Close (10-25km),Weak Influence
+11971,3,58.97685,5.867383,Zone 1: Southern (58-60°N),Store Teistholmen Ø,Occasional (3-5 years),Mid-Fjord,False,68.6,Suldalslågen,medium,Far (>50km),No Influence
+11972,6,59.116768,5.8545,Zone 1: Southern (58-60°N),Prestholmane,Recurrent (6-8 years),Mid-Fjord,False,55.6,Etneelva,small,Far (>50km),No Influence
+12003,5,59.06428,5.722617,Zone 1: Southern (58-60°N),Rossholmen N,Occasional (3-5 years),Mid-Fjord,False,63.4,Etneelva,small,Far (>50km),No Influence
+12007,7,59.08215,5.71055,Zone 1: Southern (58-60°N),Dale II,Recurrent (6-8 years),Mid-Fjord,False,61.8,Etneelva,small,Far (>50km),No Influence
+12011,5,59.290417,5.6765,Zone 1: Southern (58-60°N),Håøya Nø,Occasional (3-5 years),Mid-Fjord,False,42.0,Etneelva,small,Moderate (25-50km),No Influence
+12018,5,60.394608,6.275128,Zone 2: Western (60-63°N),Rossholmen,Occasional (3-5 years),Mid-Fjord,False,23.9,Vosso,medium,Close (10-25km),Weak Influence
+12019,5,60.248016,6.2014,Zone 2: Western (60-63°N),Saltkjelen II,Occasional (3-5 years),Mid-Fjord,False,40.7,Vosso,medium,Moderate (25-50km),No Influence
+12022,3,60.2564,6.16585,Zone 2: Western (60-63°N),Ljonesbjørgene,Occasional (3-5 years),Mid-Fjord,False,40.4,Vosso,medium,Moderate (25-50km),No Influence
+12033,1,60.191017,5.967617,Zone 2: Western (60-63°N),Dysvik,Sporadic (0-2 years),Mid-Fjord,False,51.4,Vosso,medium,Far (>50km),No Influence
+12035,2,60.107418,5.939833,Zone 2: Western (60-63°N),Hondskår,Sporadic (0-2 years),Mid-Fjord,False,57.2,Etneelva,small,Far (>50km),No Influence
+12036,2,60.12602,5.931333,Zone 2: Western (60-63°N),Hisdalen,Sporadic (0-2 years),Mid-Fjord,False,58.8,Vosso,medium,Far (>50km),No Influence
+12040,2,59.975735,5.909183,Zone 1: Southern (58-60°N),Brandaskuta,Sporadic (0-2 years),Mid-Fjord,False,43.2,Etneelva,small,Moderate (25-50km),No Influence
+12047,7,60.176,5.7244,Zone 2: Western (60-63°N),Mjåneset,Recurrent (6-8 years),Mid-Fjord,False,60.2,Vosso,medium,Far (>50km),No Influence
+12048,5,60.0711,5.736867,Zone 2: Western (60-63°N),Skiftesneset N,Occasional (3-5 years),Mid-Fjord,False,56.3,Etneelva,small,Far (>50km),No Influence
+12067,4,60.24995,5.571917,Zone 2: Western (60-63°N),Aldalen,Occasional (3-5 years),Mid-Fjord,False,60.0,Vosso,medium,Far (>50km),No Influence
+12071,7,59.55078,6.5131,Zone 1: Southern (58-60°N),Ommundsteigen,Recurrent (6-8 years),Mid-Fjord,False,5.7,Suldalslågen,medium,Very Close (<10km),Moderate Influence
+12074,4,60.32422,6.318983,Zone 2: Western (60-63°N),Svåsandneset,Occasional (3-5 years),Mid-Fjord,False,31.0,Vosso,medium,Moderate (25-50km),No Influence
+12077,7,60.10592,6.20525,Zone 2: Western (60-63°N),Tveitnesvik,Recurrent (6-8 years),Mid-Fjord,False,56.1,Vosso,medium,Far (>50km),No Influence
+12078,3,60.215935,6.156667,Zone 2: Western (60-63°N),Gangdal,Occasional (3-5 years),Mid-Fjord,False,44.8,Vosso,medium,Moderate (25-50km),No Influence
+12081,3,60.220966,6.139567,Zone 2: Western (60-63°N),Straumneset,Occasional (3-5 years),Mid-Fjord,False,44.6,Vosso,medium,Moderate (25-50km),No Influence
+12085,2,60.25865,6.055333,Zone 2: Western (60-63°N),Aplavika,Sporadic (0-2 years),Mid-Fjord,False,42.5,Vosso,medium,Moderate (25-50km),No Influence
+12086,5,59.7601,6.074183,Zone 1: Southern (58-60°N),Alsåkervik,Occasional (3-5 years),Mid-Fjord,False,17.9,Etneelva,small,Close (10-25km),Weak Influence
+12095,4,60.1216,5.908883,Zone 2: Western (60-63°N),Bergadalen,Occasional (3-5 years),Mid-Fjord,False,59.1,Etneelva,small,Far (>50km),No Influence
+12107,0,59.719917,5.857983,Zone 1: Southern (58-60°N),Molnes,Sporadic (0-2 years),Mid-Fjord,False,19.1,Etneelva,small,Close (10-25km),Weak Influence
+12108,6,59.951782,5.82475,Zone 1: Southern (58-60°N),Skorpo Nv,Recurrent (6-8 years),Mid-Fjord,False,42.1,Etneelva,small,Moderate (25-50km),No Influence
+12109,2,59.71443,5.8238,Zone 1: Southern (58-60°N),Ebne,Sporadic (0-2 years),Mid-Fjord,False,20.1,Etneelva,small,Close (10-25km),Weak Influence
+12114,2,59.5182,5.819867,Zone 1: Southern (58-60°N),Torsneset,Sporadic (0-2 years),Mid-Fjord,False,18.3,Etneelva,small,Close (10-25km),Weak Influence
+12115,1,59.517033,5.81015,Zone 1: Southern (58-60°N),Ilsvåg,Sporadic (0-2 years),Mid-Fjord,False,18.8,Etneelva,small,Close (10-25km),Weak Influence
+12126,1,59.759167,5.721467,Zone 1: Southern (58-60°N),Rossnes,Sporadic (0-2 years),Mid-Fjord,False,27.7,Etneelva,small,Moderate (25-50km),Weak Influence
+12127,5,59.69998,5.722917,Zone 1: Southern (58-60°N),Mælen,Occasional (3-5 years),Mid-Fjord,False,24.0,Etneelva,small,Close (10-25km),Weak Influence
+12128,1,59.71765,5.72205,Zone 1: Southern (58-60°N),Dyrnes,Sporadic (0-2 years),Mid-Fjord,False,25.0,Etneelva,small,Close (10-25km),Weak Influence
+12134,6,59.76077,5.686767,Zone 1: Southern (58-60°N),Maradalen,Recurrent (6-8 years),Mid-Fjord,False,29.4,Etneelva,small,Moderate (25-50km),Weak Influence
+12154,4,60.8675,5.55215,Zone 2: Western (60-63°N),Smørdalen,Occasional (3-5 years),Mid-Fjord,False,55.0,Vosso,medium,Far (>50km),No Influence
+12156,2,60.436584,5.564833,Zone 2: Western (60-63°N),Blom,Sporadic (0-2 years),Mid-Fjord,False,49.4,Vosso,medium,Moderate (25-50km),No Influence
+12178,8,61.0985,5.825533,Zone 2: Western (60-63°N),Bjønnspjotneset,Recurrent (6-8 years),Mid-Fjord,False,44.9,Jølstra,small,Moderate (25-50km),No Influence
+12179,8,61.0795,5.8099,Zone 2: Western (60-63°N),Oslandsurda,Recurrent (6-8 years),Mid-Fjord,False,47.1,Jølstra,small,Moderate (25-50km),No Influence
+12192,6,61.467117,5.3136,Zone 2: Western (60-63°N),Skorva,Recurrent (6-8 years),Mid-Fjord,False,31.5,Jølstra,small,Moderate (25-50km),No Influence
+12209,2,62.135117,6.021433,Zone 2: Western (60-63°N),Rønstad,Sporadic (0-2 years),Mid-Fjord,False,48.5,Stryneelva,small,Moderate (25-50km),No Influence
+12212,2,61.800816,5.982733,Zone 2: Western (60-63°N),Lindeneset,Sporadic (0-2 years),Mid-Fjord,False,33.8,Jølstra,small,Moderate (25-50km),No Influence
+12213,5,62.145317,5.94545,Zone 2: Western (60-63°N),Kvangardsnes,Occasional (3-5 years),Mid-Fjord,False,52.4,Stryneelva,small,Far (>50km),No Influence
+12215,3,61.785934,5.977233,Zone 2: Western (60-63°N),Kleppeneset,Occasional (3-5 years),Mid-Fjord,False,32.1,Jølstra,small,Moderate (25-50km),No Influence
+12224,6,61.876534,5.722767,Zone 2: Western (60-63°N),Isane,Recurrent (6-8 years),Mid-Fjord,False,43.0,Jølstra,small,Moderate (25-50km),No Influence
+12236,4,61.9076,5.493317,Zone 2: Western (60-63°N),Endal Aust,Occasional (3-5 years),Mid-Fjord,False,50.3,Jølstra,small,Far (>50km),No Influence
+12237,5,62.116566,5.420717,Zone 2: Western (60-63°N),Brudevika,Occasional (3-5 years),Mid-Fjord,False,73.2,Jølstra,small,Far (>50km),No Influence
+12239,3,62.83145,6.962733,Zone 2: Western (60-63°N),Kråknes,Occasional (3-5 years),Mid-Fjord,False,52.8,Rauma,medium,Far (>50km),No Influence
+12244,3,62.728065,6.939283,Zone 2: Western (60-63°N),Setevika,Occasional (3-5 years),Mid-Fjord,False,46.6,Rauma,medium,Moderate (25-50km),No Influence
+12260,5,62.66477,6.696767,Zone 2: Western (60-63°N),Juvika,Occasional (3-5 years),Mid-Fjord,False,48.2,Norddalselva,small,Moderate (25-50km),No Influence
+12265,7,62.4527,6.602483,Zone 2: Western (60-63°N),Gudmundset,Recurrent (6-8 years),Mid-Fjord,False,35.3,Norddalselva,small,Moderate (25-50km),No Influence
+12268,5,62.6431,6.54805,Zone 2: Western (60-63°N),Terningen,Occasional (3-5 years),Mid-Fjord,False,50.9,Norddalselva,small,Far (>50km),No Influence
+12281,3,62.6695,6.356833,Zone 2: Western (60-63°N),Rogne,Occasional (3-5 years),Mid-Fjord,False,59.9,Norddalselva,small,Far (>50km),No Influence
+12294,3,62.622368,6.224883,Zone 2: Western (60-63°N),Kjerstad,Occasional (3-5 years),Mid-Fjord,False,61.8,Norddalselva,small,Far (>50km),No Influence
+12298,4,62.55078,6.141583,Zone 2: Western (60-63°N),Røysa,Occasional (3-5 years),Mid-Fjord,False,61.4,Norddalselva,small,Far (>50km),No Influence
+12308,2,62.274883,6.00285,Zone 2: Western (60-63°N),Bjørndal,Sporadic (0-2 years),Mid-Fjord,False,59.0,Stryneelva,small,Far (>50km),No Influence
+12348,6,63.617184,8.994133,Zone 3: Mid (63-66°N),Kåholmen,Recurrent (6-8 years),Mid-Fjord,False,53.5,Orkla,major,Far (>50km),No Influence
+12357,5,63.80015,8.906083,Zone 3: Mid (63-66°N),Aursøysva,Occasional (3-5 years),Mid-Fjord,False,71.3,Orkla,major,Far (>50km),No Influence
+12361,7,63.72368,8.8631,Zone 3: Mid (63-66°N),Bukkholmen S,Recurrent (6-8 years),Mid-Fjord,False,66.4,Orkla,major,Far (>50km),No Influence
+12366,2,63.793617,8.854567,Zone 3: Mid (63-66°N),Raskjæret,Sporadic (0-2 years),Mid-Fjord,False,72.4,Orkla,major,Far (>50km),No Influence
+12370,2,63.676964,8.75625,Zone 3: Mid (63-66°N),Måøydraga,Sporadic (0-2 years),Mid-Fjord,False,66.9,Orkla,major,Far (>50km),No Influence
+12380,6,63.791096,8.60728,Zone 3: Mid (63-66°N),Langøya/Kvaløya,Recurrent (6-8 years),Mid-Fjord,False,80.7,Orkla,major,Far (>50km),No Influence
+12383,4,63.63162,8.574817,Zone 3: Mid (63-66°N),Omsøyholman,Occasional (3-5 years),Mid-Fjord,False,71.4,Orkla,major,Far (>50km),No Influence
+12385,1,63.80621,8.567418,Zone 3: Mid (63-66°N),Lyngvær Ø II,Sporadic (0-2 years),Mid-Fjord,False,83.3,Orkla,major,Far (>50km),No Influence
+12392,4,63.605633,8.48855,Zone 3: Mid (63-66°N),Lille Torsøy,Occasional (3-5 years),Mid-Fjord,False,73.8,Orkla,major,Far (>50km),No Influence
+12394,5,63.761868,8.445183,Zone 3: Mid (63-66°N),Ørnøya,Occasional (3-5 years),Mid-Fjord,False,84.8,Orkla,major,Far (>50km),No Influence
+12406,1,63.66453,8.884083,Zone 3: Mid (63-66°N),Rauodden,Sporadic (0-2 years),Mid-Fjord,False,61.1,Orkla,major,Far (>50km),No Influence
+12407,4,63.645,8.879483,Zone 3: Mid (63-66°N),Flesa,Occasional (3-5 years),Mid-Fjord,False,59.9,Orkla,major,Far (>50km),No Influence
+12435,6,63.879684,8.543767,Zone 3: Mid (63-66°N),Grøttingsøy,Recurrent (6-8 years),Mid-Fjord,False,89.8,Orkla,major,Far (>50km),No Influence
+12449,6,63.805035,8.4444,Zone 3: Mid (63-66°N),Tennøya,Recurrent (6-8 years),Mid-Fjord,False,87.8,Orkla,major,Far (>50km),No Influence
+12466,7,63.3582,8.237267,Zone 3: Mid (63-66°N),Brettingen,Recurrent (6-8 years),Mid-Fjord,False,56.2,Surna,medium,Far (>50km),No Influence
+12476,2,63.476818,8.060967,Zone 3: Mid (63-66°N),Kråka Nø,Sporadic (0-2 years),Mid-Fjord,False,71.9,Surna,medium,Far (>50km),No Influence
+12483,4,63.457733,7.8561,Zone 3: Mid (63-66°N),Hjortholman,Occasional (3-5 years),Mid-Fjord,False,75.3,Surna,medium,Far (>50km),No Influence
+12574,0,64.802666,10.9777,Zone 3: Mid (63-66°N),Edøya,Sporadic (0-2 years),Mid-Fjord,False,42.0,Namsen,major,Moderate (25-50km),No Influence
+12590,3,64.83839,10.665517,Zone 3: Mid (63-66°N),Helligholmen,Occasional (3-5 years),Mid-Fjord,False,54.9,Namsen,major,Far (>50km),No Influence
+12594,3,64.295364,10.397483,Zone 3: Mid (63-66°N),Breidvika,Occasional (3-5 years),Mid-Fjord,False,57.9,Namsen,major,Far (>50km),No Influence
+12599,7,64.2858,10.30905,Zone 3: Mid (63-66°N),Indre Skjervøy,Recurrent (6-8 years),Mid-Fjord,False,62.2,Namsen,major,Far (>50km),No Influence
+12624,4,64.56073,10.91895,Zone 3: Mid (63-66°N),Feøyvika,Occasional (3-5 years),Mid-Fjord,False,28.7,Namsen,major,Moderate (25-50km),Weak Influence
+12625,4,64.59268,10.908333,Zone 3: Mid (63-66°N),Bjørgan,Occasional (3-5 years),Mid-Fjord,False,30.2,Namsen,major,Moderate (25-50km),No Influence
+12633,3,64.5256,10.748133,Zone 3: Mid (63-66°N),Lyrnesset,Occasional (3-5 years),Mid-Fjord,False,36.2,Namsen,major,Moderate (25-50km),No Influence
+12652,7,65.00383,11.041483,Zone 3: Mid (63-66°N),Kråkøya,Recurrent (6-8 years),Mid-Fjord,False,60.3,Namsen,major,Far (>50km),No Influence
+12659,2,64.78657,11.727917,Zone 3: Mid (63-66°N),Digerneset,Sporadic (0-2 years),Mid-Fjord,False,33.8,Namsen,major,Moderate (25-50km),No Influence
+12660,3,64.79387,11.689533,Zone 3: Mid (63-66°N),Kipholmen,Occasional (3-5 years),Mid-Fjord,False,34.0,Namsen,major,Moderate (25-50km),No Influence
+12662,1,64.77713,11.639767,Zone 3: Mid (63-66°N),Ternskjæret II,Sporadic (0-2 years),Mid-Fjord,False,31.6,Namsen,major,Moderate (25-50km),No Influence
+12678,5,64.60697,11.355178,Zone 3: Mid (63-66°N),Vedøya,Occasional (3-5 years),Mid-Fjord,False,13.8,Namsen,major,Close (10-25km),Moderate Influence
+12695,1,64.90822,11.844233,Zone 3: Mid (63-66°N),Selvågen,Sporadic (0-2 years),Mid-Fjord,False,48.4,Namsen,major,Moderate (25-50km),No Influence
+12705,2,65.122986,11.674517,Zone 3: Mid (63-66°N),Skrosen,Sporadic (0-2 years),Mid-Fjord,False,69.9,Namsen,major,Far (>50km),No Influence
+12712,2,65.03989,11.4847,Zone 3: Mid (63-66°N),Slokkholmen Ø,Sporadic (0-2 years),Mid-Fjord,False,60.2,Namsen,major,Far (>50km),No Influence
+12714,4,64.9464,11.4623,Zone 3: Mid (63-66°N),Gjerdinga,Occasional (3-5 years),Mid-Fjord,False,49.8,Namsen,major,Moderate (25-50km),No Influence
+12723,1,65.01716,11.724247,Zone 3: Mid (63-66°N),Gullholmen,Sporadic (0-2 years),Mid-Fjord,False,58.6,Namsen,major,Far (>50km),No Influence
+12727,1,64.968025,11.665157,Zone 3: Mid (63-66°N),Kvitneset,Sporadic (0-2 years),Mid-Fjord,False,52.8,Namsen,major,Far (>50km),No Influence
+12730,0,64.94988,11.5733,Zone 3: Mid (63-66°N),Båfjorden,Sporadic (0-2 years),Mid-Fjord,False,50.3,Namsen,major,Far (>50km),No Influence
+12744,0,63.861828,9.856519,Zone 3: Mid (63-66°N),Leikvangbukta-Sjø,Sporadic (0-2 years),Mid-Fjord,False,62.7,Orkla,major,Far (>50km),No Influence
+12784,5,63.56,9.41005,Zone 3: Mid (63-66°N),Ringholmen,Occasional (3-5 years),Mid-Fjord,False,34.9,Orkla,major,Moderate (25-50km),No Influence
+12789,3,63.569485,9.467983,Zone 3: Mid (63-66°N),Gunnarøya,Occasional (3-5 years),Mid-Fjord,False,34.3,Orkla,major,Moderate (25-50km),No Influence
+12794,9,63.8012,9.607983,Zone 3: Mid (63-66°N),Rundklumpen,Persistent (9-10 years),Mid-Fjord,True,56.7,Orkla,major,Far (>50km),No Influence
+12832,2,58.1425,8.267517,Zone 1: Southern (58-60°N),Risholmen,Sporadic (0-2 years),Coastal/Outer,False,16.5,Otra,major,Close (10-25km),Weak Influence
+12839,5,62.28505,7.279633,Zone 2: Western (60-63°N),Vindsnes,Occasional (3-5 years),Mid-Fjord,False,4.5,Norddalselva,small,Very Close (<10km),Strong Influence
+12844,2,62.67393,7.31415,Zone 2: Western (60-63°N),Seterneset,Sporadic (0-2 years),Mid-Fjord,False,27.7,Rauma,medium,Moderate (25-50km),Weak Influence
+12855,4,62.960384,7.45015,Zone 2: Western (60-63°N),Kornstad,Occasional (3-5 years),Mid-Fjord,False,52.9,Rauma,medium,Far (>50km),No Influence
+12870,4,63.035984,7.678117,Zone 3: Mid (63-66°N),Leite,Occasional (3-5 years),Mid-Fjord,False,54.0,Surna,medium,Far (>50km),No Influence
+12871,3,63.093033,7.675883,Zone 3: Mid (63-66°N),Hogsnes,Occasional (3-5 years),Mid-Fjord,False,56.2,Surna,medium,Far (>50km),No Influence
+12872,4,63.055332,7.695317,Zone 3: Mid (63-66°N),Kattholmen,Occasional (3-5 years),Mid-Fjord,False,53.8,Surna,medium,Far (>50km),No Influence
+12879,4,63.03018,7.71615,Zone 3: Mid (63-66°N),Endresetbukta,Occasional (3-5 years),Mid-Fjord,False,52.0,Surna,medium,Far (>50km),No Influence
+12884,9,62.7369,7.8775,Zone 2: Western (60-63°N),Sandnesbukta,Persistent (9-10 years),Mid-Fjord,True,27.9,Rauma,medium,Moderate (25-50km),Weak Influence
+12885,1,63.075783,7.906067,Zone 3: Mid (63-66°N),Vikageilen,Sporadic (0-2 years),Mid-Fjord,False,44.8,Surna,medium,Moderate (25-50km),No Influence
+12890,2,62.9563,8.049217,Zone 2: Western (60-63°N),Høybuvika,Sporadic (0-2 years),Coastal/Outer,False,33.6,Surna,medium,Moderate (25-50km),No Influence
+12892,2,62.9066,8.11095,Zone 2: Western (60-63°N),Sjølsvik,Sporadic (0-2 years),Coastal/Outer,False,30.0,Surna,medium,Moderate (25-50km),Weak Influence
+12895,2,63.077686,8.143622,Zone 3: Mid (63-66°N),Halsbukta,Sporadic (0-2 years),Mid-Fjord,False,34.5,Surna,medium,Moderate (25-50km),No Influence
+12896,2,62.883934,8.149917,Zone 2: Western (60-63°N),Hegerbergtrøa,Sporadic (0-2 years),Coastal/Outer,False,27.2,Driva,medium,Moderate (25-50km),Weak Influence
+12897,9,62.863365,8.157583,Zone 2: Western (60-63°N),Honnhammarvika,Persistent (9-10 years),Coastal/Outer,True,25.2,Driva,medium,Moderate (25-50km),Weak Influence
+12904,6,62.7838,8.27825,Zone 2: Western (60-63°N),Merraberget,Recurrent (6-8 years),Coastal/Outer,False,14.7,Driva,medium,Close (10-25km),Moderate Influence
+12966,5,59.4752,5.978667,Zone 1: Southern (58-60°N),Lindvik,Occasional (3-5 years),Mid-Fjord,False,15.5,Etneelva,small,Close (10-25km),Weak Influence
+12973,3,60.31815,6.183183,Zone 2: Western (60-63°N),Saltkjelen I,Occasional (3-5 years),Mid-Fjord,False,33.6,Vosso,medium,Moderate (25-50km),No Influence
+12978,3,61.01525,5.004667,Zone 2: Western (60-63°N),Lyngholmen,Occasional (3-5 years),Mid-Fjord,False,72.3,Jølstra,small,Far (>50km),No Influence
+12980,9,61.175716,5.0051,Zone 2: Western (60-63°N),Klubben,Persistent (9-10 years),Mid-Fjord,True,60.0,Jølstra,small,Far (>50km),No Influence
+12982,4,61.31025,4.76905,Zone 2: Western (60-63°N),Aldeøyna,Occasional (3-5 years),Mid-Fjord,False,64.0,Jølstra,small,Far (>50km),No Influence
+12988,5,62.783417,6.92605,Zone 2: Western (60-63°N),Aukrasanden,Occasional (3-5 years),Mid-Fjord,False,50.7,Rauma,medium,Far (>50km),No Influence
+12993,7,63.732586,8.856378,Zone 3: Mid (63-66°N),Lamøya,Recurrent (6-8 years),Mid-Fjord,False,67.3,Orkla,major,Far (>50km),No Influence
+13000,3,65.52425,12.546567,Zone 3: Mid (63-66°N),Slåttvika,Occasional (3-5 years),Mid-Fjord,False,43.0,Vefsna,major,Moderate (25-50km),No Influence
+13006,3,67.14678,14.016533,Zone 4: Northern (66-69°N),Hestholmen N,Occasional (3-5 years),Inner Fjord,False,60.3,Saltdalselva,medium,Far (>50km),No Influence
+13020,4,60.358067,5.683283,Zone 2: Western (60-63°N),Nygård,Occasional (3-5 years),Mid-Fjord,False,47.7,Vosso,medium,Moderate (25-50km),No Influence
+13021,5,62.98325,7.328083,Zone 2: Western (60-63°N),Gaustad,Occasional (3-5 years),Mid-Fjord,False,57.1,Rauma,medium,Far (>50km),No Influence
+13032,6,59.609932,5.133867,Zone 1: Southern (58-60°N),Sølvøyane,Recurrent (6-8 years),Mid-Fjord,False,54.6,Etneelva,small,Far (>50km),No Influence
+13035,9,60.089085,5.267967,Zone 2: Western (60-63°N),Sauaneset I,Persistent (9-10 years),Mid-Fjord,True,71.7,Etneelva,small,Far (>50km),No Influence
+13036,6,60.071518,5.306383,Zone 2: Western (60-63°N),Gjengane,Recurrent (6-8 years),Mid-Fjord,False,68.8,Etneelva,small,Far (>50km),No Influence
+13047,1,68.227684,14.805217,Zone 4: Northern (66-69°N),Våtvika,Sporadic (0-2 years),Inner Fjord,False,128.3,Saltdalselva,medium,Far (>50km),No Influence
+13055,7,59.2983,5.713333,Zone 1: Southern (58-60°N),Langøyna Ø,Recurrent (6-8 years),Mid-Fjord,False,40.1,Etneelva,small,Moderate (25-50km),No Influence
+13057,2,60.17935,5.959917,Zone 2: Western (60-63°N),Teigland I,Sporadic (0-2 years),Mid-Fjord,False,52.8,Vosso,medium,Far (>50km),No Influence
+13058,2,60.207634,5.613817,Zone 2: Western (60-63°N),Fusavika,Sporadic (0-2 years),Mid-Fjord,False,61.6,Vosso,medium,Far (>50km),No Influence
+13084,0,63.892384,9.98315,Zone 3: Mid (63-66°N),Kjørem,Sporadic (0-2 years),Mid-Fjord,False,63.0,Stjørdalselva,medium,Far (>50km),No Influence
+13119,1,70.23785,23.4112,Zone 5: Arctic (69-71°N),Hesten,Sporadic (0-2 years),Mid-Fjord,False,38.5,Altaelva,major,Moderate (25-50km),No Influence
+13124,1,66.54477,13.4184,Zone 4: Northern (66-69°N),Storstrompan,Sporadic (0-2 years),Inner Fjord,False,37.7,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+13125,5,66.80855,13.242333,Zone 4: Northern (66-69°N),Storvika,Occasional (3-5 years),Inner Fjord,False,65.9,Ranfjorden rivers,medium,Far (>50km),No Influence
+13139,4,67.76622,15.580983,Zone 4: Northern (66-69°N),Martnesvika,Occasional (3-5 years),Inner Fjord,False,74.7,Saltdalselva,medium,Far (>50km),No Influence
+13143,0,70.81695,27.563717,Zone 5: Arctic (69-71°N),Bondejorda,Sporadic (0-2 years),Mid-Fjord,False,72.8,Tana,major,Far (>50km),No Influence
+13196,3,60.3046,4.96645,Zone 2: Western (60-63°N),Syltøy,Occasional (3-5 years),Mid-Fjord,False,85.5,Vosso,medium,Far (>50km),No Influence
+13205,6,61.068382,4.713817,Zone 2: Western (60-63°N),Brattholmen,Recurrent (6-8 years),Mid-Fjord,False,79.7,Jølstra,small,Far (>50km),No Influence
+13209,2,60.60407,5.076983,Zone 2: Western (60-63°N),Bognøy,Sporadic (0-2 years),Mid-Fjord,False,72.5,Vosso,medium,Far (>50km),No Influence
+13220,2,58.974716,5.93595,Zone 1: Southern (58-60°N),Kalhag,Sporadic (0-2 years),Mid-Fjord,False,66.8,Suldalslågen,medium,Far (>50km),No Influence
+13221,5,59.183483,5.94915,Zone 1: Southern (58-60°N),Nautvik,Occasional (3-5 years),Mid-Fjord,False,47.2,Suldalslågen,medium,Moderate (25-50km),No Influence
+13222,6,59.21137,5.9532,Zone 1: Southern (58-60°N),Kunes,Recurrent (6-8 years),Mid-Fjord,False,44.1,Etneelva,small,Moderate (25-50km),No Influence
+13225,1,59.31335,6.2672,Zone 1: Southern (58-60°N),Kilaneset,Sporadic (0-2 years),Mid-Fjord,False,24.6,Suldalslågen,medium,Close (10-25km),Weak Influence
+13226,3,59.299816,6.322467,Zone 1: Southern (58-60°N),Vindsvik,Occasional (3-5 years),Mid-Fjord,False,24.5,Suldalslågen,medium,Close (10-25km),Weak Influence
+13227,4,60.247116,5.63475,Zone 2: Western (60-63°N),Altaneset,Occasional (3-5 years),Mid-Fjord,False,57.6,Vosso,medium,Far (>50km),No Influence
+13229,4,60.230865,5.6733,Zone 2: Western (60-63°N),Djupedalen,Occasional (3-5 years),Mid-Fjord,False,57.4,Vosso,medium,Far (>50km),No Influence
+13231,1,59.77755,5.8298,Zone 1: Southern (58-60°N),Høylandssund,Sporadic (0-2 years),Mid-Fjord,False,25.0,Etneelva,small,Close (10-25km),Weak Influence
+13234,3,60.19877,6.09685,Zone 2: Western (60-63°N),Kysnes,Occasional (3-5 years),Mid-Fjord,False,47.7,Vosso,medium,Moderate (25-50km),No Influence
+13235,1,60.127934,6.149933,Zone 2: Western (60-63°N),Hessvik,Sporadic (0-2 years),Mid-Fjord,False,54.4,Vosso,medium,Far (>50km),No Influence
+13236,7,61.067883,5.563833,Zone 2: Western (60-63°N),Indre Oppedal,Recurrent (6-8 years),Mid-Fjord,False,51.4,Jølstra,small,Far (>50km),No Influence
+13241,4,61.909832,5.464267,Zone 2: Western (60-63°N),Endal Vest,Occasional (3-5 years),Mid-Fjord,False,51.2,Jølstra,small,Far (>50km),No Influence
+13242,7,61.895683,5.6331,Zone 2: Western (60-63°N),Juvika B,Recurrent (6-8 years),Mid-Fjord,False,46.3,Jølstra,small,Moderate (25-50km),No Influence
+13243,3,62.195667,5.904417,Zone 2: Western (60-63°N),Sandvika,Occasional (3-5 years),Mid-Fjord,False,57.3,Stryneelva,small,Far (>50km),No Influence
+13246,3,62.2097,5.7849,Zone 2: Western (60-63°N),Voldnes,Occasional (3-5 years),Mid-Fjord,False,63.3,Stryneelva,small,Far (>50km),No Influence
+13249,3,62.33795,6.38165,Zone 2: Western (60-63°N),Sagelva,Occasional (3-5 years),Mid-Fjord,False,42.6,Norddalselva,small,Moderate (25-50km),No Influence
+13254,5,63.0603,7.594283,Zone 3: Mid (63-66°N),Aukan,Occasional (3-5 years),Mid-Fjord,False,58.8,Surna,medium,Far (>50km),No Influence
+13271,2,64.43353,10.678883,Zone 3: Mid (63-66°N),Almurden,Sporadic (0-2 years),Mid-Fjord,False,40.2,Namsen,major,Moderate (25-50km),No Influence
+13284,9,66.11311,12.487683,Zone 4: Northern (66-69°N),Bollhaugen,Persistent (9-10 years),Inner Fjord,True,47.6,Vefsna,major,Moderate (25-50km),No Influence
+13290,5,67.06885,14.076133,Zone 4: Northern (66-69°N),Stigvika,Occasional (3-5 years),Inner Fjord,False,57.7,Saltdalselva,medium,Far (>50km),No Influence
+13291,5,68.00382,13.182267,Zone 4: Northern (66-69°N),Soløya,Occasional (3-5 years),Inner Fjord,False,138.2,Saltdalselva,medium,Far (>50km),No Influence
+13293,5,68.30537,14.949933,Zone 4: Northern (66-69°N),Molgavlen,Occasional (3-5 years),Inner Fjord,False,135.8,Saltdalselva,medium,Far (>50km),No Influence
+13296,2,68.582535,14.941883,Zone 4: Northern (66-69°N),Sandnes Ø,Sporadic (0-2 years),Inner Fjord,False,151.0,Målselva,major,Far (>50km),No Influence
+13297,1,67.448814,15.487967,Zone 4: Northern (66-69°N),Kines,Sporadic (0-2 years),Inner Fjord,False,39.1,Saltdalselva,medium,Moderate (25-50km),No Influence
+13305,5,69.36843,17.0281,Zone 5: Arctic (69-71°N),Barbogen,Occasional (3-5 years),Inner Fjord,False,71.4,Målselva,major,Far (>50km),No Influence
+13306,5,68.69227,17.052233,Zone 4: Northern (66-69°N),Ystevika,Occasional (3-5 years),Inner Fjord,False,67.7,Målselva,major,Far (>50km),No Influence
+13316,2,70.14951,22.416567,Zone 5: Arctic (69-71°N),Storvik,Sporadic (0-2 years),Mid-Fjord,False,40.8,Altaelva,major,Moderate (25-50km),No Influence
+13317,3,70.30338,22.937983,Zone 5: Arctic (69-71°N),Lille Kvalfjord,Occasional (3-5 years),Mid-Fjord,False,46.1,Altaelva,major,Moderate (25-50km),No Influence
+13337,0,70.81175,27.500334,Zone 5: Arctic (69-71°N),Hovdenakken,Sporadic (0-2 years),Mid-Fjord,False,73.1,Tana,major,Far (>50km),No Influence
+13339,4,59.74668,5.3424,Zone 1: Southern (58-60°N),Klungervikneset,Occasional (3-5 years),Mid-Fjord,False,45.7,Etneelva,small,Moderate (25-50km),No Influence
+13340,6,60.982216,4.875017,Zone 2: Western (60-63°N),Leiholmane,Recurrent (6-8 years),Mid-Fjord,False,79.7,Jølstra,small,Far (>50km),No Influence
+13341,1,61.819984,4.940183,Zone 2: Western (60-63°N),Bakjestranda,Sporadic (0-2 years),Mid-Fjord,False,62.1,Jølstra,small,Far (>50km),No Influence
+13345,2,60.23545,5.638267,Zone 2: Western (60-63°N),Oterstegdalen,Sporadic (0-2 years),Mid-Fjord,False,58.4,Vosso,medium,Far (>50km),No Influence
+13412,6,68.82935,14.776017,Zone 4: Northern (66-69°N),Dypeidet,Recurrent (6-8 years),Inner Fjord,False,150.8,Målselva,major,Far (>50km),No Influence
+13503,4,63.6106,9.050733,Zone 3: Mid (63-66°N),Heggvika,Occasional (3-5 years),Mid-Fjord,False,50.9,Orkla,major,Far (>50km),No Influence
+13518,1,69.695335,18.170267,Zone 5: Arctic (69-71°N),Angstauren,Sporadic (0-2 years),Mid-Fjord,False,78.6,Målselva,major,Far (>50km),No Influence
+13522,0,66.29887,12.813833,Zone 4: Northern (66-69°N),Valvika,Sporadic (0-2 years),Inner Fjord,False,53.2,Ranfjorden rivers,medium,Far (>50km),No Influence
+13527,3,68.33945,15.0358,Zone 4: Northern (66-69°N),Finnkjerka,Occasional (3-5 years),Inner Fjord,False,139.1,Saltdalselva,medium,Far (>50km),No Influence
+13530,4,68.903534,15.037333,Zone 4: Northern (66-69°N),Sjåneset,Occasional (3-5 years),Inner Fjord,False,139.2,Målselva,major,Far (>50km),No Influence
+13531,3,69.09098,17.514784,Zone 5: Arctic (69-71°N),Skogshavn,Occasional (3-5 years),Inner Fjord,False,40.6,Målselva,major,Moderate (25-50km),No Influence
+13541,4,60.076267,5.466533,Zone 2: Western (60-63°N),Midtflua,Occasional (3-5 years),Mid-Fjord,False,63.9,Etneelva,small,Far (>50km),No Influence
+13549,4,61.819534,5.247667,Zone 2: Western (60-63°N),Løypingneset,Occasional (3-5 years),Mid-Fjord,False,49.6,Jølstra,small,Moderate (25-50km),No Influence
+13550,7,61.8461,5.294933,Zone 2: Western (60-63°N),Marøy Nø,Recurrent (6-8 years),Mid-Fjord,False,50.1,Jølstra,small,Far (>50km),No Influence
+13554,6,62.296516,7.123917,Zone 2: Western (60-63°N),Overåneset,Recurrent (6-8 years),Mid-Fjord,False,4.0,Norddalselva,small,Very Close (<10km),Strong Influence
+13562,2,59.87835,5.526917,Zone 1: Southern (58-60°N),Uføro,Sporadic (0-2 years),Mid-Fjord,False,44.7,Etneelva,small,Moderate (25-50km),No Influence
+13563,2,60.525784,5.357133,Zone 2: Western (60-63°N),Angelskår,Sporadic (0-2 years),Mid-Fjord,False,57.8,Vosso,medium,Far (>50km),No Influence
+13566,8,60.653732,5.4192,Zone 2: Western (60-63°N),Storskrebukti,Recurrent (6-8 years),Mid-Fjord,False,54.0,Vosso,medium,Far (>50km),No Influence
+13567,7,60.885334,5.4616,Zone 2: Western (60-63°N),"Knappen,Solheim",Recurrent (6-8 years),Mid-Fjord,False,60.3,Vosso,medium,Far (>50km),No Influence
+13568,3,61.47627,5.285,Zone 2: Western (60-63°N),Storevik,Occasional (3-5 years),Mid-Fjord,False,32.9,Jølstra,small,Moderate (25-50km),No Influence
+13570,3,63.598217,9.116583,Zone 3: Mid (63-66°N),Ulværholmen,Occasional (3-5 years),Mid-Fjord,False,47.6,Orkla,major,Moderate (25-50km),No Influence
+13572,2,63.53398,9.1469,Zone 3: Mid (63-66°N),Badstuvika,Sporadic (0-2 years),Mid-Fjord,False,41.8,Orkla,major,Moderate (25-50km),No Influence
+13573,7,63.38117,9.164317,Zone 3: Mid (63-66°N),Kistvika,Recurrent (6-8 years),Mid-Fjord,False,33.1,Orkla,major,Moderate (25-50km),No Influence
+13581,1,64.754814,11.246033,Zone 3: Mid (63-66°N),Ramstadholmen,Sporadic (0-2 years),Mid-Fjord,False,30.9,Namsen,major,Moderate (25-50km),No Influence
+13592,5,67.95877,15.171667,Zone 4: Northern (66-69°N),Hammer,Occasional (3-5 years),Inner Fjord,False,96.3,Saltdalselva,medium,Far (>50km),No Influence
+13593,2,68.325264,15.2023,Zone 4: Northern (66-69°N),Storfjell,Sporadic (0-2 years),Inner Fjord,False,136.9,Saltdalselva,medium,Far (>50km),No Influence
+13594,2,68.704384,15.014804,Zone 4: Northern (66-69°N),Trolløya Sv,Sporadic (0-2 years),Inner Fjord,False,144.2,Målselva,major,Far (>50km),No Influence
+13595,0,68.71447,15.034833,Zone 4: Northern (66-69°N),Kuneset,Sporadic (0-2 years),Inner Fjord,False,143.1,Målselva,major,Far (>50km),No Influence
+13597,1,68.85463,17.520884,Zone 4: Northern (66-69°N),Salangslia,Sporadic (0-2 years),Inner Fjord,False,42.5,Målselva,major,Moderate (25-50km),No Influence
+13612,6,62.009968,5.331917,Zone 2: Western (60-63°N),Rundereimstranda,Recurrent (6-8 years),Mid-Fjord,False,64.3,Jølstra,small,Far (>50km),No Influence
+13629,3,59.285484,5.631317,Zone 1: Southern (58-60°N),Munkholmen,Occasional (3-5 years),Mid-Fjord,False,44.0,Etneelva,small,Moderate (25-50km),No Influence
+13643,6,61.03512,5.33105,Zone 2: Western (60-63°N),HYesrtholm,Recurrent (6-8 years),Mid-Fjord,False,60.1,Jølstra,small,Far (>50km),No Influence
+13644,3,60.5526,5.3853,Zone 2: Western (60-63°N),Tepstad,Occasional (3-5 years),Mid-Fjord,False,55.9,Vosso,medium,Far (>50km),No Influence
+13669,4,62.6461,7.101183,Zone 2: Western (60-63°N),Furneset,Occasional (3-5 years),Mid-Fjord,False,34.8,Rauma,medium,Moderate (25-50km),No Influence
+13677,7,63.33155,9.1231,Zone 3: Mid (63-66°N),Trøan/Bjørklibukta,Recurrent (6-8 years),Mid-Fjord,False,34.1,Orkla,major,Moderate (25-50km),No Influence
+13691,0,69.9099,29.680717,Zone 5: Arctic (69-71°N),Oterfjorden,Sporadic (0-2 years),Mid-Fjord,False,65.0,Tana,major,Far (>50km),No Influence
+13699,5,60.742134,5.3432,Zone 2: Western (60-63°N),Leirvika,Occasional (3-5 years),Mid-Fjord,False,59.9,Vosso,medium,Far (>50km),No Influence
+13704,6,60.7125,5.403633,Zone 2: Western (60-63°N),Vikane,Recurrent (6-8 years),Mid-Fjord,False,55.9,Vosso,medium,Far (>50km),No Influence
+13706,1,61.580868,5.243233,Zone 2: Western (60-63°N),Seljeset,Sporadic (0-2 years),Mid-Fjord,False,36.1,Jølstra,small,Moderate (25-50km),No Influence
+13708,4,61.565266,5.31025,Zone 2: Western (60-63°N),Steinvik,Occasional (3-5 years),Mid-Fjord,False,32.2,Jølstra,small,Moderate (25-50km),No Influence
+13711,4,61.478584,5.375967,Zone 2: Western (60-63°N),Dyvika,Occasional (3-5 years),Mid-Fjord,False,28.0,Jølstra,small,Moderate (25-50km),Weak Influence
+13727,2,63.655285,9.156795,Zone 3: Mid (63-66°N),Svellungen,Sporadic (0-2 years),Mid-Fjord,False,51.0,Orkla,major,Far (>50km),No Influence
+13748,5,64.59852,11.266067,Zone 3: Mid (63-66°N),Saltkjelvika,Occasional (3-5 years),Mid-Fjord,False,15.7,Namsen,major,Close (10-25km),Weak Influence
+13764,4,66.41282,12.956867,Zone 4: Northern (66-69°N),Kokvika,Occasional (3-5 years),Inner Fjord,False,48.4,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+13765,5,66.46165,12.958033,Zone 4: Northern (66-69°N),Breiviken,Occasional (3-5 years),Inner Fjord,False,50.0,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+13782,5,68.491585,15.2339,Zone 4: Northern (66-69°N),Helgeneshamn,Occasional (3-5 years),Inner Fjord,False,143.8,Målselva,major,Far (>50km),No Influence
+13783,0,68.89767,15.0063,Zone 4: Northern (66-69°N),Jurneset,Sporadic (0-2 years),Inner Fjord,False,140.6,Målselva,major,Far (>50km),No Influence
+13784,3,68.93615,15.022367,Zone 4: Northern (66-69°N),Høydalsvika,Occasional (3-5 years),Inner Fjord,False,139.5,Målselva,major,Far (>50km),No Influence
+13786,1,68.71255,15.11255,Zone 4: Northern (66-69°N),Pollneset,Sporadic (0-2 years),Inner Fjord,False,140.1,Målselva,major,Far (>50km),No Influence
+13792,0,69.4776,17.564167,Zone 5: Arctic (69-71°N),Kvalvika I,Sporadic (0-2 years),Inner Fjord,False,64.9,Målselva,major,Far (>50km),No Influence
+13804,0,69.78657,18.650667,Zone 5: Arctic (69-71°N),Rogndalen,Sporadic (0-2 years),Mid-Fjord,False,87.9,Målselva,major,Far (>50km),No Influence
+13813,0,70.629166,27.123318,Zone 5: Arctic (69-71°N),Kvitelv,Sporadic (0-2 years),Mid-Fjord,False,62.6,Tana,major,Far (>50km),No Influence
+13831,1,60.518333,5.3811,Zone 2: Western (60-63°N),Kvamme,Sporadic (0-2 years),Mid-Fjord,False,56.6,Vosso,medium,Far (>50km),No Influence
+13837,7,61.902954,5.207967,Zone 2: Western (60-63°N),Verpeide,Recurrent (6-8 years),Mid-Fjord,False,57.9,Jølstra,small,Far (>50km),No Influence
+13838,3,61.356335,5.284667,Zone 2: Western (60-63°N),Hegnes,Occasional (3-5 years),Mid-Fjord,False,36.5,Jølstra,small,Moderate (25-50km),No Influence
+13841,7,61.910183,5.29085,Zone 2: Western (60-63°N),Brunsvik,Recurrent (6-8 years),Mid-Fjord,False,55.9,Jølstra,small,Far (>50km),No Influence
+13845,5,62.141216,5.32675,Zone 2: Western (60-63°N),Beitveit,Occasional (3-5 years),Mid-Fjord,False,77.6,Jølstra,small,Far (>50km),No Influence
+13852,5,62.6275,7.192817,Zone 2: Western (60-63°N),Gjermundnes,Occasional (3-5 years),Mid-Fjord,False,29.7,Rauma,medium,Moderate (25-50km),Weak Influence
+13865,1,69.76477,30.41225,Zone 5: Arctic (69-71°N),Spergittklubben,Sporadic (0-2 years),Mid-Fjord,False,97.5,Tana,major,Far (>50km),No Influence
+13867,4,59.65798,5.533667,Zone 1: Southern (58-60°N),Raunevågen,Occasional (3-5 years),Mid-Fjord,False,32.6,Etneelva,small,Moderate (25-50km),No Influence
+13870,3,60.563435,5.353017,Zone 2: Western (60-63°N),Eikebærånæ,Occasional (3-5 years),Mid-Fjord,False,57.5,Vosso,medium,Far (>50km),No Influence
+13872,3,60.86295,5.3474,Zone 2: Western (60-63°N),Bergsvik,Occasional (3-5 years),Mid-Fjord,False,64.5,Vosso,medium,Far (>50km),No Influence
+13873,3,60.863083,5.364017,Zone 2: Western (60-63°N),Barlingebotten,Occasional (3-5 years),Mid-Fjord,False,63.7,Vosso,medium,Far (>50km),No Influence
+13874,2,60.5821,5.4001,Zone 2: Western (60-63°N),Fyllingsnes S,Sporadic (0-2 years),Mid-Fjord,False,54.8,Vosso,medium,Far (>50km),No Influence
+13876,0,60.479782,5.443633,Zone 2: Western (60-63°N),Litletveitholane,Sporadic (0-2 years),Mid-Fjord,False,54.2,Vosso,medium,Far (>50km),No Influence
+13886,3,63.998116,9.129283,Zone 3: Mid (63-66°N),Hallarøy V,Occasional (3-5 years),Mid-Fjord,False,84.6,Orkla,major,Far (>50km),No Influence
+13887,4,63.6177,9.130033,Zone 3: Mid (63-66°N),Røytholmen Ø,Occasional (3-5 years),Mid-Fjord,False,48.7,Orkla,major,Moderate (25-50km),No Influence
+13888,1,63.6617,9.136383,Zone 3: Mid (63-66°N),Osholmen,Sporadic (0-2 years),Mid-Fjord,False,52.1,Orkla,major,Far (>50km),No Influence
+13931,4,67.6562,15.118567,Zone 4: Northern (66-69°N),HYesrtøy Ø,Occasional (3-5 years),Inner Fjord,False,63.2,Saltdalselva,medium,Far (>50km),No Influence
+13936,2,68.47335,15.222633,Zone 4: Northern (66-69°N),Sørvika,Sporadic (0-2 years),Inner Fjord,False,145.1,Målselva,major,Far (>50km),No Influence
+13949,0,69.97912,21.027184,Zone 5: Arctic (69-71°N),Hagebergan,Sporadic (0-2 years),Mid-Fjord,False,83.7,Altaelva,major,Far (>50km),No Influence
+13959,1,64.81578,11.2208,Zone 3: Mid (63-66°N),Oterholmen,Sporadic (0-2 years),Mid-Fjord,False,37.6,Namsen,major,Moderate (25-50km),No Influence
+13965,1,60.68835,5.4232,Zone 2: Western (60-63°N),Nesbø/Gjeldsvik,Sporadic (0-2 years),Mid-Fjord,False,54.3,Vosso,medium,Far (>50km),No Influence
+13996,5,70.57534,23.03444,Zone 5: Arctic (69-71°N),Hamnefjord,Occasional (3-5 years),Mid-Fjord,False,75.6,Altaelva,major,Far (>50km),No Influence
+14016,1,58.140266,8.2553,Zone 1: Southern (58-60°N),Auenes,Sporadic (0-2 years),Coastal/Outer,False,15.7,Otra,major,Close (10-25km),Weak Influence
+14018,2,60.63325,4.997617,Zone 2: Western (60-63°N),Toska S,Sporadic (0-2 years),Mid-Fjord,False,76.9,Vosso,medium,Far (>50km),No Influence
+14019,2,65.13924,12.31975,Zone 3: Mid (63-66°N),Øksningen,Sporadic (0-2 years),Mid-Fjord,False,81.2,Namsen,major,Far (>50km),No Influence
+14035,4,61.041134,4.79225,Zone 2: Western (60-63°N),Guleskjeret,Occasional (3-5 years),Mid-Fjord,False,78.4,Jølstra,small,Far (>50km),No Influence
+14039,7,60.02005,5.169533,Zone 2: Western (60-63°N),Litle Lunnøy,Recurrent (6-8 years),Mid-Fjord,False,70.1,Etneelva,small,Far (>50km),No Influence
+14040,8,60.081383,5.124117,Zone 2: Western (60-63°N),Krigsholmen,Recurrent (6-8 years),Mid-Fjord,False,76.6,Etneelva,small,Far (>50km),No Influence
+14041,4,63.65835,8.694417,Zone 3: Mid (63-66°N),Edøya,Occasional (3-5 years),Mid-Fjord,False,68.1,Orkla,major,Far (>50km),No Influence
+14042,5,63.870968,8.679017,Zone 3: Mid (63-66°N),Kattholmen,Occasional (3-5 years),Mid-Fjord,False,84.6,Orkla,major,Far (>50km),No Influence
+14043,2,62.641582,7.448583,Zone 2: Western (60-63°N),Lybergsvika,Sporadic (0-2 years),Mid-Fjord,False,20.4,Rauma,medium,Close (10-25km),Weak Influence
+14076,1,65.4933,12.169217,Zone 3: Mid (63-66°N),Lismåsøy,Sporadic (0-2 years),Mid-Fjord,False,58.5,Vefsna,major,Far (>50km),No Influence
+14081,8,61.110085,5.340483,Zone 2: Western (60-63°N),Tveit,Recurrent (6-8 years),Mid-Fjord,False,52.8,Jølstra,small,Far (>50km),No Influence
+14086,2,59.728535,5.153067,Zone 1: Southern (58-60°N),Lelandsholmen,Sporadic (0-2 years),Mid-Fjord,False,55.3,Etneelva,small,Far (>50km),No Influence
+14136,2,59.061565,5.445683,Zone 1: Southern (58-60°N),Hestholmen Ø,Sporadic (0-2 years),Mid-Fjord,False,70.6,Etneelva,small,Far (>50km),No Influence
+14245,4,65.11265,11.792867,Zone 3: Mid (63-66°N),Yeskobsteinsvika,Occasional (3-5 years),Mid-Fjord,False,69.7,Namsen,major,Far (>50km),No Influence
+14435,8,60.565216,4.878433,Zone 2: Western (60-63°N),Ljøsøy N,Recurrent (6-8 years),Mid-Fjord,False,83.5,Vosso,medium,Far (>50km),No Influence
+14495,7,59.28695,5.812483,Zone 1: Southern (58-60°N),Nordeimsøyna,Recurrent (6-8 years),Mid-Fjord,False,38.5,Etneelva,small,Moderate (25-50km),No Influence
+14676,3,66.15808,12.38975,Zone 4: Northern (66-69°N),Slapøya N,Occasional (3-5 years),Inner Fjord,False,54.3,Vefsna,major,Far (>50km),No Influence
+14678,4,68.6599,14.67875,Zone 4: Northern (66-69°N),Uvåg,Occasional (3-5 years),Inner Fjord,False,158.6,Målselva,major,Far (>50km),No Influence
+14679,4,68.66825,14.80025,Zone 4: Northern (66-69°N),Hellfjorden,Occasional (3-5 years),Inner Fjord,False,153.6,Målselva,major,Far (>50km),No Influence
+14795,2,68.3779,15.767883,Zone 4: Northern (66-69°N),Rinøyvåg Ø,Sporadic (0-2 years),Inner Fjord,False,130.8,Målselva,major,Far (>50km),No Influence
+14796,1,68.525635,16.123667,Zone 4: Northern (66-69°N),Fiskefjorden,Sporadic (0-2 years),Inner Fjord,False,109.7,Målselva,major,Far (>50km),No Influence
+14799,6,60.058735,5.453,Zone 2: Western (60-63°N),Djupestallen,Recurrent (6-8 years),Mid-Fjord,False,62.7,Etneelva,small,Far (>50km),No Influence
+15118,2,66.39397,12.799817,Zone 4: Northern (66-69°N),Kalvøya,Sporadic (0-2 years),Inner Fjord,False,54.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+15196,3,59.8451,5.261367,Zone 1: Southern (58-60°N),Aga Ø,Occasional (3-5 years),Mid-Fjord,False,54.5,Etneelva,small,Far (>50km),No Influence
+15236,0,69.78865,19.161016,Zone 5: Arctic (69-71°N),Skulgambukt,Sporadic (0-2 years),Mid-Fjord,False,91.7,Målselva,major,Far (>50km),No Influence
+15375,2,63.98405,9.057067,Zone 3: Mid (63-66°N),Sørøyflesa,Sporadic (0-2 years),Mid-Fjord,False,84.7,Orkla,major,Far (>50km),No Influence
+15403,6,61.103283,4.712233,Zone 2: Western (60-63°N),Olderøy,Recurrent (6-8 years),Mid-Fjord,False,77.5,Jølstra,small,Far (>50km),No Influence
+15455,1,67.17802,15.409383,Zone 4: Northern (66-69°N),Daumannsvika,Sporadic (0-2 years),Inner Fjord,False,8.7,Saltdalselva,medium,Very Close (<10km),Moderate Influence
+15456,4,61.105118,5.853883,Zone 2: Western (60-63°N),Eidesberget,Occasional (3-5 years),Mid-Fjord,False,44.1,Jølstra,small,Moderate (25-50km),No Influence
+15460,3,70.895584,25.563334,Zone 5: Arctic (69-71°N),Laholmen,Occasional (3-5 years),Mid-Fjord,False,125.0,Tana,major,Far (>50km),No Influence
+15461,4,70.87123,25.446318,Zone 5: Arctic (69-71°N),Storvika,Occasional (3-5 years),Mid-Fjord,False,126.9,Tana,major,Far (>50km),No Influence
+15462,1,70.98,25.747833,Zone 5: Arctic (69-71°N),Sarnes,Sporadic (0-2 years),Mid-Fjord,False,125.9,Tana,major,Far (>50km),No Influence
+15516,0,70.737236,27.317183,Zone 5: Arctic (69-71°N),Mårøyfjord,Sporadic (0-2 years),Mid-Fjord,False,68.4,Tana,major,Far (>50km),No Influence
+15517,4,70.5295,23.2287,Zone 5: Arctic (69-71°N),Tinnlandet,Occasional (3-5 years),Mid-Fjord,False,70.2,Altaelva,major,Far (>50km),No Influence
+15621,2,66.58036,13.015637,Zone 4: Northern (66-69°N),Breivika,Sporadic (0-2 years),Inner Fjord,False,53.9,Ranfjorden rivers,medium,Far (>50km),No Influence
+15655,5,66.23579,12.709967,Zone 4: Northern (66-69°N),HYesrtøy N,Occasional (3-5 years),Inner Fjord,False,53.4,Vefsna,major,Far (>50km),No Influence
+15657,1,69.94662,20.752768,Zone 5: Arctic (69-71°N),Kågen,Sporadic (0-2 years),Mid-Fjord,False,93.9,Altaelva,major,Far (>50km),No Influence
+15659,2,69.907684,21.8331,Zone 5: Arctic (69-71°N),Nøklan,Sporadic (0-2 years),Mid-Fjord,False,52.4,Altaelva,major,Far (>50km),No Influence
+15796,6,59.388035,5.929283,Zone 1: Southern (58-60°N),Borgarliflot,Recurrent (6-8 years),Mid-Fjord,False,25.5,Etneelva,small,Moderate (25-50km),Weak Influence
+15860,4,69.23299,17.089382,Zone 5: Arctic (69-71°N),Kvenbukta Vest,Occasional (3-5 years),Inner Fjord,False,61.9,Målselva,major,Far (>50km),No Influence
+15956,0,69.914665,29.487076,Zone 5: Arctic (69-71°N),Storbukt,Sporadic (0-2 years),Mid-Fjord,False,58.4,Tana,major,Far (>50km),No Influence
+15957,1,70.0645,29.0347,Zone 5: Arctic (69-71°N),Latvika,Sporadic (0-2 years),Mid-Fjord,False,35.1,Tana,major,Moderate (25-50km),No Influence
+16015,1,69.88975,20.769016,Zone 5: Arctic (69-71°N),Russelva,Sporadic (0-2 years),Mid-Fjord,False,93.3,Altaelva,major,Far (>50km),No Influence
+16055,1,70.83325,25.254333,Zone 5: Arctic (69-71°N),Kråkeberget,Sporadic (0-2 years),Mid-Fjord,False,129.5,Altaelva,major,Far (>50km),No Influence
+16165,3,67.572815,15.128683,Zone 4: Northern (66-69°N),Tårnvika,Occasional (3-5 years),Inner Fjord,False,54.0,Saltdalselva,medium,Far (>50km),No Influence
+16216,2,68.86298,15.092383,Zone 4: Northern (66-69°N),Lønskog,Sporadic (0-2 years),Inner Fjord,False,137.6,Målselva,major,Far (>50km),No Influence
+16255,0,69.73117,30.415333,Zone 5: Arctic (69-71°N),Skarvfjell,Sporadic (0-2 years),Mid-Fjord,False,99.6,Tana,major,Far (>50km),No Influence
+16736,1,69.95783,20.69315,Zone 5: Arctic (69-71°N),Kåvika,Sporadic (0-2 years),Mid-Fjord,False,96.3,Altaelva,major,Far (>50km),No Influence
+16755,5,59.944218,5.434733,Zone 1: Southern (58-60°N),Hageberg,Occasional (3-5 years),Mid-Fjord,False,53.6,Etneelva,small,Far (>50km),No Influence
+16939,3,68.410484,15.435433,Zone 4: Northern (66-69°N),Fornes,Occasional (3-5 years),Inner Fjord,False,140.6,Målselva,major,Far (>50km),No Influence
+17015,3,59.730434,5.788733,Zone 1: Southern (58-60°N),Seglberget,Occasional (3-5 years),Mid-Fjord,False,22.8,Etneelva,small,Close (10-25km),Weak Influence
+17077,1,69.51037,18.0218,Zone 5: Arctic (69-71°N),Trettevik,Sporadic (0-2 years),Mid-Fjord,False,60.0,Målselva,major,Far (>50km),No Influence
+17176,3,68.69912,15.978933,Zone 4: Northern (66-69°N),Holandselv,Occasional (3-5 years),Inner Fjord,False,107.0,Målselva,major,Far (>50km),No Influence
+17177,6,61.893116,5.35185,Zone 2: Western (60-63°N),Grunneneset,Recurrent (6-8 years),Mid-Fjord,False,52.5,Jølstra,small,Far (>50km),No Influence
+17235,7,66.42008,13.018033,Zone 4: Northern (66-69°N),Ørnes,Recurrent (6-8 years),Inner Fjord,False,46.0,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+17357,2,59.131584,5.72165,Zone 1: Southern (58-60°N),Rennaren,Sporadic (0-2 years),Mid-Fjord,False,56.4,Etneelva,small,Far (>50km),No Influence
+17495,2,63.04895,8.21635,Zone 3: Mid (63-66°N),Vullum,Sporadic (0-2 years),Mid-Fjord,False,29.6,Surna,medium,Moderate (25-50km),Weak Influence
+17575,6,59.2522,5.390517,Zone 1: Southern (58-60°N),Tollaksholmen,Recurrent (6-8 years),Mid-Fjord,False,55.9,Etneelva,small,Far (>50km),No Influence
+18015,1,59.954018,5.451667,Zone 1: Southern (58-60°N),Hestabyneset,Sporadic (0-2 years),Mid-Fjord,False,53.7,Etneelva,small,Far (>50km),No Influence
+18117,2,70.27188,21.6898,Zone 5: Arctic (69-71°N),Vassvika,Sporadic (0-2 years),Mid-Fjord,False,70.8,Altaelva,major,Far (>50km),No Influence
+18217,2,59.396633,5.171083,Zone 1: Southern (58-60°N),Kvaløy Øst,Sporadic (0-2 years),Mid-Fjord,False,57.3,Etneelva,small,Far (>50km),No Influence
+18235,2,59.2694,6.193083,Zone 1: Southern (58-60°N),Bastli,Sporadic (0-2 years),Mid-Fjord,False,31.1,Suldalslågen,medium,Moderate (25-50km),No Influence
+18275,5,59.19205,5.870067,Zone 1: Southern (58-60°N),Kjeringå,Occasional (3-5 years),Mid-Fjord,False,47.3,Etneelva,small,Moderate (25-50km),No Influence
+18639,5,59.39232,5.883333,Zone 1: Southern (58-60°N),Halsavika,Occasional (3-5 years),Mid-Fjord,False,26.2,Etneelva,small,Moderate (25-50km),Weak Influence
+18657,10,61.1567,5.133983,Zone 2: Western (60-63°N),Skredstivik,Persistent (9-10 years),Mid-Fjord,True,56.1,Jølstra,small,Far (>50km),No Influence
+18717,1,67.132286,14.313183,Zone 4: Northern (66-69°N),Hammarvika,Sporadic (0-2 years),Inner Fjord,False,47.3,Saltdalselva,medium,Moderate (25-50km),No Influence
+18755,4,64.74997,11.394183,Zone 3: Mid (63-66°N),Klungset,Occasional (3-5 years),Mid-Fjord,False,28.3,Namsen,major,Moderate (25-50km),Weak Influence
+18898,3,60.455517,5.627417,Zone 2: Western (60-63°N),Skaftå,Occasional (3-5 years),Mid-Fjord,False,45.4,Vosso,medium,Moderate (25-50km),No Influence
+18936,3,65.68622,12.138533,Zone 3: Mid (63-66°N),Igerøy Ø,Occasional (3-5 years),Mid-Fjord,False,50.3,Vefsna,major,Far (>50km),No Influence
+19015,10,63.333534,9.180583,Zone 3: Mid (63-66°N),Stokkvika,Persistent (9-10 years),Mid-Fjord,True,31.3,Orkla,major,Moderate (25-50km),No Influence
+19016,3,63.506065,9.19075,Zone 3: Mid (63-66°N),Storskogøya,Occasional (3-5 years),Mid-Fjord,False,38.1,Orkla,major,Moderate (25-50km),No Influence
+19098,0,67.22733,15.351017,Zone 4: Northern (66-69°N),Leivsethamran,Sporadic (0-2 years),Inner Fjord,False,14.4,Saltdalselva,medium,Close (10-25km),Moderate Influence
+19115,3,63.460682,9.1444,Zone 3: Mid (63-66°N),Fugløya S,Occasional (3-5 years),Mid-Fjord,False,37.4,Orkla,major,Moderate (25-50km),No Influence
+19135,4,64.243385,10.26445,Zone 3: Mid (63-66°N),Sandøya III,Occasional (3-5 years),Mid-Fjord,False,66.2,Namsen,major,Far (>50km),No Influence
+19195,5,63.597218,8.51575,Zone 3: Mid (63-66°N),Korsholman,Occasional (3-5 years),Mid-Fjord,False,72.1,Orkla,major,Far (>50km),No Influence
+19235,3,67.533165,15.165583,Zone 4: Northern (66-69°N),Vindvika,Occasional (3-5 years),Inner Fjord,False,49.4,Saltdalselva,medium,Moderate (25-50km),No Influence
+19278,5,68.17091,16.1532,Zone 4: Northern (66-69°N),Forsåstorvika,Occasional (3-5 years),Inner Fjord,False,123.6,Saltdalselva,medium,Far (>50km),No Influence
+19335,0,70.67173,27.13395,Zone 5: Arctic (69-71°N),Eidemolla,Sporadic (0-2 years),Mid-Fjord,False,66.0,Tana,major,Far (>50km),No Influence
+19336,1,59.4293,5.114483,Zone 1: Southern (58-60°N),Flatholmen,Sporadic (0-2 years),Mid-Fjord,False,58.9,Etneelva,small,Far (>50km),No Influence
+19355,6,59.29677,5.9888,Zone 1: Southern (58-60°N),Låva,Recurrent (6-8 years),Mid-Fjord,False,34.4,Etneelva,small,Moderate (25-50km),No Influence
+19356,1,64.53883,10.87705,Zone 3: Mid (63-66°N),Kvalrosskjæret,Sporadic (0-2 years),Mid-Fjord,False,30.2,Namsen,major,Moderate (25-50km),No Influence
+19556,2,68.417534,16.79135,Zone 4: Northern (66-69°N),Pundsvik,Sporadic (0-2 years),Inner Fjord,False,95.0,Målselva,major,Far (>50km),No Influence
+19635,4,68.8001,14.593767,Zone 4: Northern (66-69°N),Skatleia,Occasional (3-5 years),Inner Fjord,False,158.5,Målselva,major,Far (>50km),No Influence
+19655,2,60.74618,5.2701,Zone 2: Western (60-63°N),Ospeneset,Sporadic (0-2 years),Mid-Fjord,False,63.9,Vosso,medium,Far (>50km),No Influence
+19755,2,65.3523,12.43795,Zone 3: Mid (63-66°N),Klubben,Sporadic (0-2 years),Mid-Fjord,False,61.1,Vefsna,major,Far (>50km),No Influence
+19855,4,63.149746,8.12855,Zone 3: Mid (63-66°N),Segelråa,Occasional (3-5 years),Mid-Fjord,False,40.1,Surna,medium,Moderate (25-50km),No Influence
+19875,2,63.040718,7.8497,Zone 3: Mid (63-66°N),Or,Sporadic (0-2 years),Mid-Fjord,False,45.9,Surna,medium,Moderate (25-50km),No Influence
+19939,5,60.157417,6.050117,Zone 2: Western (60-63°N),Høysteinen,Occasional (3-5 years),Mid-Fjord,False,53.0,Vosso,medium,Far (>50km),No Influence
+19977,3,63.99495,9.928317,Zone 3: Mid (63-66°N),Jektholmen,Occasional (3-5 years),Mid-Fjord,False,73.1,Stjørdalselva,medium,Far (>50km),No Influence
+19995,3,63.137768,8.03015,Zone 3: Mid (63-66°N),Hagahammaren,Occasional (3-5 years),Mid-Fjord,False,43.0,Surna,medium,Moderate (25-50km),No Influence
+20075,2,67.89243,16.236717,Zone 4: Northern (66-69°N),TYesjneluokta,Sporadic (0-2 years),Inner Fjord,False,95.3,Saltdalselva,medium,Far (>50km),No Influence
+20096,0,68.06018,13.5389,Zone 4: Northern (66-69°N),Sandholman,Sporadic (0-2 years),Inner Fjord,False,133.2,Saltdalselva,medium,Far (>50km),No Influence
+20115,5,60.2496,5.174017,Zone 2: Western (60-63°N),Skjerholmen N.,Occasional (3-5 years),Mid-Fjord,False,78.0,Vosso,medium,Far (>50km),No Influence
+20315,5,62.30065,7.085433,Zone 2: Western (60-63°N),Overåneset V,Occasional (3-5 years),Mid-Fjord,False,5.9,Norddalselva,small,Very Close (<10km),Moderate Influence
+20316,6,68.33148,14.948217,Zone 4: Northern (66-69°N),Korsnes,Recurrent (6-8 years),Inner Fjord,False,138.7,Saltdalselva,medium,Far (>50km),No Influence
+20396,5,70.22971,23.336117,Zone 5: Arctic (69-71°N),Bergsnes V,Occasional (3-5 years),Mid-Fjord,False,37.1,Altaelva,major,Moderate (25-50km),No Influence
+20455,3,60.0406,6.010917,Zone 2: Western (60-63°N),Djupevika,Occasional (3-5 years),Mid-Fjord,False,49.3,Etneelva,small,Moderate (25-50km),No Influence
+20559,4,63.8225,8.75505,Zone 3: Mid (63-66°N),Langskjæra,Occasional (3-5 years),Mid-Fjord,False,78.0,Orkla,major,Far (>50km),No Influence
+20576,3,68.81237,17.52025,Zone 4: Northern (66-69°N),Kvanntoneset,Occasional (3-5 years),Inner Fjord,False,44.6,Målselva,major,Moderate (25-50km),No Influence
+20595,5,60.162018,5.205567,Zone 2: Western (60-63°N),Kyrholmen S,Occasional (3-5 years),Mid-Fjord,False,80.2,Etneelva,small,Far (>50km),No Influence
+20776,7,60.530884,4.97325,Zone 2: Western (60-63°N),Storoksen,Recurrent (6-8 years),Mid-Fjord,False,78.6,Vosso,medium,Far (>50km),No Influence
+20796,6,62.59785,7.367717,Zone 2: Western (60-63°N),Skarbukta,Recurrent (6-8 years),Mid-Fjord,False,20.3,Rauma,medium,Close (10-25km),Weak Influence
+20815,4,62.334,6.157667,Zone 2: Western (60-63°N),Slettvika,Occasional (3-5 years),Mid-Fjord,False,54.2,Norddalselva,small,Far (>50km),No Influence
+20876,3,68.84437,14.85465,Zone 4: Northern (66-69°N),Børøya,Occasional (3-5 years),Inner Fjord,False,147.4,Målselva,major,Far (>50km),No Influence
+20897,2,68.94144,15.30745,Zone 4: Northern (66-69°N),Gisløy S,Sporadic (0-2 years),Inner Fjord,False,128.1,Målselva,major,Far (>50km),No Influence
+21016,4,70.549515,22.955883,Zone 5: Arctic (69-71°N),Husfjord,Occasional (3-5 years),Mid-Fjord,False,73.0,Altaelva,major,Far (>50km),No Influence
+21055,0,59.337482,5.987767,Zone 1: Southern (58-60°N),Foldøy Ø,Sporadic (0-2 years),Mid-Fjord,False,29.9,Etneelva,small,Moderate (25-50km),Weak Influence
+21176,5,68.08141,16.321417,Zone 4: Northern (66-69°N),Risvik,Occasional (3-5 years),Inner Fjord,False,116.3,Saltdalselva,medium,Far (>50km),No Influence
+21335,3,61.1936,5.801617,Zone 2: Western (60-63°N),Floteneset,Occasional (3-5 years),Mid-Fjord,False,34.5,Jølstra,small,Moderate (25-50km),No Influence
+21336,3,61.16942,5.807467,Zone 2: Western (60-63°N),Djupeleget,Occasional (3-5 years),Mid-Fjord,False,37.2,Jølstra,small,Moderate (25-50km),No Influence
+21337,5,66.325066,12.648067,Zone 4: Northern (66-69°N),Kveitholmen,Occasional (3-5 years),Inner Fjord,False,60.7,Ranfjorden rivers,medium,Far (>50km),No Influence
+21397,6,67.033165,13.96735,Zone 4: Northern (66-69°N),Midt- Femris,Recurrent (6-8 years),Inner Fjord,False,62.8,Saltdalselva,medium,Far (>50km),No Influence
+21415,6,59.285484,5.8583,Zone 1: Southern (58-60°N),Dyrholmen,Recurrent (6-8 years),Mid-Fjord,False,37.6,Etneelva,small,Moderate (25-50km),No Influence
+21495,0,64.96537,11.532783,Zone 3: Mid (63-66°N),Risværgalten,Sporadic (0-2 years),Mid-Fjord,False,51.9,Namsen,major,Far (>50km),No Influence
+21516,5,68.05714,16.204468,Zone 4: Northern (66-69°N),Hulløyhamn Ø,Occasional (3-5 years),Inner Fjord,False,112.1,Saltdalselva,medium,Far (>50km),No Influence
+21517,0,67.534836,15.314517,Zone 4: Northern (66-69°N),Storvika,Sporadic (0-2 years),Inner Fjord,False,48.6,Saltdalselva,medium,Moderate (25-50km),No Influence
+21676,4,64.60212,10.85345,Zone 3: Mid (63-66°N),Kråkholmen,Occasional (3-5 years),Mid-Fjord,False,33.0,Namsen,major,Moderate (25-50km),No Influence
+21755,3,59.73605,5.884,Zone 1: Southern (58-60°N),Tendalsvik,Occasional (3-5 years),Mid-Fjord,False,19.4,Etneelva,small,Close (10-25km),Weak Influence
+21795,2,68.339714,15.38435,Zone 4: Northern (66-69°N),Skarvhausen,Sporadic (0-2 years),Inner Fjord,False,138.3,Saltdalselva,medium,Far (>50km),No Influence
+21915,4,59.95238,5.283167,Zone 1: Southern (58-60°N),Matløyso,Occasional (3-5 years),Mid-Fjord,False,60.4,Etneelva,small,Far (>50km),No Influence
+21957,0,68.40231,16.859266,Zone 4: Northern (66-69°N),Hesjeholmen,Sporadic (0-2 years),Inner Fjord,False,94.2,Målselva,major,Far (>50km),No Influence
+22015,4,61.16562,5.052417,Zone 2: Western (60-63°N),Fureneset,Occasional (3-5 years),Mid-Fjord,False,58.7,Jølstra,small,Far (>50km),No Influence
+22035,4,66.30838,13.4324,Zone 4: Northern (66-69°N),Buktodden Nø,Occasional (3-5 years),Inner Fjord,False,25.5,Ranfjorden rivers,medium,Moderate (25-50km),Weak Influence
+22095,2,59.983932,5.932317,Zone 1: Southern (58-60°N),Hågardsneset,Sporadic (0-2 years),Mid-Fjord,False,43.8,Etneelva,small,Moderate (25-50km),No Influence
+22315,3,60.22175,5.557367,Zone 2: Western (60-63°N),Skavhella,Occasional (3-5 years),Mid-Fjord,False,62.7,Vosso,medium,Far (>50km),No Influence
+22335,3,62.802166,6.981267,Zone 2: Western (60-63°N),Storvika,Occasional (3-5 years),Mid-Fjord,False,49.9,Rauma,medium,Moderate (25-50km),No Influence
+22435,1,68.67398,14.982483,Zone 4: Northern (66-69°N),Stretarneset,Sporadic (0-2 years),Inner Fjord,False,146.3,Målselva,major,Far (>50km),No Influence
+22455,4,62.16655,5.5954,Zone 2: Western (60-63°N),Bjørlykkestranda,Occasional (3-5 years),Mid-Fjord,False,69.7,Stryneelva,small,Far (>50km),No Influence
+22596,6,59.194416,5.800183,Zone 1: Southern (58-60°N),Hesbygrunnen,Recurrent (6-8 years),Mid-Fjord,False,48.3,Etneelva,small,Moderate (25-50km),No Influence
+22775,7,65.001915,11.058617,Zone 3: Mid (63-66°N),Kvaløya,Recurrent (6-8 years),Mid-Fjord,False,59.8,Namsen,major,Far (>50km),No Influence
+22796,4,66.58763,13.096633,Zone 4: Northern (66-69°N),Renga S,Occasional (3-5 years),Inner Fjord,False,51.5,Ranfjorden rivers,medium,Far (>50km),No Influence
+22915,6,60.03818,5.114417,Zone 2: Western (60-63°N),Kalsøyflu,Recurrent (6-8 years),Mid-Fjord,False,73.8,Etneelva,small,Far (>50km),No Influence
+22955,7,59.684235,5.589717,Zone 1: Southern (58-60°N),Svollandsneset,Recurrent (6-8 years),Mid-Fjord,False,30.3,Etneelva,small,Moderate (25-50km),No Influence
+22995,2,67.07103,14.113967,Zone 4: Northern (66-69°N),Oldervik,Sporadic (0-2 years),Inner Fjord,False,56.0,Saltdalselva,medium,Far (>50km),No Influence
+23055,6,69.0433,17.363234,Zone 5: Arctic (69-71°N),Storvika V,Recurrent (6-8 years),Inner Fjord,False,45.7,Målselva,major,Moderate (25-50km),No Influence
+23056,3,69.03788,17.264183,Zone 5: Arctic (69-71°N),Lekangsund II,Occasional (3-5 years),Inner Fjord,False,49.6,Målselva,major,Moderate (25-50km),No Influence
+23375,5,61.099983,5.729967,Zone 2: Western (60-63°N),Sørevik,Occasional (3-5 years),Mid-Fjord,False,45.5,Jølstra,small,Moderate (25-50km),No Influence
+23436,5,61.20635,4.938083,Zone 2: Western (60-63°N),Bjørnholmen,Occasional (3-5 years),Mid-Fjord,False,61.0,Jølstra,small,Far (>50km),No Influence
+23695,6,62.34895,6.910767,Zone 2: Western (60-63°N),Skotungneset,Recurrent (6-8 years),Mid-Fjord,False,16.0,Norddalselva,small,Close (10-25km),Weak Influence
+23755,3,68.785286,17.64295,Zone 4: Northern (66-69°N),Kjeiprød,Occasional (3-5 years),Inner Fjord,False,42.0,Målselva,major,Moderate (25-50km),No Influence
+23816,4,66.25645,12.89285,Zone 4: Northern (66-69°N),Nordbotnet,Occasional (3-5 years),Inner Fjord,False,50.0,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+24035,4,60.169834,5.69645,Zone 2: Western (60-63°N),Håvikvågen S,Occasional (3-5 years),Mid-Fjord,False,61.7,Vosso,medium,Far (>50km),No Influence
+24115,5,63.41975,8.411617,Zone 3: Mid (63-66°N),Singsholmen,Occasional (3-5 years),Mid-Fjord,False,59.7,Surna,medium,Far (>50km),No Influence
+24135,4,59.776333,5.9001,Zone 1: Southern (58-60°N),Utåker,Occasional (3-5 years),Mid-Fjord,False,22.6,Etneelva,small,Close (10-25km),Weak Influence
+24155,2,69.4194,17.337067,Zone 5: Arctic (69-71°N),Ytre Jøvik,Sporadic (0-2 years),Inner Fjord,False,65.7,Målselva,major,Far (>50km),No Influence
+24175,2,69.419464,17.287567,Zone 5: Arctic (69-71°N),Ytre Lavollsfjord,Sporadic (0-2 years),Inner Fjord,False,67.1,Målselva,major,Far (>50km),No Influence
+24196,1,63.482616,8.280283,Zone 3: Mid (63-66°N),Gjelsøya,Sporadic (0-2 years),Mid-Fjord,False,68.3,Surna,medium,Far (>50km),No Influence
+24197,2,63.415966,8.483883,Zone 3: Mid (63-66°N),Værøya Ø,Sporadic (0-2 years),Mid-Fjord,False,58.5,Surna,medium,Far (>50km),No Influence
+24295,5,66.81468,13.678183,Zone 4: Northern (66-69°N),Isbergan,Occasional (3-5 years),Inner Fjord,False,59.1,Ranfjorden rivers,medium,Far (>50km),No Influence
+24315,4,64.117615,9.981417,Zone 3: Mid (63-66°N),Gjæsingen,Occasional (3-5 years),Mid-Fjord,False,82.4,Stjørdalselva,medium,Far (>50km),No Influence
+24455,7,61.60395,5.186533,Zone 2: Western (60-63°N),Klavelandet,Recurrent (6-8 years),Mid-Fjord,False,39.7,Jølstra,small,Moderate (25-50km),No Influence
+24456,1,63.88,8.559183,Zone 3: Mid (63-66°N),Slettholmene,Sporadic (0-2 years),Mid-Fjord,False,89.3,Orkla,major,Far (>50km),No Influence
+24495,5,60.05237,5.793417,Zone 2: Western (60-63°N),Nystølvågen,Occasional (3-5 years),Mid-Fjord,False,53.3,Etneelva,small,Far (>50km),No Influence
+24535,3,70.34161,23.392467,Zone 5: Arctic (69-71°N),Storholmen,Occasional (3-5 years),Mid-Fjord,False,49.8,Altaelva,major,Moderate (25-50km),No Influence
+24575,4,64.18452,10.1222,Zone 3: Mid (63-66°N),Farmannsøya,Occasional (3-5 years),Mid-Fjord,False,75.3,Namsen,major,Far (>50km),No Influence
+24615,0,61.684685,4.915333,Zone 2: Western (60-63°N),Grunnsøya,Sporadic (0-2 years),Mid-Fjord,False,56.2,Jølstra,small,Far (>50km),No Influence
+24695,7,64.5961,11.273417,Zone 3: Mid (63-66°N),Årnes,Recurrent (6-8 years),Mid-Fjord,False,15.3,Namsen,major,Close (10-25km),Weak Influence
+24696,4,63.759167,8.449133,Zone 3: Mid (63-66°N),Ørnøya II,Occasional (3-5 years),Mid-Fjord,False,84.5,Orkla,major,Far (>50km),No Influence
+24715,4,59.097282,5.835917,Zone 1: Southern (58-60°N),Langholmen,Occasional (3-5 years),Mid-Fjord,False,58.0,Etneelva,small,Far (>50km),No Influence
+24735,4,60.1282,5.400467,Zone 2: Western (60-63°N),Gulholmen,Occasional (3-5 years),Mid-Fjord,False,70.7,Etneelva,small,Far (>50km),No Influence
+24937,2,59.87075,5.725017,Zone 1: Southern (58-60°N),Nebbo,Sporadic (0-2 years),Mid-Fjord,False,36.8,Etneelva,small,Moderate (25-50km),No Influence
+24975,7,60.069283,5.351183,Zone 2: Western (60-63°N),Kvernavika,Recurrent (6-8 years),Mid-Fjord,False,67.1,Etneelva,small,Far (>50km),No Influence
+25055,9,61.07662,5.38595,Zone 2: Western (60-63°N),Bekksneset,Persistent (9-10 years),Mid-Fjord,True,54.6,Jølstra,small,Far (>50km),No Influence
+25235,2,64.94605,11.372467,Zone 3: Mid (63-66°N),Humulen,Sporadic (0-2 years),Mid-Fjord,False,50.1,Namsen,major,Far (>50km),No Influence
+25695,2,62.259983,5.929183,Zone 2: Western (60-63°N),Gjerde,Sporadic (0-2 years),Mid-Fjord,False,60.7,Stryneelva,small,Far (>50km),No Influence
+25736,4,67.92367,16.211782,Zone 4: Northern (66-69°N),Josommarset,Occasional (3-5 years),Inner Fjord,False,98.2,Saltdalselva,medium,Far (>50km),No Influence
+25815,7,59.723484,5.533483,Zone 1: Southern (58-60°N),Tittelsnes,Recurrent (6-8 years),Mid-Fjord,False,34.8,Etneelva,small,Moderate (25-50km),No Influence
+25835,6,60.155632,5.231417,Zone 2: Western (60-63°N),Flatøyflu,Recurrent (6-8 years),Mid-Fjord,False,78.7,Etneelva,small,Far (>50km),No Influence
+25855,0,69.66272,18.17765,Zone 5: Arctic (69-71°N),Tussøya,Sporadic (0-2 years),Mid-Fjord,False,75.0,Målselva,major,Far (>50km),No Influence
+25895,6,59.892982,5.665817,Zone 1: Southern (58-60°N),Flornes,Recurrent (6-8 years),Mid-Fjord,False,40.8,Etneelva,small,Moderate (25-50km),No Influence
+25896,9,59.875767,5.638817,Zone 1: Southern (58-60°N),Skorpo,Persistent (9-10 years),Mid-Fjord,True,40.2,Etneelva,small,Moderate (25-50km),No Influence
+26055,5,68.863716,16.403032,Zone 4: Northern (66-69°N),Toppsund Øst,Occasional (3-5 years),Inner Fjord,False,85.5,Målselva,major,Far (>50km),No Influence
+26135,5,63.457565,9.076,Zone 3: Mid (63-66°N),Kjørsvikgrunn,Occasional (3-5 years),Mid-Fjord,False,40.2,Orkla,major,Moderate (25-50km),No Influence
+26155,2,63.44779,8.958173,Zone 3: Mid (63-66°N),Slåttholmen,Sporadic (0-2 years),Mid-Fjord,False,45.2,Orkla,major,Moderate (25-50km),No Influence
+26235,3,59.6088,5.5269,Zone 1: Southern (58-60°N),Stualand,Occasional (3-5 years),Mid-Fjord,False,32.4,Etneelva,small,Moderate (25-50km),No Influence
+26295,4,60.779133,5.1608,Zone 2: Western (60-63°N),Langøy,Occasional (3-5 years),Mid-Fjord,False,70.6,Vosso,medium,Far (>50km),No Influence
+26315,4,64.7659,10.9128,Zone 3: Mid (63-66°N),Nordgjæslingan,Occasional (3-5 years),Mid-Fjord,False,40.8,Namsen,major,Moderate (25-50km),No Influence
+26335,3,64.79955,11.025933,Zone 3: Mid (63-66°N),Geitholmen,Occasional (3-5 years),Mid-Fjord,False,40.4,Namsen,major,Moderate (25-50km),No Influence
+26435,7,61.111584,6.0423,Zone 2: Western (60-63°N),Mjølsvik,Recurrent (6-8 years),Mid-Fjord,False,43.9,Jølstra,small,Moderate (25-50km),No Influence
+26495,3,68.412636,16.526934,Zone 4: Northern (66-69°N),Jevik,Occasional (3-5 years),Inner Fjord,False,103.4,Målselva,major,Far (>50km),No Influence
+26575,8,59.520332,6.337233,Zone 1: Southern (58-60°N),Teigane,Recurrent (6-8 years),Mid-Fjord,False,9.5,Suldalslågen,medium,Very Close (<10km),Moderate Influence
+26595,5,60.035816,5.342217,Zone 2: Western (60-63°N),Djupevika,Occasional (3-5 years),Mid-Fjord,False,64.5,Etneelva,small,Far (>50km),No Influence
+26615,2,68.76693,16.06485,Zone 4: Northern (66-69°N),Haug,Sporadic (0-2 years),Inner Fjord,False,101.3,Målselva,major,Far (>50km),No Influence
+26675,3,66.3565,12.530117,Zone 4: Northern (66-69°N),Leirhholmen,Occasional (3-5 years),Inner Fjord,False,66.2,Ranfjorden rivers,medium,Far (>50km),No Influence
+26738,0,59.167885,5.920667,Zone 1: Southern (58-60°N),Skiftesvika,Sporadic (0-2 years),Mid-Fjord,False,49.2,Etneelva,small,Moderate (25-50km),No Influence
+26775,7,63.819233,8.636133,Zone 3: Mid (63-66°N),Fjølværet Ø,Recurrent (6-8 years),Mid-Fjord,False,81.8,Orkla,major,Far (>50km),No Influence
+26795,3,64.41853,10.696033,Zone 3: Mid (63-66°N),Austvika,Occasional (3-5 years),Mid-Fjord,False,39.7,Namsen,major,Moderate (25-50km),No Influence
+26935,6,69.06865,17.061447,Zone 5: Arctic (69-71°N),Frovågneset,Recurrent (6-8 years),Inner Fjord,False,58.0,Målselva,major,Far (>50km),No Influence
+26955,0,59.4592,5.852867,Zone 1: Southern (58-60°N),Hettaneset,Sporadic (0-2 years),Mid-Fjord,False,21.0,Etneelva,small,Close (10-25km),Weak Influence
+27015,2,70.14118,22.245033,Zone 5: Arctic (69-71°N),Kjøsen,Sporadic (0-2 years),Mid-Fjord,False,45.3,Altaelva,major,Moderate (25-50km),No Influence
+27055,7,61.5417,4.968867,Zone 2: Western (60-63°N),Oddane,Recurrent (6-8 years),Mid-Fjord,False,49.8,Jølstra,small,Moderate (25-50km),No Influence
+27095,3,59.7215,5.586633,Zone 1: Southern (58-60°N),Ihlholmen,Occasional (3-5 years),Mid-Fjord,False,31.9,Etneelva,small,Moderate (25-50km),No Influence
+27215,3,62.6505,6.726683,Zone 2: Western (60-63°N),Myrane,Occasional (3-5 years),Mid-Fjord,False,46.1,Norddalselva,small,Moderate (25-50km),No Influence
+27315,6,60.26125,6.225083,Zone 2: Western (60-63°N),Vikane 1,Recurrent (6-8 years),Mid-Fjord,False,39.0,Vosso,medium,Moderate (25-50km),No Influence
+27436,8,63.255,7.856933,Zone 3: Mid (63-66°N),Solværet,Recurrent (6-8 years),Mid-Fjord,False,58.1,Surna,medium,Far (>50km),No Influence
+27476,4,69.83117,19.520384,Zone 5: Arctic (69-71°N),Solheim,Occasional (3-5 years),Mid-Fjord,False,101.0,Målselva,major,Far (>50km),No Influence
+27536,1,64.933876,11.409243,Zone 3: Mid (63-66°N),Flatskjæret,Sporadic (0-2 years),Mid-Fjord,False,48.6,Namsen,major,Moderate (25-50km),No Influence
+27856,0,67.26553,15.125183,Zone 4: Northern (66-69°N),Hundholmen,Sporadic (0-2 years),Inner Fjord,False,22.0,Saltdalselva,medium,Close (10-25km),Weak Influence
+27876,1,65.31118,12.368633,Zone 3: Mid (63-66°N),Olderbakken,Sporadic (0-2 years),Mid-Fjord,False,66.7,Vefsna,major,Far (>50km),No Influence
+27976,2,65.9184,12.244683,Zone 3: Mid (63-66°N),Bukkholmen,Sporadic (0-2 years),Mid-Fjord,False,45.6,Vefsna,major,Moderate (25-50km),No Influence
+27996,0,68.33881,15.236583,Zone 4: Northern (66-69°N),Kalvhodet,Sporadic (0-2 years),Inner Fjord,False,138.3,Saltdalselva,medium,Far (>50km),No Influence
+28036,3,67.118385,13.898417,Zone 4: Northern (66-69°N),Langskjæran,Occasional (3-5 years),Inner Fjord,False,65.2,Saltdalselva,medium,Far (>50km),No Influence
+28096,4,59.83222,5.984267,Zone 1: Southern (58-60°N),Slåttenes,Occasional (3-5 years),Mid-Fjord,False,26.7,Etneelva,small,Moderate (25-50km),Weak Influence
+28196,1,68.40205,16.914368,Zone 4: Northern (66-69°N),Kvernes,Sporadic (0-2 years),Inner Fjord,False,92.6,Målselva,major,Far (>50km),No Influence
+28256,0,59.8994,5.532767,Zone 1: Southern (58-60°N),Skår,Sporadic (0-2 years),Mid-Fjord,False,46.1,Etneelva,small,Moderate (25-50km),No Influence
+28296,3,68.71632,16.040033,Zone 4: Northern (66-69°N),Skommesvik,Occasional (3-5 years),Inner Fjord,False,104.0,Målselva,major,Far (>50km),No Influence
+28316,1,63.995033,9.871283,Zone 3: Mid (63-66°N),Slåttøya,Sporadic (0-2 years),Mid-Fjord,False,75.0,Stjørdalselva,medium,Far (>50km),No Influence
+28336,1,66.1609,12.681467,Zone 4: Northern (66-69°N),Breivika,Sporadic (0-2 years),Inner Fjord,False,46.6,Vefsna,major,Moderate (25-50km),No Influence
+28396,4,60.084034,5.638667,Zone 2: Western (60-63°N),Lindarholmen,Occasional (3-5 years),Mid-Fjord,False,59.8,Etneelva,small,Far (>50km),No Influence
+28416,0,60.456566,5.6922,Zone 2: Western (60-63°N),Sandvik,Sporadic (0-2 years),Mid-Fjord,False,42.0,Vosso,medium,Moderate (25-50km),No Influence
+28636,5,63.780884,8.517383,Zone 3: Mid (63-66°N),Rataren,Occasional (3-5 years),Mid-Fjord,False,83.3,Orkla,major,Far (>50km),No Influence
+28676,6,66.43864,13.1274,Zone 4: Northern (66-69°N),Olvika,Recurrent (6-8 years),Inner Fjord,False,42.0,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+28896,6,66.61825,12.954583,Zone 4: Northern (66-69°N),Stangholmen,Recurrent (6-8 years),Inner Fjord,False,58.6,Ranfjorden rivers,medium,Far (>50km),No Influence
+28956,6,66.819984,13.461467,Zone 4: Northern (66-69°N),Meløysjøen,Recurrent (6-8 years),Inner Fjord,False,62.7,Ranfjorden rivers,medium,Far (>50km),No Influence
+28976,7,60.4029,5.063717,Zone 2: Western (60-63°N),Kelvesteinen,Recurrent (6-8 years),Mid-Fjord,False,76.6,Vosso,medium,Far (>50km),No Influence
+28996,6,59.691643,5.54298,Zone 1: Southern (58-60°N),Loddetå,Recurrent (6-8 years),Mid-Fjord,False,33.0,Etneelva,small,Moderate (25-50km),No Influence
+29016,3,64.96465,11.592733,Zone 3: Mid (63-66°N),Båfjordstranda,Occasional (3-5 years),Mid-Fjord,False,52.0,Namsen,major,Far (>50km),No Influence
+29056,2,63.60803,8.494633,Zone 3: Mid (63-66°N),Lille Torsøy II,Sporadic (0-2 years),Mid-Fjord,False,73.6,Orkla,major,Far (>50km),No Influence
+29096,0,68.44508,14.819383,Zone 4: Northern (66-69°N),Grøttøy,Sporadic (0-2 years),Inner Fjord,False,152.0,Saltdalselva,medium,Far (>50km),No Influence
+29116,5,63.450333,8.167717,Zone 3: Mid (63-66°N),Reiråklakken,Occasional (3-5 years),Mid-Fjord,False,66.9,Surna,medium,Far (>50km),No Influence
+29276,4,60.509335,4.9317,Zone 2: Western (60-63°N),Rongøy,Occasional (3-5 years),Mid-Fjord,False,81.2,Vosso,medium,Far (>50km),No Influence
+29296,2,67.0951,13.875217,Zone 4: Northern (66-69°N),Fleina,Sporadic (0-2 years),Inner Fjord,False,66.2,Saltdalselva,medium,Far (>50km),No Influence
+29336,5,60.1178,5.2702,Zone 2: Western (60-63°N),Trælsøyosen,Occasional (3-5 years),Mid-Fjord,False,74.1,Etneelva,small,Far (>50km),No Influence
+29356,1,64.75597,11.54245,Zone 3: Mid (63-66°N),Smineset N,Sporadic (0-2 years),Mid-Fjord,False,28.6,Namsen,major,Moderate (25-50km),Weak Influence
+29376,6,66.17145,12.77065,Zone 4: Northern (66-69°N),Sundsøy,Recurrent (6-8 years),Inner Fjord,False,45.8,Vefsna,major,Moderate (25-50km),No Influence
+29416,0,70.020584,29.215334,Zone 5: Arctic (69-71°N),Åpenvik,Sporadic (0-2 years),Mid-Fjord,False,43.5,Tana,major,Moderate (25-50km),No Influence
+29417,2,65.93497,12.139133,Zone 3: Mid (63-66°N),Ytre Vassholmen,Sporadic (0-2 years),Mid-Fjord,False,50.7,Vefsna,major,Far (>50km),No Influence
+29436,0,66.1185,12.814183,Zone 4: Northern (66-69°N),Juvika,Sporadic (0-2 years),Inner Fjord,False,39.6,Vefsna,major,Moderate (25-50km),No Influence
+29458,0,69.73064,18.653584,Zone 5: Arctic (69-71°N),Blåmannsvik,Sporadic (0-2 years),Mid-Fjord,False,81.7,Målselva,major,Far (>50km),No Influence
+29476,2,69.70945,18.364,Zone 5: Arctic (69-71°N),Klokkardalen,Sporadic (0-2 years),Mid-Fjord,False,79.3,Målselva,major,Far (>50km),No Influence
+29537,3,64.454636,10.630717,Zone 3: Mid (63-66°N),Eldviktaren,Occasional (3-5 years),Mid-Fjord,False,42.1,Namsen,major,Moderate (25-50km),No Influence
+29557,4,70.482,23.633533,Zone 5: Arctic (69-71°N),Komagnes,Occasional (3-5 years),Mid-Fjord,False,67.0,Altaelva,major,Far (>50km),No Influence
+29576,1,67.5125,15.5685,Zone 4: Northern (66-69°N),Kalvik,Sporadic (0-2 years),Inner Fjord,False,46.6,Saltdalselva,medium,Moderate (25-50km),No Influence
+29596,1,70.885414,25.495117,Zone 5: Arctic (69-71°N),Misjona,Sporadic (0-2 years),Mid-Fjord,False,126.3,Tana,major,Far (>50km),No Influence
+29656,6,61.104767,5.018483,Zone 2: Western (60-63°N),Juvika,Recurrent (6-8 years),Mid-Fjord,False,64.6,Jølstra,small,Far (>50km),No Influence
+29697,6,63.3667,9.245217,Zone 3: Mid (63-66°N),Hafsmo,Recurrent (6-8 years),Mid-Fjord,False,28.8,Orkla,major,Moderate (25-50km),Weak Influence
+29756,7,69.48227,17.57155,Zone 5: Arctic (69-71°N),Indre Bringenes,Recurrent (6-8 years),Inner Fjord,False,65.1,Målselva,major,Far (>50km),No Influence
+29776,4,66.868416,13.601383,Zone 4: Northern (66-69°N),Teksmona,Occasional (3-5 years),Inner Fjord,False,65.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+29816,4,60.145584,6.120467,Zone 2: Western (60-63°N),Apalvikneset,Occasional (3-5 years),Mid-Fjord,False,52.9,Vosso,medium,Far (>50km),No Influence
+29876,2,64.52398,10.761667,Zone 3: Mid (63-66°N),Flotaren,Sporadic (0-2 years),Mid-Fjord,False,35.6,Namsen,major,Moderate (25-50km),No Influence
+29896,2,63.176167,8.616817,Zone 3: Mid (63-66°N),Renndalen,Sporadic (0-2 years),Mid-Fjord,False,31.1,Surna,medium,Moderate (25-50km),No Influence
+29936,8,59.977932,5.77565,Zone 1: Southern (58-60°N),Ystadneset,Recurrent (6-8 years),Mid-Fjord,False,45.9,Etneelva,small,Moderate (25-50km),No Influence
+29957,1,58.055832,7.06875,Zone 1: Southern (58-60°N),Nakkestad,Sporadic (0-2 years),Mid-Fjord,False,55.2,Otra,major,Far (>50km),No Influence
+29996,0,66.53785,13.3251,Zone 4: Northern (66-69°N),Linesvika,Sporadic (0-2 years),Inner Fjord,False,40.1,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+30036,6,59.293083,5.937017,Zone 1: Southern (58-60°N),Jørstadskjera,Recurrent (6-8 years),Mid-Fjord,False,35.4,Etneelva,small,Moderate (25-50km),No Influence
+30076,5,64.764015,10.806633,Zone 3: Mid (63-66°N),Kyrøyene,Occasional (3-5 years),Mid-Fjord,False,44.3,Namsen,major,Moderate (25-50km),No Influence
+30097,5,66.73305,13.331833,Zone 4: Northern (66-69°N),Djupvik,Occasional (3-5 years),Inner Fjord,False,56.7,Ranfjorden rivers,medium,Far (>50km),No Influence
+30117,3,69.96132,20.978268,Zone 5: Arctic (69-71°N),Skognes,Occasional (3-5 years),Mid-Fjord,False,85.4,Altaelva,major,Far (>50km),No Influence
+30137,3,63.65805,8.683667,Zone 3: Mid (63-66°N),Edøya II,Occasional (3-5 years),Mid-Fjord,False,68.5,Orkla,major,Far (>50km),No Influence
+30156,2,68.00592,15.264333,Zone 4: Northern (66-69°N),Anevik,Sporadic (0-2 years),Inner Fjord,False,101.2,Saltdalselva,medium,Far (>50km),No Influence
+30157,7,67.63177,15.26225,Zone 4: Northern (66-69°N),Movik,Recurrent (6-8 years),Inner Fjord,False,59.6,Saltdalselva,medium,Far (>50km),No Influence
+30176,1,67.7292,15.444317,Zone 4: Northern (66-69°N),Flehammer,Sporadic (0-2 years),Inner Fjord,False,70.2,Saltdalselva,medium,Far (>50km),No Influence
+30177,3,64.89295,11.763017,Zone 3: Mid (63-66°N),Torgerhaugen,Occasional (3-5 years),Mid-Fjord,False,45.6,Namsen,major,Moderate (25-50km),No Influence
+30196,2,60.8325,5.356067,Zone 2: Western (60-63°N),Ådnekvamme,Sporadic (0-2 years),Mid-Fjord,False,62.6,Vosso,medium,Far (>50km),No Influence
+30216,3,69.14633,17.646017,Zone 5: Arctic (69-71°N),Kvitfloget,Occasional (3-5 years),Inner Fjord,False,37.8,Målselva,major,Moderate (25-50km),No Influence
+30217,4,70.13225,20.789433,Zone 5: Arctic (69-71°N),Storelva,Occasional (3-5 years),Mid-Fjord,False,95.6,Altaelva,major,Far (>50km),No Influence
+30236,3,68.9112,16.289333,Zone 4: Northern (66-69°N),Toppsund Vest,Occasional (3-5 years),Inner Fjord,False,89.2,Målselva,major,Far (>50km),No Influence
+30257,3,63.45838,8.955683,Zone 3: Mid (63-66°N),Hausan,Occasional (3-5 years),Mid-Fjord,False,45.8,Orkla,major,Moderate (25-50km),No Influence
+30297,6,63.94438,9.880667,Zone 3: Mid (63-66°N),Krabbholmen,Recurrent (6-8 years),Mid-Fjord,False,70.6,Stjørdalselva,medium,Far (>50km),No Influence
+30377,2,63.099934,7.670267,Zone 3: Mid (63-66°N),Hogsneset Nord,Sporadic (0-2 years),Mid-Fjord,False,56.7,Surna,medium,Far (>50km),No Influence
+30397,0,67.89719,15.158883,Zone 4: Northern (66-69°N),Bergsøy,Sporadic (0-2 years),Inner Fjord,False,89.5,Saltdalselva,medium,Far (>50km),No Influence
+30437,8,63.8661,8.675683,Zone 3: Mid (63-66°N),Kattholmen II,Recurrent (6-8 years),Mid-Fjord,False,84.3,Orkla,major,Far (>50km),No Influence
+30517,5,69.51895,17.695932,Zone 5: Arctic (69-71°N),Trælvika,Occasional (3-5 years),Inner Fjord,False,66.0,Målselva,major,Far (>50km),No Influence
+30518,2,69.49147,17.673067,Zone 5: Arctic (69-71°N),Ørnfjordbotn,Sporadic (0-2 years),Inner Fjord,False,63.8,Målselva,major,Far (>50km),No Influence
+30537,5,65.1345,11.51565,Zone 3: Mid (63-66°N),Steinflesa,Occasional (3-5 years),Mid-Fjord,False,70.7,Namsen,major,Far (>50km),No Influence
+30559,6,60.81255,4.862317,Zone 2: Western (60-63°N),Øksneset,Recurrent (6-8 years),Mid-Fjord,False,87.2,Vosso,medium,Far (>50km),No Influence
+30560,4,63.86895,9.6204,Zone 3: Mid (63-66°N),Tristeinen,Occasional (3-5 years),Mid-Fjord,False,64.0,Orkla,major,Far (>50km),No Influence
+30637,2,68.02507,16.21425,Zone 4: Northern (66-69°N),Rahkasluokta,Sporadic (0-2 years),Inner Fjord,False,108.8,Saltdalselva,medium,Far (>50km),No Influence
+30657,0,58.0243,7.0268,Zone 1: Southern (58-60°N),Revøy,Sporadic (0-2 years),Mid-Fjord,False,58.1,Otra,major,Far (>50km),No Influence
+30717,1,60.414185,6.402,Zone 2: Western (60-63°N),Tveitnes,Sporadic (0-2 years),Mid-Fjord,False,20.7,Vosso,medium,Close (10-25km),Weak Influence
+30737,0,68.33945,15.0358,Zone 4: Northern (66-69°N),Finnkjerka S,Sporadic (0-2 years),Inner Fjord,False,139.1,Saltdalselva,medium,Far (>50km),No Influence
+30757,0,69.474335,17.878683,Zone 5: Arctic (69-71°N),Skog,Sporadic (0-2 years),Inner Fjord,False,58.3,Målselva,major,Far (>50km),No Influence
+30817,0,64.3646,10.439133,Zone 3: Mid (63-66°N),Raudøya,Sporadic (0-2 years),Mid-Fjord,False,53.3,Namsen,major,Far (>50km),No Influence
+30837,4,60.130184,5.176033,Zone 2: Western (60-63°N),Torangskjeret,Occasional (3-5 years),Mid-Fjord,False,78.5,Etneelva,small,Far (>50km),No Influence
+30857,4,67.0267,14.126283,Zone 4: Northern (66-69°N),Leirvik,Occasional (3-5 years),Inner Fjord,False,56.0,Saltdalselva,medium,Far (>50km),No Influence
+30877,3,69.7467,18.24865,Zone 5: Arctic (69-71°N),Sessøya,Occasional (3-5 years),Mid-Fjord,False,83.9,Målselva,major,Far (>50km),No Influence
+30897,7,63.799534,9.440667,Zone 3: Mid (63-66°N),Havsundet,Recurrent (6-8 years),Mid-Fjord,False,58.5,Orkla,major,Far (>50km),No Influence
+30917,3,68.87695,16.287382,Zone 4: Northern (66-69°N),Elgen,Occasional (3-5 years),Inner Fjord,False,89.8,Målselva,major,Far (>50km),No Influence
+30957,2,68.033585,16.25385,Zone 4: Northern (66-69°N),Salaluokta,Sporadic (0-2 years),Inner Fjord,False,110.3,Saltdalselva,medium,Far (>50km),No Influence
+30977,1,68.104866,13.790067,Zone 4: Northern (66-69°N),Æsøya,Sporadic (0-2 years),Inner Fjord,False,131.3,Saltdalselva,medium,Far (>50km),No Influence
+30997,3,64.801735,11.162183,Zone 3: Mid (63-66°N),Skrubbholmen,Occasional (3-5 years),Mid-Fjord,False,37.3,Namsen,major,Moderate (25-50km),No Influence
+31038,5,60.220066,5.21455,Zone 2: Western (60-63°N),Buarøy,Occasional (3-5 years),Mid-Fjord,False,77.8,Vosso,medium,Far (>50km),No Influence
+31077,1,68.47487,17.303932,Zone 4: Northern (66-69°N),Tjukkeneset,Sporadic (0-2 years),Inner Fjord,False,76.0,Målselva,major,Far (>50km),No Influence
+31117,6,60.15632,5.713217,Zone 2: Western (60-63°N),Skrubbo,Recurrent (6-8 years),Mid-Fjord,False,62.3,Vosso,medium,Far (>50km),No Influence
+31137,1,70.19172,22.321016,Zone 5: Arctic (69-71°N),Danielsnes,Sporadic (0-2 years),Mid-Fjord,False,46.7,Altaelva,major,Moderate (25-50km),No Influence
+31157,4,60.176884,5.124833,Zone 2: Western (60-63°N),Fiksneset,Occasional (3-5 years),Mid-Fjord,False,84.3,Etneelva,small,Far (>50km),No Influence
+31177,3,68.78005,16.0978,Zone 4: Northern (66-69°N),Hilderkleiva,Occasional (3-5 years),Inner Fjord,False,99.7,Målselva,major,Far (>50km),No Influence
+31217,3,65.782715,12.592317,Zone 3: Mid (63-66°N),Stokkasjøen,Occasional (3-5 years),Mid-Fjord,False,27.9,Vefsna,major,Moderate (25-50km),Weak Influence
+31297,2,68.48615,17.339333,Zone 4: Northern (66-69°N),Gammelveggen,Sporadic (0-2 years),Inner Fjord,False,74.1,Målselva,major,Far (>50km),No Influence
+31317,3,68.02925,16.131416,Zone 4: Northern (66-69°N),Bjørkvik,Occasional (3-5 years),Inner Fjord,False,108.2,Saltdalselva,medium,Far (>50km),No Influence
+31338,7,63.26985,8.228283,Zone 3: Mid (63-66°N),Storskjeret,Recurrent (6-8 years),Mid-Fjord,False,47.6,Surna,medium,Moderate (25-50km),No Influence
+31357,3,64.75085,11.189033,Zone 3: Mid (63-66°N),Geitryggen,Occasional (3-5 years),Mid-Fjord,False,31.7,Namsen,major,Moderate (25-50km),No Influence
+31397,5,68.929665,16.701433,Zone 4: Northern (66-69°N),Oterneset,Occasional (3-5 years),Inner Fjord,False,72.5,Målselva,major,Far (>50km),No Influence
+31398,3,69.89297,18.807934,Zone 5: Arctic (69-71°N),Finnvik,Occasional (3-5 years),Mid-Fjord,False,100.3,Målselva,major,Far (>50km),No Influence
+31437,4,63.44715,8.167767,Zone 3: Mid (63-66°N),Fuglåsen,Occasional (3-5 years),Mid-Fjord,False,66.6,Surna,medium,Far (>50km),No Influence
+31457,2,69.993614,20.71115,Zone 5: Arctic (69-71°N),Skarvestein,Sporadic (0-2 years),Mid-Fjord,False,95.8,Altaelva,major,Far (>50km),No Influence
+31477,4,59.318,6.287483,Zone 1: Southern (58-60°N),Kilavågen Sjø,Occasional (3-5 years),Mid-Fjord,False,23.6,Suldalslågen,medium,Close (10-25km),Weak Influence
+31497,5,60.66987,4.9172,Zone 2: Western (60-63°N),Toska N,Occasional (3-5 years),Mid-Fjord,False,81.5,Vosso,medium,Far (>50km),No Influence
+31517,1,63.762417,8.882933,Zone 3: Mid (63-66°N),Kamholmen,Sporadic (0-2 years),Mid-Fjord,False,68.8,Orkla,major,Far (>50km),No Influence
+31557,6,63.81735,8.462483,Zone 3: Mid (63-66°N),Valøyan,Recurrent (6-8 years),Mid-Fjord,False,88.0,Orkla,major,Far (>50km),No Influence
+31577,2,61.84045,6.10055,Zone 2: Western (60-63°N),Haneholmen,Sporadic (0-2 years),Mid-Fjord,False,37.4,Stryneelva,small,Moderate (25-50km),No Influence
+31637,6,66.08231,12.201167,Zone 4: Northern (66-69°N),Melkøya,Recurrent (6-8 years),Inner Fjord,False,55.3,Vefsna,major,Far (>50km),No Influence
+31677,3,62.79627,6.66985,Zone 2: Western (60-63°N),Sandholmane,Occasional (3-5 years),Mid-Fjord,False,61.7,Norddalselva,small,Far (>50km),No Influence
+31697,6,60.43382,4.9411,Zone 2: Western (60-63°N),Oksen,Recurrent (6-8 years),Mid-Fjord,False,82.2,Vosso,medium,Far (>50km),No Influence
+31717,7,62.5305,6.428583,Zone 2: Western (60-63°N),Gjerset Vest,Recurrent (6-8 years),Mid-Fjord,False,47.4,Norddalselva,small,Moderate (25-50km),No Influence
+31738,2,69.153984,17.948418,Zone 5: Arctic (69-71°N),Bjørga,Sporadic (0-2 years),Inner Fjord,False,27.9,Målselva,major,Moderate (25-50km),Weak Influence
+31757,8,68.79125,16.914017,Zone 4: Northern (66-69°N),Kasteberget,Recurrent (6-8 years),Inner Fjord,False,67.9,Målselva,major,Far (>50km),No Influence
+31777,7,67.60568,15.368483,Zone 4: Northern (66-69°N),Reinvika,Recurrent (6-8 years),Inner Fjord,False,56.4,Saltdalselva,medium,Far (>50km),No Influence
+31797,5,70.82937,24.450684,Zone 5: Arctic (69-71°N),Fartøyvika,Occasional (3-5 years),Mid-Fjord,False,113.8,Altaelva,major,Far (>50km),No Influence
+31817,4,68.71893,16.7745,Zone 4: Northern (66-69°N),Svartskjær,Occasional (3-5 years),Inner Fjord,False,76.2,Målselva,major,Far (>50km),No Influence
+31857,2,65.85637,12.311833,Zone 3: Mid (63-66°N),Blomsøråsa,Sporadic (0-2 years),Mid-Fjord,False,41.1,Vefsna,major,Moderate (25-50km),No Influence
+31877,3,64.6206,11.233183,Zone 3: Mid (63-66°N),Barøya,Occasional (3-5 years),Mid-Fjord,False,18.6,Namsen,major,Close (10-25km),Weak Influence
+31917,0,70.71336,23.827433,Zone 5: Arctic (69-71°N),Kirkeneset,Sporadic (0-2 years),Mid-Fjord,False,93.8,Altaelva,major,Far (>50km),No Influence
+31958,2,63.97185,9.954783,Zone 3: Mid (63-66°N),Ratvika,Sporadic (0-2 years),Mid-Fjord,False,70.3,Stjørdalselva,medium,Far (>50km),No Influence
+31959,6,63.782383,8.526367,Zone 3: Mid (63-66°N),Rataren II,Recurrent (6-8 years),Mid-Fjord,False,83.1,Orkla,major,Far (>50km),No Influence
+32017,4,64.7198,11.461683,Zone 3: Mid (63-66°N),Ånholmen,Occasional (3-5 years),Mid-Fjord,False,24.6,Namsen,major,Close (10-25km),Weak Influence
+32037,6,66.34873,12.779417,Zone 4: Northern (66-69°N),Grasholman,Recurrent (6-8 years),Inner Fjord,False,55.0,Ranfjorden rivers,medium,Far (>50km),No Influence
+32057,3,64.81865,10.935217,Zone 3: Mid (63-66°N),Lyngøy,Occasional (3-5 years),Mid-Fjord,False,44.6,Namsen,major,Moderate (25-50km),No Influence
+32097,3,63.14123,8.21375,Zone 3: Mid (63-66°N),Korsneset 2,Occasional (3-5 years),Mid-Fjord,False,36.5,Surna,medium,Moderate (25-50km),No Influence
+32117,4,59.9332,5.239467,Zone 1: Southern (58-60°N),Dyrholmen Øst,Occasional (3-5 years),Mid-Fjord,False,61.0,Etneelva,small,Far (>50km),No Influence
+32137,0,60.348385,5.644033,Zone 2: Western (60-63°N),Sagen 2,Sporadic (0-2 years),Mid-Fjord,False,50.1,Vosso,medium,Far (>50km),No Influence
+32157,5,59.928516,5.2307,Zone 1: Southern (58-60°N),Dyrholmen Vest,Occasional (3-5 years),Mid-Fjord,False,61.0,Etneelva,small,Far (>50km),No Influence
+32197,8,62.6444,6.5568,Zone 2: Western (60-63°N),Dryna,Recurrent (6-8 years),Mid-Fjord,False,50.7,Norddalselva,small,Far (>50km),No Influence
+32217,3,59.685318,5.4311,Zone 1: Southern (58-60°N),Kvernaneset,Occasional (3-5 years),Mid-Fjord,False,38.9,Etneelva,small,Moderate (25-50km),No Influence
+32237,0,70.22045,21.809067,Zone 5: Arctic (69-71°N),Sloppegrunn,Sporadic (0-2 years),Mid-Fjord,False,63.9,Altaelva,major,Far (>50km),No Influence
+32257,9,68.8658,16.670218,Zone 4: Northern (66-69°N),Kjøtta Vest,Persistent (9-10 years),Inner Fjord,True,74.9,Målselva,major,Far (>50km),No Influence
+32277,2,63.469784,7.8556,Zone 3: Mid (63-66°N),Andholmen 1,Sporadic (0-2 years),Mid-Fjord,False,76.4,Surna,medium,Far (>50km),No Influence
+32297,3,63.46745,7.847167,Zone 3: Mid (63-66°N),Andholmen 2,Occasional (3-5 years),Mid-Fjord,False,76.4,Surna,medium,Far (>50km),No Influence
+32317,5,61.297916,4.66045,Zone 2: Western (60-63°N),Guriøyna,Occasional (3-5 years),Mid-Fjord,False,69.9,Jølstra,small,Far (>50km),No Influence
+32337,6,61.572067,5.0466,Zone 2: Western (60-63°N),Veiesund,Recurrent (6-8 years),Mid-Fjord,False,46.1,Jølstra,small,Moderate (25-50km),No Influence
+32397,0,67.20264,15.275,Zone 4: Northern (66-69°N),Storvika I Skjerstadfjorden,Sporadic (0-2 years),Inner Fjord,False,12.7,Saltdalselva,medium,Close (10-25km),Moderate Influence
+32417,2,60.004616,5.227633,Zone 2: Western (60-63°N),HYesrtholmosen,Sporadic (0-2 years),Mid-Fjord,False,66.6,Etneelva,small,Far (>50km),No Influence
+32437,10,63.000534,8.325633,Zone 3: Mid (63-66°N),Urda,Persistent (9-10 years),Mid-Fjord,True,22.1,Surna,medium,Close (10-25km),Weak Influence
+32457,4,59.410816,5.21725,Zone 1: Southern (58-60°N),Dalsvåg Nv,Occasional (3-5 years),Mid-Fjord,False,54.3,Etneelva,small,Far (>50km),No Influence
+32497,3,68.697,14.963383,Zone 4: Northern (66-69°N),Daljorda,Occasional (3-5 years),Inner Fjord,False,146.4,Målselva,major,Far (>50km),No Influence
+32518,6,60.996983,4.897467,Zone 2: Western (60-63°N),Kuøyna,Recurrent (6-8 years),Mid-Fjord,False,77.7,Jølstra,small,Far (>50km),No Influence
+32537,3,69.5463,17.7697,Zone 5: Arctic (69-71°N),Baltsfjord,Occasional (3-5 years),Inner Fjord,False,67.4,Målselva,major,Far (>50km),No Influence
+32577,7,60.08165,5.168567,Zone 2: Western (60-63°N),Klammerholmen,Recurrent (6-8 years),Mid-Fjord,False,74.9,Etneelva,small,Far (>50km),No Influence
+32597,6,63.256516,7.928067,Zone 3: Mid (63-66°N),Fjordprakken,Recurrent (6-8 years),Mid-Fjord,False,55.7,Surna,medium,Far (>50km),No Influence
+32598,2,70.63913,24.573383,Zone 5: Arctic (69-71°N),Kokelv,Sporadic (0-2 years),Mid-Fjord,False,97.4,Altaelva,major,Far (>50km),No Influence
+32617,4,70.14235,22.893534,Zone 5: Arctic (69-71°N),Ytre Koven,Occasional (3-5 years),Mid-Fjord,False,29.5,Altaelva,major,Moderate (25-50km),Weak Influence
+32637,0,70.54017,30.136118,Zone 5: Arctic (69-71°N),Veidnes,Sporadic (0-2 years),Mid-Fjord,False,81.9,Tana,major,Far (>50km),No Influence
+32657,0,67.23898,14.8369,Zone 4: Northern (66-69°N),Kvalnesbukta,Sporadic (0-2 years),Inner Fjord,False,28.9,Saltdalselva,medium,Moderate (25-50km),Weak Influence
+32677,6,63.678017,8.66685,Zone 3: Mid (63-66°N),Espnestaren,Recurrent (6-8 years),Mid-Fjord,False,70.4,Orkla,major,Far (>50km),No Influence
+32697,1,68.51185,14.951633,Zone 4: Northern (66-69°N),Steilo,Sporadic (0-2 years),Inner Fjord,False,153.5,Målselva,major,Far (>50km),No Influence
+32717,8,63.872032,9.769783,Zone 3: Mid (63-66°N),Tranøya N,Recurrent (6-8 years),Mid-Fjord,False,63.8,Orkla,major,Far (>50km),No Influence
+32737,3,68.10022,13.620333,Zone 4: Northern (66-69°N),Heldalen,Occasional (3-5 years),Inner Fjord,False,134.8,Saltdalselva,medium,Far (>50km),No Influence
+32757,4,60.09942,5.117883,Zone 2: Western (60-63°N),Horgefjorden,Occasional (3-5 years),Mid-Fjord,False,78.3,Etneelva,small,Far (>50km),No Influence
+32777,1,69.556885,17.61055,Zone 5: Arctic (69-71°N),Hundbergan,Sporadic (0-2 years),Inner Fjord,False,71.4,Målselva,major,Far (>50km),No Influence
+32797,0,70.9178,25.00625,Zone 5: Arctic (69-71°N),Elvevika Ny,Sporadic (0-2 years),Mid-Fjord,False,132.1,Altaelva,major,Far (>50km),No Influence
+32857,4,59.831932,5.0801,Zone 1: Southern (58-60°N),Trettholmosen,Occasional (3-5 years),Mid-Fjord,False,62.9,Etneelva,small,Far (>50km),No Influence
+32877,5,60.173317,5.293683,Zone 2: Western (60-63°N),Skorpo,Occasional (3-5 years),Mid-Fjord,False,77.3,Vosso,medium,Far (>50km),No Influence
+32897,2,66.1581,12.682017,Zone 4: Northern (66-69°N),Breivika Sør,Sporadic (0-2 years),Inner Fjord,False,46.4,Vefsna,major,Moderate (25-50km),No Influence
+32917,2,68.81875,17.34635,Zone 4: Northern (66-69°N),Gregusvika,Sporadic (0-2 years),Inner Fjord,False,50.6,Målselva,major,Far (>50km),No Influence
+32977,7,61.152668,6.1167,Zone 2: Western (60-63°N),Måren,Recurrent (6-8 years),Mid-Fjord,False,40.4,Jølstra,small,Moderate (25-50km),No Influence
+32997,1,68.28668,15.122683,Zone 4: Northern (66-69°N),Raven,Sporadic (0-2 years),Inner Fjord,False,132.9,Saltdalselva,medium,Far (>50km),No Influence
+33017,3,62.73835,6.937667,Zone 2: Western (60-63°N),Setevika Nord,Occasional (3-5 years),Mid-Fjord,False,47.3,Rauma,medium,Moderate (25-50km),No Influence
+33077,6,61.206,5.131733,Zone 2: Western (60-63°N),Elveneset,Recurrent (6-8 years),Mid-Fjord,False,52.6,Jølstra,small,Far (>50km),No Influence
+33097,7,70.04375,20.94965,Zone 5: Arctic (69-71°N),Skjervøy V,Recurrent (6-8 years),Mid-Fjord,False,87.5,Altaelva,major,Far (>50km),No Influence
+33117,5,68.60053,15.344867,Zone 4: Northern (66-69°N),Djupvik,Occasional (3-5 years),Inner Fjord,False,134.9,Målselva,major,Far (>50km),No Influence
+33157,4,65.83141,12.070533,Zone 3: Mid (63-66°N),Skogsholmen,Occasional (3-5 years),Mid-Fjord,False,51.8,Vefsna,major,Far (>50km),No Influence
+33177,5,63.9399,9.88575,Zone 3: Mid (63-66°N),Krabbholmen II,Occasional (3-5 years),Mid-Fjord,False,70.1,Stjørdalselva,medium,Far (>50km),No Influence
+33197,2,70.44928,23.63865,Zone 5: Arctic (69-71°N),Jernelva,Sporadic (0-2 years),Mid-Fjord,False,63.5,Altaelva,major,Far (>50km),No Influence
+33218,5,64.08518,9.884683,Zone 3: Mid (63-66°N),Hosenøyan,Occasional (3-5 years),Mid-Fjord,False,82.2,Stjørdalselva,medium,Far (>50km),No Influence
+33297,6,66.03093,12.481483,Zone 4: Northern (66-69°N),Nye Skorpa,Recurrent (6-8 years),Inner Fjord,False,41.6,Vefsna,major,Moderate (25-50km),No Influence
+33337,3,60.1197,5.720917,Zone 2: Western (60-63°N),Lyngnes,Occasional (3-5 years),Mid-Fjord,False,61.7,Etneelva,small,Far (>50km),No Influence
+33357,0,63.479218,7.999867,Zone 3: Mid (63-66°N),Gullklakken,Sporadic (0-2 years),Mid-Fjord,False,73.6,Surna,medium,Far (>50km),No Influence
+33417,5,63.91345,9.826433,Zone 3: Mid (63-66°N),Persflua,Occasional (3-5 years),Mid-Fjord,False,68.4,Orkla,major,Far (>50km),No Influence
+33457,2,67.754684,15.704383,Zone 4: Northern (66-69°N),Ånderbakk,Sporadic (0-2 years),Inner Fjord,False,74.2,Saltdalselva,medium,Far (>50km),No Influence
+33477,3,68.772835,15.446583,Zone 4: Northern (66-69°N),Reinsnesøya,Occasional (3-5 years),Inner Fjord,False,125.4,Målselva,major,Far (>50km),No Influence
+33517,2,70.8172,24.590567,Zone 5: Arctic (69-71°N),Petternes,Sporadic (0-2 years),Mid-Fjord,False,114.9,Altaelva,major,Far (>50km),No Influence
+33537,4,64.1569,10.008917,Zone 3: Mid (63-66°N),Buholmen,Occasional (3-5 years),Mid-Fjord,False,81.6,Namsen,major,Far (>50km),No Influence
+33557,3,63.82245,8.74075,Zone 3: Mid (63-66°N),Langskjæra II,Occasional (3-5 years),Mid-Fjord,False,78.5,Orkla,major,Far (>50km),No Influence
+33577,0,58.06008,6.885683,Zone 1: Southern (58-60°N),Kjeholmen II,Sporadic (0-2 years),Mid-Fjord,False,65.9,Otra,major,Far (>50km),No Influence
+33597,0,61.29278,5.014117,Zone 2: Western (60-63°N),Grytøyraholmen,Sporadic (0-2 years),Mid-Fjord,False,52.7,Jølstra,small,Far (>50km),No Influence
+33617,4,63.299618,8.4183,Zone 3: Mid (63-66°N),Gjerde,Occasional (3-5 years),Mid-Fjord,False,46.8,Surna,medium,Moderate (25-50km),No Influence
+33657,5,66.53287,12.888433,Zone 4: Northern (66-69°N),Movikodden N,Occasional (3-5 years),Inner Fjord,False,56.0,Ranfjorden rivers,medium,Far (>50km),No Influence
+33677,4,61.145,5.656183,Zone 2: Western (60-63°N),Torvund,Occasional (3-5 years),Mid-Fjord,False,41.7,Jølstra,small,Moderate (25-50km),No Influence
+33697,6,63.350433,9.23325,Zone 3: Mid (63-66°N),Forrahammaren,Recurrent (6-8 years),Mid-Fjord,False,28.9,Orkla,major,Moderate (25-50km),Weak Influence
+33737,4,63.7917,8.504717,Zone 3: Mid (63-66°N),Olausskjæret,Occasional (3-5 years),Mid-Fjord,False,84.6,Orkla,major,Far (>50km),No Influence
+33757,0,63.942,9.133483,Zone 3: Mid (63-66°N),Håbranden,Sporadic (0-2 years),Mid-Fjord,False,78.8,Orkla,major,Far (>50km),No Influence
+33777,0,70.02435,29.292183,Zone 5: Arctic (69-71°N),Lausklubben,Sporadic (0-2 years),Mid-Fjord,False,45.9,Tana,major,Moderate (25-50km),No Influence
+33797,5,59.067284,5.839383,Zone 1: Southern (58-60°N),Hidlekjerringa,Occasional (3-5 years),Mid-Fjord,False,61.2,Suldalslågen,medium,Far (>50km),No Influence
+33837,0,65.06498,12.088917,Zone 3: Mid (63-66°N),Møllebogen,Sporadic (0-2 years),Mid-Fjord,False,68.9,Namsen,major,Far (>50km),No Influence
+33937,3,63.338917,8.2718,Zone 3: Mid (63-66°N),Nørholmen,Occasional (3-5 years),Mid-Fjord,False,53.5,Surna,medium,Far (>50km),No Influence
+33957,4,63.722168,8.913317,Zone 3: Mid (63-66°N),Hofsøya,Occasional (3-5 years),Mid-Fjord,False,64.5,Orkla,major,Far (>50km),No Influence
+33997,3,70.65926,22.640932,Zone 5: Arctic (69-71°N),Næringsbukta,Occasional (3-5 years),Mid-Fjord,False,87.3,Altaelva,major,Far (>50km),No Influence
+33998,4,70.66345,22.621733,Zone 5: Arctic (69-71°N),Klubben,Occasional (3-5 years),Mid-Fjord,False,87.9,Altaelva,major,Far (>50km),No Influence
+34017,5,63.6686,8.844717,Zone 3: Mid (63-66°N),Hilbåan,Occasional (3-5 years),Mid-Fjord,False,62.9,Orkla,major,Far (>50km),No Influence
+34018,0,65.02533,11.676017,Zone 3: Mid (63-66°N),Dolma N,Sporadic (0-2 years),Mid-Fjord,False,59.2,Namsen,major,Far (>50km),No Influence
+34037,11,67.73985,14.896817,Zone 4: Northern (66-69°N),Kråkåsen,Persistent (9-10 years),Inner Fjord,True,74.5,Saltdalselva,medium,Far (>50km),No Influence
+34057,3,69.12883,17.79755,Zone 5: Arctic (69-71°N),Mohamn,Occasional (3-5 years),Inner Fjord,False,31.5,Målselva,major,Moderate (25-50km),No Influence
+34117,3,60.17177,5.563633,Zone 2: Western (60-63°N),Skåtholmen,Occasional (3-5 years),Mid-Fjord,False,66.4,Vosso,medium,Far (>50km),No Influence
+34137,1,69.47495,18.065416,Zone 5: Arctic (69-71°N),Skårliodden,Sporadic (0-2 years),Mid-Fjord,False,55.7,Målselva,major,Far (>50km),No Influence
+34197,7,65.978714,12.16355,Zone 3: Mid (63-66°N),Brennholmen,Recurrent (6-8 years),Mid-Fjord,False,51.3,Vefsna,major,Far (>50km),No Influence
+34257,2,65.07878,11.724033,Zone 3: Mid (63-66°N),Lekafjorden II,Sporadic (0-2 years),Mid-Fjord,False,65.4,Namsen,major,Far (>50km),No Influence
+34277,5,68.65585,14.729617,Zone 4: Northern (66-69°N),Mikkelsøya,Occasional (3-5 years),Inner Fjord,False,156.8,Målselva,major,Far (>50km),No Influence
+34297,3,68.40086,16.2171,Zone 4: Northern (66-69°N),Stabben,Occasional (3-5 years),Inner Fjord,False,114.2,Målselva,major,Far (>50km),No Influence
+34337,0,67.95035,13.077717,Zone 4: Northern (66-69°N),Olstind,Sporadic (0-2 years),Inner Fjord,False,137.2,Saltdalselva,medium,Far (>50km),No Influence
+34357,6,68.970535,15.264783,Zone 4: Northern (66-69°N),Gisløy Nø,Recurrent (6-8 years),Inner Fjord,False,129.6,Målselva,major,Far (>50km),No Influence
+34397,5,60.861485,4.964867,Zone 2: Western (60-63°N),Hyseneset,Occasional (3-5 years),Mid-Fjord,False,83.6,Vosso,medium,Far (>50km),No Influence
+34457,4,70.01058,19.666616,Zone 5: Arctic (69-71°N),Langås,Occasional (3-5 years),Mid-Fjord,False,121.6,Målselva,major,Far (>50km),No Influence
+34477,4,64.389565,10.512533,Zone 3: Mid (63-66°N),Nausttaren,Occasional (3-5 years),Mid-Fjord,False,49.1,Namsen,major,Moderate (25-50km),No Influence
+34537,0,60.05005,5.794033,Zone 2: Western (60-63°N),Nystølvågen II,Sporadic (0-2 years),Mid-Fjord,False,53.0,Etneelva,small,Far (>50km),No Influence
+34577,2,70.56365,24.119066,Zone 5: Arctic (69-71°N),Enkeneset,Sporadic (0-2 years),Mid-Fjord,False,81.8,Altaelva,major,Far (>50km),No Influence
+34597,1,63.76718,8.908517,Zone 3: Mid (63-66°N),Seiballskjæret,Sporadic (0-2 years),Mid-Fjord,False,68.4,Orkla,major,Far (>50km),No Influence
+34617,2,63.47635,7.951517,Zone 3: Mid (63-66°N),Gråøya,Sporadic (0-2 years),Mid-Fjord,False,74.5,Surna,medium,Far (>50km),No Influence
+34637,3,68.66638,14.914717,Zone 4: Northern (66-69°N),Langholmen N,Occasional (3-5 years),Inner Fjord,False,149.2,Målselva,major,Far (>50km),No Influence
+34657,4,60.750233,5.29845,Zone 2: Western (60-63°N),Laberget,Occasional (3-5 years),Mid-Fjord,False,62.5,Vosso,medium,Far (>50km),No Influence
+34677,3,63.3095,8.115567,Zone 3: Mid (63-66°N),Hestøya,Occasional (3-5 years),Mid-Fjord,False,54.4,Surna,medium,Far (>50km),No Influence
+34697,0,70.774765,27.2185,Zone 5: Arctic (69-71°N),Øyra,Sporadic (0-2 years),Mid-Fjord,False,73.8,Tana,major,Far (>50km),No Influence
+34717,0,68.13462,13.867217,Zone 4: Northern (66-69°N),Eidisholman,Sporadic (0-2 years),Inner Fjord,False,132.5,Saltdalselva,medium,Far (>50km),No Influence
+34737,0,59.432583,5.106567,Zone 1: Southern (58-60°N),Ulvøyo,Sporadic (0-2 years),Mid-Fjord,False,59.3,Etneelva,small,Far (>50km),No Influence
+34797,0,64.95078,12.0567,Zone 3: Mid (63-66°N),Kalvhagan II,Sporadic (0-2 years),Mid-Fjord,False,56.8,Namsen,major,Far (>50km),No Influence
+34857,9,63.90485,8.589133,Zone 3: Mid (63-66°N),Salatskjæra,Persistent (9-10 years),Mid-Fjord,True,90.3,Orkla,major,Far (>50km),No Influence
+34897,4,64.22307,10.279933,Zone 3: Mid (63-66°N),Brandsfjorden,Occasional (3-5 years),Mid-Fjord,False,66.5,Namsen,major,Far (>50km),No Influence
+34917,1,65.249435,12.815283,Zone 3: Mid (63-66°N),Tosen,Sporadic (0-2 years),Mid-Fjord,False,63.9,Vefsna,major,Far (>50km),No Influence
+34997,2,67.4164,14.428667,Zone 4: Northern (66-69°N),Bjørnøya,Sporadic (0-2 years),Inner Fjord,False,54.8,Saltdalselva,medium,Far (>50km),No Influence
+35197,1,64.9848,11.135467,Zone 3: Mid (63-66°N),Hjortøya,Sporadic (0-2 years),Mid-Fjord,False,56.8,Namsen,major,Far (>50km),No Influence
+35237,2,69.4334,18.153482,Zone 5: Arctic (69-71°N),Durmålsvika,Sporadic (0-2 years),Mid-Fjord,False,50.3,Målselva,major,Far (>50km),No Influence
+35297,1,58.91455,6.028583,Zone 1: Southern (58-60°N),Ådnøy Sø,Sporadic (0-2 years),Mid-Fjord,False,70.6,Suldalslågen,medium,Far (>50km),No Influence
+35317,5,69.00265,17.440567,Zone 5: Arctic (69-71°N),Litjevika,Occasional (3-5 years),Inner Fjord,False,42.4,Målselva,major,Moderate (25-50km),No Influence
+35318,3,69.0188,17.520067,Zone 5: Arctic (69-71°N),Sortevika,Occasional (3-5 years),Inner Fjord,False,39.2,Målselva,major,Moderate (25-50km),No Influence
+35337,1,69.896866,18.486267,Zone 5: Arctic (69-71°N),Småvær,Sporadic (0-2 years),Mid-Fjord,False,100.1,Målselva,major,Far (>50km),No Influence
+35377,2,63.82503,8.444633,Zone 3: Mid (63-66°N),Kveitskjeret,Sporadic (0-2 years),Mid-Fjord,False,89.2,Orkla,major,Far (>50km),No Influence
+35417,9,67.7382,14.75345,Zone 4: Northern (66-69°N),Sandøya,Persistent (9-10 years),Inner Fjord,True,76.4,Saltdalselva,medium,Far (>50km),No Influence
+35477,4,64.54919,10.7341,Zone 3: Mid (63-66°N),Makrellskjæret,Occasional (3-5 years),Mid-Fjord,False,37.2,Namsen,major,Moderate (25-50km),No Influence
+35497,1,60.08077,5.192033,Zone 2: Western (60-63°N),Drøno,Sporadic (0-2 years),Mid-Fjord,False,73.9,Etneelva,small,Far (>50km),No Influence
+35517,5,60.695,4.761117,Zone 2: Western (60-63°N),Vadholmen,Occasional (3-5 years),Mid-Fjord,False,90.3,Vosso,medium,Far (>50km),No Influence
+35597,2,69.91572,20.601418,Zone 5: Arctic (69-71°N),Follesøy,Sporadic (0-2 years),Mid-Fjord,False,99.7,Altaelva,major,Far (>50km),No Influence
+35617,0,67.14543,14.281183,Zone 4: Northern (66-69°N),Mulnesodden,Sporadic (0-2 years),Inner Fjord,False,48.8,Saltdalselva,medium,Moderate (25-50km),No Influence
+35657,5,63.635715,9.186467,Zone 3: Mid (63-66°N),Varden,Occasional (3-5 years),Mid-Fjord,False,48.3,Orkla,major,Moderate (25-50km),No Influence
+35677,3,68.4885,15.125917,Zone 4: Northern (66-69°N),Brottøy,Occasional (3-5 years),Inner Fjord,False,148.0,Målselva,major,Far (>50km),No Influence
+35697,0,63.47025,8.679067,Zone 3: Mid (63-66°N),Dyrvikholman,Sporadic (0-2 years),Mid-Fjord,False,59.2,Orkla,major,Far (>50km),No Influence
+35737,0,65.44133,12.44435,Zone 3: Mid (63-66°N),Sæterosen,Sporadic (0-2 years),Mid-Fjord,False,53.0,Vefsna,major,Far (>50km),No Influence
+35777,4,66.1008,12.157333,Zone 4: Northern (66-69°N),Kvitskjæret,Occasional (3-5 years),Inner Fjord,False,58.1,Vefsna,major,Far (>50km),No Influence
+35797,1,65.00819,11.746417,Zone 3: Mid (63-66°N),Årsetfjorden,Sporadic (0-2 years),Mid-Fjord,False,57.9,Namsen,major,Far (>50km),No Influence
+35817,4,67.18557,14.388433,Zone 4: Northern (66-69°N),Storevika,Occasional (3-5 years),Inner Fjord,False,44.9,Saltdalselva,medium,Moderate (25-50km),No Influence
+35838,0,69.8227,18.51875,Zone 5: Arctic (69-71°N),Vengsøy,Sporadic (0-2 years),Mid-Fjord,False,91.8,Målselva,major,Far (>50km),No Influence
+35877,1,64.971634,11.723933,Zone 3: Mid (63-66°N),Eiterfjorden,Sporadic (0-2 years),Mid-Fjord,False,53.7,Namsen,major,Far (>50km),No Influence
+35897,0,60.130184,6.126617,Zone 2: Western (60-63°N),Nye Hessvik,Sporadic (0-2 years),Mid-Fjord,False,54.5,Vosso,medium,Far (>50km),No Influence
+35957,3,70.67102,24.487232,Zone 5: Arctic (69-71°N),Danielsvika,Occasional (3-5 years),Mid-Fjord,False,98.7,Altaelva,major,Far (>50km),No Influence
+35977,1,66.55785,13.526233,Zone 4: Northern (66-69°N),Lian,Sporadic (0-2 years),Inner Fjord,False,35.7,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+35997,3,69.953865,21.88035,Zone 5: Arctic (69-71°N),Kviteberg,Occasional (3-5 years),Mid-Fjord,False,50.9,Altaelva,major,Far (>50km),No Influence
+36017,2,65.88035,11.93045,Zone 3: Mid (63-66°N),Sørværet,Sporadic (0-2 years),Mid-Fjord,False,58.7,Vefsna,major,Far (>50km),No Influence
+36037,6,66.1336,12.851983,Zone 4: Northern (66-69°N),Klipen,Recurrent (6-8 years),Inner Fjord,False,40.4,Vefsna,major,Moderate (25-50km),No Influence
+36077,3,68.93653,16.72465,Zone 4: Northern (66-69°N),Mollvika,Occasional (3-5 years),Inner Fjord,False,71.5,Målselva,major,Far (>50km),No Influence
+36099,5,70.91161,25.32495,Zone 5: Arctic (69-71°N),Store Kobbøy,Occasional (3-5 years),Mid-Fjord,False,133.1,Tana,major,Far (>50km),No Influence
+36100,5,63.494934,8.02235,Zone 3: Mid (63-66°N),Suholmen,Occasional (3-5 years),Mid-Fjord,False,74.6,Surna,medium,Far (>50km),No Influence
+36117,1,67.528,15.359683,Zone 4: Northern (66-69°N),Matvika,Sporadic (0-2 years),Inner Fjord,False,47.8,Saltdalselva,medium,Moderate (25-50km),No Influence
+36118,2,68.82377,15.400217,Zone 4: Northern (66-69°N),Bremnesøya,Sporadic (0-2 years),Inner Fjord,False,126.0,Målselva,major,Far (>50km),No Influence
+36137,5,68.85322,17.06575,Zone 4: Northern (66-69°N),Jekteberget,Occasional (3-5 years),Inner Fjord,False,59.9,Målselva,major,Far (>50km),No Influence
+36138,3,64.27302,10.246233,Zone 3: Mid (63-66°N),Flatøyfjorden,Occasional (3-5 years),Mid-Fjord,False,65.6,Namsen,major,Far (>50km),No Influence
+36177,6,68.91143,16.645132,Zone 4: Northern (66-69°N),Skjellesvika,Recurrent (6-8 years),Inner Fjord,False,75.0,Målselva,major,Far (>50km),No Influence
+36178,0,70.046135,21.282034,Zone 5: Arctic (69-71°N),Haukøya Ø,Sporadic (0-2 years),Mid-Fjord,False,75.1,Altaelva,major,Far (>50km),No Influence
+36217,1,65.74827,12.540533,Zone 3: Mid (63-66°N),Kalvhylla,Sporadic (0-2 years),Mid-Fjord,False,30.8,Vefsna,major,Moderate (25-50km),No Influence
+36237,0,69.96655,20.615282,Zone 5: Arctic (69-71°N),Vorterøya,Sporadic (0-2 years),Mid-Fjord,False,99.3,Altaelva,major,Far (>50km),No Influence
+36257,2,70.10643,19.583866,Zone 5: Arctic (69-71°N),Mjønes,Sporadic (0-2 years),Mid-Fjord,False,130.5,Målselva,major,Far (>50km),No Influence
+36297,5,61.38997,4.98405,Zone 2: Western (60-63°N),Kjeringeholmen,Occasional (3-5 years),Mid-Fjord,False,50.4,Jølstra,small,Far (>50km),No Influence
+36317,1,65.54905,12.126417,Zone 3: Mid (63-66°N),Varholmen,Sporadic (0-2 years),Mid-Fjord,False,56.7,Vefsna,major,Far (>50km),No Influence
+36337,6,66.35017,12.469267,Zone 4: Northern (66-69°N),Vardskjæret S,Recurrent (6-8 years),Inner Fjord,False,68.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+36417,0,70.75667,23.4353,Zone 5: Arctic (69-71°N),Borvika,Sporadic (0-2 years),Mid-Fjord,False,96.0,Altaelva,major,Far (>50km),No Influence
+36457,2,65.20317,11.569,Zone 3: Mid (63-66°N),Kvingra,Sporadic (0-2 years),Mid-Fjord,False,78.5,Namsen,major,Far (>50km),No Influence
+36497,0,68.47665,16.09135,Zone 4: Northern (66-69°N),Lille Djupfest,Sporadic (0-2 years),Inner Fjord,False,113.6,Målselva,major,Far (>50km),No Influence
+36517,6,66.5896,12.84965,Zone 4: Northern (66-69°N),Selsøyvær,Recurrent (6-8 years),Inner Fjord,False,60.6,Ranfjorden rivers,medium,Far (>50km),No Influence
+36617,2,64.953316,11.195717,Zone 3: Mid (63-66°N),Harbakholmen,Sporadic (0-2 years),Mid-Fjord,False,52.6,Namsen,major,Far (>50km),No Influence
+36717,5,69.468414,17.606182,Zone 5: Arctic (69-71°N),Vindhammarneset,Occasional (3-5 years),Inner Fjord,False,63.1,Målselva,major,Far (>50km),No Influence
+36737,3,67.4421,14.71295,Zone 4: Northern (66-69°N),Hallsteinhamn I,Occasional (3-5 years),Inner Fjord,False,48.3,Saltdalselva,medium,Moderate (25-50km),No Influence
+36757,1,69.936714,19.832184,Zone 5: Arctic (69-71°N),Lubben,Sporadic (0-2 years),Mid-Fjord,False,116.8,Målselva,major,Far (>50km),No Influence
+36778,6,66.16405,12.400767,Zone 4: Northern (66-69°N),Havstein Sør,Recurrent (6-8 years),Inner Fjord,False,54.5,Vefsna,major,Far (>50km),No Influence
+36797,1,69.986916,19.931633,Zone 5: Arctic (69-71°N),Korsnes,Sporadic (0-2 years),Mid-Fjord,False,123.5,Målselva,major,Far (>50km),No Influence
+36817,4,67.38345,14.381967,Zone 4: Northern (66-69°N),Kariskjæret,Occasional (3-5 years),Inner Fjord,False,54.1,Saltdalselva,medium,Far (>50km),No Influence
+36877,1,63.819683,8.408817,Zone 3: Mid (63-66°N),Munkskjæra,Sporadic (0-2 years),Mid-Fjord,False,90.2,Orkla,major,Far (>50km),No Influence
+36917,4,64.21093,10.115183,Zone 3: Mid (63-66°N),Drevflesa,Occasional (3-5 years),Mid-Fjord,False,74.3,Namsen,major,Far (>50km),No Influence
+36937,2,69.15137,16.906532,Zone 5: Arctic (69-71°N),Hallvardsøya,Sporadic (0-2 years),Inner Fjord,False,65.7,Målselva,major,Far (>50km),No Influence
+37057,3,68.90805,17.407818,Zone 4: Northern (66-69°N),Mjøsund Vest,Occasional (3-5 years),Inner Fjord,False,45.0,Målselva,major,Moderate (25-50km),No Influence
+37077,0,65.19105,12.6723,Zone 3: Mid (63-66°N),Oksbåsen,Sporadic (0-2 years),Mid-Fjord,False,72.2,Vefsna,major,Far (>50km),No Influence
+37177,1,64.769165,10.62895,Zone 3: Mid (63-66°N),Djuptaren,Sporadic (0-2 years),Mid-Fjord,False,51.3,Namsen,major,Far (>50km),No Influence
+37197,5,63.770084,8.476033,Zone 3: Mid (63-66°N),Ruggstein,Occasional (3-5 years),Mid-Fjord,False,84.2,Orkla,major,Far (>50km),No Influence
+37217,6,68.92503,16.3452,Zone 4: Northern (66-69°N),Dale,Recurrent (6-8 years),Inner Fjord,False,86.8,Målselva,major,Far (>50km),No Influence
+37237,2,70.64533,22.694317,Zone 5: Arctic (69-71°N),Børfjord,Sporadic (0-2 years),Mid-Fjord,False,85.3,Altaelva,major,Far (>50km),No Influence
+37297,1,70.08445,20.090366,Zone 5: Arctic (69-71°N),Larstangen,Sporadic (0-2 years),Mid-Fjord,False,120.5,Altaelva,major,Far (>50km),No Influence
+37357,2,69.57837,17.994267,Zone 5: Arctic (69-71°N),Brensholmen,Sporadic (0-2 years),Inner Fjord,False,67.5,Målselva,major,Far (>50km),No Influence
+37557,1,70.24665,22.887466,Zone 5: Arctic (69-71°N),Davatluft,Sporadic (0-2 years),Mid-Fjord,False,40.5,Altaelva,major,Moderate (25-50km),No Influence
+37717,3,63.592167,9.339833,Zone 3: Mid (63-66°N),Vassgåsholmen,Occasional (3-5 years),Mid-Fjord,False,39.8,Orkla,major,Moderate (25-50km),No Influence
+37797,1,62.379417,6.889783,Zone 2: Western (60-63°N),Skjortneset II,Sporadic (0-2 years),Mid-Fjord,False,18.3,Norddalselva,small,Close (10-25km),Weak Influence
+37857,2,65.93428,12.071567,Zone 3: Mid (63-66°N),Seiskjæret,Sporadic (0-2 years),Mid-Fjord,False,53.6,Vefsna,major,Far (>50km),No Influence
+38037,0,65.5826,12.4032,Zone 3: Mid (63-66°N),Andalsvågen I,Sporadic (0-2 years),Mid-Fjord,False,43.9,Vefsna,major,Moderate (25-50km),No Influence
+38057,0,65.68491,12.3393,Zone 3: Mid (63-66°N),Hamnsundet I,Sporadic (0-2 years),Mid-Fjord,False,41.5,Vefsna,major,Moderate (25-50km),No Influence
+38217,2,61.01673,4.950517,Zone 2: Western (60-63°N),Hardbakkeneset,Sporadic (0-2 years),Mid-Fjord,False,74.1,Jølstra,small,Far (>50km),No Influence
+38277,2,64.35658,10.424967,Zone 3: Mid (63-66°N),Nordre Skokkeløy,Sporadic (0-2 years),Mid-Fjord,False,54.2,Namsen,major,Far (>50km),No Influence
+38297,2,66.03118,12.02305,Zone 4: Northern (66-69°N),Sør Gåsvær,Sporadic (0-2 years),Inner Fjord,False,59.5,Vefsna,major,Far (>50km),No Influence
+38517,5,66.47767,12.7355,Zone 4: Northern (66-69°N),Måvær,Occasional (3-5 years),Inner Fjord,False,59.9,Ranfjorden rivers,medium,Far (>50km),No Influence
+38577,4,61.14635,5.08115,Zone 2: Western (60-63°N),Skreda,Occasional (3-5 years),Mid-Fjord,False,59.0,Jølstra,small,Far (>50km),No Influence
+38697,4,63.980415,9.865033,Zone 3: Mid (63-66°N),Takflua,Occasional (3-5 years),Mid-Fjord,False,74.0,Stjørdalselva,medium,Far (>50km),No Influence
+38757,3,68.61298,14.34655,Zone 4: Northern (66-69°N),Gaukværøy,Occasional (3-5 years),Inner Fjord,False,173.1,Målselva,major,Far (>50km),No Influence
+38777,3,63.647266,8.699267,Zone 3: Mid (63-66°N),Hallarvik,Occasional (3-5 years),Mid-Fjord,False,67.2,Orkla,major,Far (>50km),No Influence
+38797,3,63.852734,8.591083,Zone 3: Mid (63-66°N),Oløya N,Occasional (3-5 years),Mid-Fjord,False,86.0,Orkla,major,Far (>50km),No Influence
+38817,1,65.47945,12.176217,Zone 3: Mid (63-66°N),Skjåvikodden I,Sporadic (0-2 years),Mid-Fjord,False,59.2,Vefsna,major,Far (>50km),No Influence
+38857,3,71.017784,25.38915,Zone 5: Arctic (69-71°N),Vannfjorden,Occasional (3-5 years),Mid-Fjord,False,138.5,Tana,major,Far (>50km),No Influence
+38877,2,70.80725,25.81915,Zone 5: Arctic (69-71°N),Jernøya,Sporadic (0-2 years),Mid-Fjord,False,111.6,Tana,major,Far (>50km),No Influence
+38957,1,59.194965,5.478617,Zone 1: Southern (58-60°N),Låderskjera,Sporadic (0-2 years),Mid-Fjord,False,57.3,Etneelva,small,Far (>50km),No Influence
+38997,3,63.664566,8.428517,Zone 3: Mid (63-66°N),Ilsøya 2,Occasional (3-5 years),Mid-Fjord,False,79.5,Orkla,major,Far (>50km),No Influence
+39197,3,60.992134,4.697483,Zone 2: Western (60-63°N),Kverhelleskjeret,Occasional (3-5 years),Mid-Fjord,False,85.9,Jølstra,small,Far (>50km),No Influence
+39217,0,63.421917,8.207483,Zone 3: Mid (63-66°N),Hårkallbåen,Sporadic (0-2 years),Mid-Fjord,False,63.2,Surna,medium,Far (>50km),No Influence
+39237,0,61.4837,5.137283,Zone 2: Western (60-63°N),Sandkvia,Sporadic (0-2 years),Mid-Fjord,False,40.7,Jølstra,small,Moderate (25-50km),No Influence
+39377,0,61.916332,5.06495,Zone 2: Western (60-63°N),Husevågøy,Sporadic (0-2 years),Mid-Fjord,False,64.1,Jølstra,small,Far (>50km),No Influence
+39437,2,61.707684,4.911383,Zone 2: Western (60-63°N),Hovden,Sporadic (0-2 years),Mid-Fjord,False,57.3,Jølstra,small,Far (>50km),No Influence
+39477,2,61.872215,5.953667,Zone 2: Western (60-63°N),Hundvika Aust,Sporadic (0-2 years),Mid-Fjord,False,41.6,Jølstra,small,Moderate (25-50km),No Influence
+39537,2,64.683815,11.36595,Zone 3: Mid (63-66°N),Gyltneset,Sporadic (0-2 years),Mid-Fjord,False,21.5,Namsen,major,Close (10-25km),Weak Influence
+39577,5,62.015816,5.2099,Zone 2: Western (60-63°N),Silda,Occasional (3-5 years),Mid-Fjord,False,68.1,Jølstra,small,Far (>50km),No Influence
+39597,0,65.25203,11.5664,Zone 3: Mid (63-66°N),Gåsflestaren,Sporadic (0-2 years),Mid-Fjord,False,83.9,Namsen,major,Far (>50km),No Influence
+39617,2,63.416634,7.79165,Zone 3: Mid (63-66°N),Svanøya,Sporadic (0-2 years),Mid-Fjord,False,73.6,Surna,medium,Far (>50km),No Influence
+39657,3,61.80602,5.0683,Zone 2: Western (60-63°N),Skipperdalsneset,Occasional (3-5 years),Mid-Fjord,False,55.7,Jølstra,small,Far (>50km),No Influence
+39777,2,68.50135,14.585667,Zone 4: Northern (66-69°N),Ytre Hadseløya,Sporadic (0-2 years),Inner Fjord,False,160.0,Saltdalselva,medium,Far (>50km),No Influence
+39917,2,61.79855,5.131133,Zone 2: Western (60-63°N),Fureneset,Sporadic (0-2 years),Mid-Fjord,False,52.6,Jølstra,small,Far (>50km),No Influence
+39937,2,62.77625,6.78015,Zone 2: Western (60-63°N),Orholmen,Sporadic (0-2 years),Mid-Fjord,False,56.3,Rauma,medium,Far (>50km),No Influence
+39957,4,63.873585,8.4714,Zone 3: Mid (63-66°N),Flatøyan,Occasional (3-5 years),Mid-Fjord,False,91.9,Orkla,major,Far (>50km),No Influence
+39997,1,67.42153,14.031683,Zone 4: Northern (66-69°N),Helligvær Ø,Sporadic (0-2 years),Inner Fjord,False,69.1,Saltdalselva,medium,Far (>50km),No Influence
+40017,5,70.51192,23.751883,Zone 5: Arctic (69-71°N),Stangnes,Occasional (3-5 years),Mid-Fjord,False,71.4,Altaelva,major,Far (>50km),No Influence
+40037,3,59.344616,5.8946,Zone 1: Southern (58-60°N),Smedholmen,Occasional (3-5 years),Mid-Fjord,False,30.7,Etneelva,small,Moderate (25-50km),No Influence
+40117,2,65.161736,11.968417,Zone 3: Mid (63-66°N),Otervika,Sporadic (0-2 years),Mid-Fjord,False,77.1,Namsen,major,Far (>50km),No Influence
+40118,3,68.92783,15.42875,Zone 4: Northern (66-69°N),Svindalen I,Occasional (3-5 years),Inner Fjord,False,123.3,Målselva,major,Far (>50km),No Influence
+40137,3,63.937283,9.780317,Zone 3: Mid (63-66°N),Lønngrunnen,Occasional (3-5 years),Mid-Fjord,False,71.0,Orkla,major,Far (>50km),No Influence
+40217,2,69.875916,18.249,Zone 5: Arctic (69-71°N),Fellesholmen,Sporadic (0-2 years),Mid-Fjord,False,98.2,Målselva,major,Far (>50km),No Influence
+40297,1,61.506382,5.05,Zone 2: Western (60-63°N),Gnarnesvika,Sporadic (0-2 years),Mid-Fjord,False,45.3,Jølstra,small,Moderate (25-50km),No Influence
+40357,0,70.721535,23.340933,Zone 5: Arctic (69-71°N),Nordnesbukta,Sporadic (0-2 years),Mid-Fjord,False,91.8,Altaelva,major,Far (>50km),No Influence
+40377,0,65.21104,12.250167,Zone 3: Mid (63-66°N),Klampvika N,Sporadic (0-2 years),Mid-Fjord,False,79.0,Vefsna,major,Far (>50km),No Influence
+45000,1,70.01877,22.020733,Zone 5: Arctic (69-71°N),Svartberget,Sporadic (0-2 years),Mid-Fjord,False,47.0,Altaelva,major,Moderate (25-50km),No Influence
+45002,6,66.57847,12.691067,Zone 4: Northern (66-69°N),Korsvika,Recurrent (6-8 years),Inner Fjord,False,66.1,Ranfjorden rivers,medium,Far (>50km),No Influence
+45003,1,65.7725,12.245217,Zone 3: Mid (63-66°N),Ystøya,Sporadic (0-2 years),Mid-Fjord,False,43.8,Vefsna,major,Moderate (25-50km),No Influence
+45004,2,67.66928,15.198867,Zone 4: Northern (66-69°N),Mulen,Sporadic (0-2 years),Inner Fjord,False,64.1,Saltdalselva,medium,Far (>50km),No Influence
+45005,1,70.580536,23.6761,Zone 5: Arctic (69-71°N),Grøtnes N,Sporadic (0-2 years),Mid-Fjord,False,78.0,Altaelva,major,Far (>50km),No Influence
+45010,0,68.63108,15.269267,Zone 4: Northern (66-69°N),Holand,Sporadic (0-2 years),Inner Fjord,False,136.7,Målselva,major,Far (>50km),No Influence
+45013,1,65.3103,12.326,Zone 3: Mid (63-66°N),Sandskjæret,Sporadic (0-2 years),Mid-Fjord,False,67.9,Vefsna,major,Far (>50km),No Influence
+45014,1,67.75228,15.239067,Zone 4: Northern (66-69°N),Nordfoldleira I,Sporadic (0-2 years),Inner Fjord,False,73.1,Saltdalselva,medium,Far (>50km),No Influence
+45017,1,70.87483,24.616966,Zone 5: Arctic (69-71°N),Bakfjorden,Sporadic (0-2 years),Mid-Fjord,False,121.0,Altaelva,major,Far (>50km),No Influence
+45018,1,62.73923,6.768683,Zone 2: Western (60-63°N),Ny-Hellaren,Sporadic (0-2 years),Mid-Fjord,False,53.8,Norddalselva,small,Far (>50km),No Influence
+45023,1,66.32025,13.055833,Zone 4: Northern (66-69°N),Varpet,Sporadic (0-2 years),Inner Fjord,False,42.4,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+45025,3,70.54208,23.241882,Zone 5: Arctic (69-71°N),Vegglandet,Occasional (3-5 years),Mid-Fjord,False,71.7,Altaelva,major,Far (>50km),No Influence
+45028,0,67.14267,14.27865,Zone 4: Northern (66-69°N),Mulnesodden S,Sporadic (0-2 years),Inner Fjord,False,48.9,Saltdalselva,medium,Moderate (25-50km),No Influence
+45029,2,66.24312,12.29375,Zone 4: Northern (66-69°N),Ramnøya N,Sporadic (0-2 years),Inner Fjord,False,64.3,Vefsna,major,Far (>50km),No Influence
+45032,0,64.972984,11.443517,Zone 3: Mid (63-66°N),Ytterflesa,Sporadic (0-2 years),Mid-Fjord,False,52.8,Namsen,major,Far (>50km),No Influence
+45037,0,67.174965,14.2901,Zone 4: Northern (66-69°N),Kjølvika I,Sporadic (0-2 years),Inner Fjord,False,48.9,Saltdalselva,medium,Moderate (25-50km),No Influence
+45038,0,59.308735,6.165483,Zone 1: Southern (58-60°N),Hundaneset,Sporadic (0-2 years),Mid-Fjord,False,28.5,Suldalslågen,medium,Moderate (25-50km),Weak Influence
+45044,1,66.53785,13.325183,Zone 4: Northern (66-69°N),Linesvika,Sporadic (0-2 years),Inner Fjord,False,40.1,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+45046,2,64.80155,11.633783,Zone 3: Mid (63-66°N),Stasøya,Sporadic (0-2 years),Mid-Fjord,False,34.2,Namsen,major,Moderate (25-50km),No Influence
+45049,1,68.160866,16.333282,Zone 4: Northern (66-69°N),Bergkråa,Sporadic (0-2 years),Inner Fjord,False,124.8,Saltdalselva,medium,Far (>50km),No Influence
+45050,0,65.834015,12.553983,Zone 3: Mid (63-66°N),Skarvhammaren,Sporadic (0-2 years),Mid-Fjord,False,29.8,Vefsna,major,Moderate (25-50km),Weak Influence
+45058,2,62.319283,6.978617,Zone 2: Western (60-63°N),Urdaneset,Sporadic (0-2 years),Mid-Fjord,False,11.7,Norddalselva,small,Close (10-25km),Moderate Influence
+45060,1,68.4208,16.783583,Zone 4: Northern (66-69°N),Pundsvik I,Sporadic (0-2 years),Inner Fjord,False,94.9,Målselva,major,Far (>50km),No Influence
+45066,0,60.249382,6.05955,Zone 2: Western (60-63°N),Lingaholmane,Sporadic (0-2 years),Mid-Fjord,False,43.3,Vosso,medium,Moderate (25-50km),No Influence
+45068,0,68.07142,13.469983,Zone 4: Northern (66-69°N),Grænholmen,Sporadic (0-2 years),Inner Fjord,False,136.0,Saltdalselva,medium,Far (>50km),No Influence
+45070,0,70.8911,25.01295,Zone 5: Arctic (69-71°N),Kristianneset,Sporadic (0-2 years),Mid-Fjord,False,129.8,Altaelva,major,Far (>50km),No Influence
+45072,0,61.911667,5.092217,Zone 2: Western (60-63°N),Bleket,Sporadic (0-2 years),Mid-Fjord,False,62.7,Jølstra,small,Far (>50km),No Influence
+45077,3,67.98025,15.5878,Zone 4: Northern (66-69°N),Ørnhaugneset,Occasional (3-5 years),Inner Fjord,False,98.5,Saltdalselva,medium,Far (>50km),No Influence
+45078,3,61.620335,5.271967,Zone 2: Western (60-63°N),Almbakkevika,Occasional (3-5 years),Mid-Fjord,False,36.0,Jølstra,small,Moderate (25-50km),No Influence
+45080,2,66.581764,13.206917,Zone 4: Northern (66-69°N),Hestvik,Sporadic (0-2 years),Inner Fjord,False,47.3,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+45081,2,66.06672,12.252833,Zone 4: Northern (66-69°N),Langøya,Sporadic (0-2 years),Inner Fjord,False,52.4,Vefsna,major,Far (>50km),No Influence
+45083,1,69.98715,20.664618,Zone 5: Arctic (69-71°N),Vorterøyskagen,Sporadic (0-2 years),Mid-Fjord,False,97.6,Altaelva,major,Far (>50km),No Influence
+45087,4,63.0603,7.594283,Zone 3: Mid (63-66°N),Aukan,Occasional (3-5 years),Mid-Fjord,False,58.8,Surna,medium,Far (>50km),No Influence
+45092,1,64.09392,9.903667,Zone 3: Mid (63-66°N),Smælingen,Sporadic (0-2 years),Mid-Fjord,False,82.4,Stjørdalselva,medium,Far (>50km),No Influence
+45099,1,68.24457,16.2742,Zone 4: Northern (66-69°N),Grønnstranda,Sporadic (0-2 years),Inner Fjord,False,123.7,Målselva,major,Far (>50km),No Influence
+45117,1,64.557884,10.7982,Zone 3: Mid (63-66°N),Knubben,Sporadic (0-2 years),Mid-Fjord,False,34.3,Namsen,major,Moderate (25-50km),No Influence
+45122,2,62.598232,6.180333,Zone 2: Western (60-63°N),Lausund,Sporadic (0-2 years),Mid-Fjord,False,62.3,Norddalselva,small,Far (>50km),No Influence
+45124,0,61.317833,4.915,Zone 2: Western (60-63°N),Laukelandsøyna,Sporadic (0-2 years),Mid-Fjord,False,56.4,Jølstra,small,Far (>50km),No Influence
+45127,1,65.03512,11.730767,Zone 3: Mid (63-66°N),Hellerflesa,Sporadic (0-2 years),Mid-Fjord,False,60.7,Namsen,major,Far (>50km),No Influence
+45129,2,63.46975,8.156933,Zone 3: Mid (63-66°N),Kvitholmen,Sporadic (0-2 years),Mid-Fjord,False,69.1,Surna,medium,Far (>50km),No Influence
+45130,0,63.185932,8.752917,Zone 3: Mid (63-66°N),Engdal,Sporadic (0-2 years),Mid-Fjord,False,32.0,Surna,medium,Moderate (25-50km),No Influence
+45134,2,62.438816,6.816167,Zone 2: Western (60-63°N),Bugane,Sporadic (0-2 years),Mid-Fjord,False,25.2,Norddalselva,small,Moderate (25-50km),Weak Influence
+45135,1,62.229916,5.49525,Zone 2: Western (60-63°N),Voravika,Sporadic (0-2 years),Mid-Fjord,False,77.5,Stryneelva,small,Far (>50km),No Influence
+45140,0,66.629684,13.10985,Zone 4: Northern (66-69°N),Nordskaftet,Sporadic (0-2 years),Inner Fjord,False,54.1,Ranfjorden rivers,medium,Far (>50km),No Influence
+45142,0,69.5802,17.743732,Zone 5: Arctic (69-71°N),Ytre Baltsfjord,Sporadic (0-2 years),Inner Fjord,False,71.3,Målselva,major,Far (>50km),No Influence
+45154,3,70.05127,19.76845,Zone 5: Arctic (69-71°N),Langneset,Occasional (3-5 years),Mid-Fjord,False,127.3,Målselva,major,Far (>50km),No Influence
+45155,2,62.854534,6.645283,Zone 2: Western (60-63°N),Holmskallen,Sporadic (0-2 years),Mid-Fjord,False,66.9,Rauma,medium,Far (>50km),No Influence
+45166,0,66.28207,12.996967,Zone 4: Northern (66-69°N),Storvikneset,Sporadic (0-2 years),Inner Fjord,False,45.1,Ranfjorden rivers,medium,Moderate (25-50km),No Influence
+45167,0,62.973415,7.645567,Zone 2: Western (60-63°N),Heggeset,Sporadic (0-2 years),Mid-Fjord,False,52.8,Rauma,medium,Far (>50km),No Influence
+45198,1,64.80645,10.565933,Zone 3: Mid (63-66°N),Purkholmen,Sporadic (0-2 years),Mid-Fjord,False,56.2,Namsen,major,Far (>50km),No Influence
+45206,0,61.19315,4.8515,Zone 2: Western (60-63°N),Lyngholmane,Sporadic (0-2 years),Mid-Fjord,False,65.7,Jølstra,small,Far (>50km),No Influence
+45208,0,70.54855,30.191418,Zone 5: Arctic (69-71°N),Sandfjordneset,Sporadic (0-2 years),Mid-Fjord,False,84.2,Tana,major,Far (>50km),No Influence
+45211,0,61.193134,4.8148,Zone 2: Western (60-63°N),Saltskår,Sporadic (0-2 years),Mid-Fjord,False,67.4,Jølstra,small,Far (>50km),No Influence
+45215,0,70.5756,24.085817,Zone 5: Arctic (69-71°N),Iselva,Sporadic (0-2 years),Mid-Fjord,False,82.5,Altaelva,major,Far (>50km),No Influence
+45231,1,66.55033,12.575617,Zone 4: Northern (66-69°N),Slønga,Sporadic (0-2 years),Inner Fjord,False,69.5,Ranfjorden rivers,medium,Far (>50km),No Influence
+45233,0,69.21467,16.899767,Zone 5: Arctic (69-71°N),Leikvika,Sporadic (0-2 years),Inner Fjord,False,68.1,Målselva,major,Far (>50km),No Influence
+45241,0,66.31737,12.66755,Zone 4: Northern (66-69°N),Mangvardan,Sporadic (0-2 years),Inner Fjord,False,59.8,Ranfjorden rivers,medium,Far (>50km),No Influence
+45260,0,63.441116,8.595233,Zone 3: Mid (63-66°N),Korshamn,Sporadic (0-2 years),Mid-Fjord,False,60.5,Surna,medium,Far (>50km),No Influence
