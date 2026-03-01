@@ -405,6 +405,11 @@ File	Description:
 - management_calendar_2026.json	(Structured management recommendations)
 - management_calendar_2026.txt	(Printable management calendar)
 
+- recurrence pattern map: https://licedatabookmap01.vercel.app/
+- temperature pattern map: https://licedatabookmap02.vercel.app/
+- temperature synchrony map: https://licedatabookmap03.vercel.app/
+- zone analysis map: https://licedatabookmap04.vercel.app/
+
 # Analysis of Environmental and Anthropogenic Factors Driving Persistent Sea Lice Outbreaks in Norwegian Salmon Farms (2015-2025)
 
 ## Overview
