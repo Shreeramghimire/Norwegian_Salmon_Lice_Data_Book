@@ -55,7 +55,7 @@ This project presents a comprehensive seven-step analytical framework for predic
 ### Rationale:
 To determine whether sea lice outbreaks follow predictable annual cycles at specific locations and identify farms with consistent outbreak timing year after year.
 
-### Methodology:
+### Methodology
 
 - Analyzed weekly outbreak patterns across 1,024 localities
 
