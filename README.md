@@ -1,4 +1,5 @@
 # Norwegian Salmon Lice Data Book #
+----
 
 Salmon lice (Lepeophtheirus salmonis) remain one of the most significant challenges facing the Norwegian salmon industry, with annual costs estimated at around 5 billion NOK. Although lice are not typically a direct cause of mortality, they pose serious welfare concerns for farmed fish and create substantial operational and economic pressure for producers.
 
