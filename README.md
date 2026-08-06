@@ -92,7 +92,7 @@ To analyze temperature consistency, trends, and thermal ranges across localities
 
 ### Methodology:
 
-- Calculated temperature consistency scores using coefficient of variation
+- Calculated temperature consistency scores using the coefficient of variation
 
 - Performed linear regression to identify warming/cooling trends
 
