@@ -498,7 +498,7 @@ Farm density is the strongest predictor of persistent outbreaks, particularly in
 
 ## Factor 2: Hydrodynamic Connectivity (Fjord Position)
 ### Hypothesis
-Fjord position influences water exchange and larval retention, with inner fjord farms experiencing higher persistence due to limited flushing.
+Fjord position influences water exchange and larval retention, with inner-fjord farms experiencing higher persistence due to limited flushing.
 
 ### Methodology
 - Classified farms into three fjord positions based on Norwegian geography:
@@ -525,7 +525,7 @@ Fjord position influences water exchange and larval retention, with inner fjord 
 - Conclusion: Fjord position IS significant
 
 ### Key Insight
-Inner fjord farms are 3x more likely to be persistent hotspots compared to coastal farms. Hydrodynamic retention creates "trap" conditions where lice larvae remain in the system.
+Inner-fjord farms are 3 times more likely to be persistent hotspots compared to coastal farms. Hydrodynamic retention creates "trap" conditions where lice larvae remain in the system.
 
 ## Factor 3: Temperature Regimes
 ### Hypothesis
