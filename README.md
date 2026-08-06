@@ -746,7 +746,7 @@ The typical persistent hotspot farm is characterized by:
 
 - Located within 20km of a major salmon river
 
-- High vessel traffic area (<20km from major port)
+- High vessel traffic area (< 20km from a major port)
 
 - High farm density (>15 farms within 10km)
 
@@ -765,7 +765,7 @@ The typical persistent hotspot farm is characterized by:
 
 - Zone 4 (Northern) is dominated by fjord position, with a persistent rate of 18%, and hydrodynamics is the main driver.
 
-- Zone 5 (Arctic) is influenced by limited temperature effects, has the lowest persistent rate at 15%, and isolation acts as the primary driver.
+- Zone 5 (Arctic), influenced by limited temperature effects, has the lowest persistent rate at 15%, and isolation acts as the primary driver.
 
 ## Management Implications
 ### Priority Interventions by Factor
@@ -775,7 +775,7 @@ The typical persistent hotspot farm is characterized by:
 
 - Establish protection zones around major salmon rivers
 
-- Monitor wild fish health as early warning system
+- Monitor wild fish health as an early warning system
 
 #### Vessel Movement
 
@@ -829,7 +829,7 @@ The typical persistent hotspot farm is characterized by:
 - Zone 5 has a primary focus on climate adaptation, a secondary focus on isolation, and monitoring from July to August.
 
 ## Conclusions
-This comprehensive factor analysis reveals that persistent sea lice outbreaks are driven by a combination of ecological and operational factors, with clear hierarchy of importance:
+This comprehensive factor analysis reveals that persistent sea lice outbreaks are driven by a combination of ecological and operational factors, with a clear hierarchy of importance:
 
 1. Wild salmonid reservoirs emerge as the strongest predictor of persistence, confirming that wild fish populations act as natural reservoirs and continuous sources of infestation.
 
