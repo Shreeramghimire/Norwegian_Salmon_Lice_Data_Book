@@ -345,7 +345,7 @@ To generate actionable, locality-specific outbreak forecasts and management cale
 - Low Risk Zones: Monthly monitoring (June-July)
 
 #### Treatment Protocols
-- Time treatments using predictive calendar (2 weeks before predicted peak)
+- Time treatments using a predictive calendar (2 weeks before predicted peak)
 
 - Coordinate treatments within zones to prevent re-infestation
 
