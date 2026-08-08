@@ -729,7 +729,7 @@ Wild salmon and sea trout populations act as natural reservoirs for lice, with f
 
 ## Comparative Factor Analysis
 ### Effect Size Ranking
-- Rank 1 – Wild Salmon Reservoirs: This factor shows a correlation of r = -0.38, is highly significant (p < 0.001), and has the highest effect size (⭐⭐⭐⭐⭐).
+- Rank 1 – Wild Salmon Reservoirs: This factor shows a correlation of r = -0.38, is highly significant (p < 0.001), and has the highest effect size.
 
 - Rank 2 – Vessel Movement: Vessel movement exhibits a correlation of r = -0.41, with strong significance (p < 0.001) and the highest effect size (⭐⭐⭐⭐⭐).
 
