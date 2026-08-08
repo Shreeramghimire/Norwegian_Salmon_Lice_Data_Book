@@ -410,7 +410,7 @@ File	Description:
 - temperature synchrony map: https://licedatabookmap03.vercel.app/
 - zone analysis map: https://licedatabookmap04.vercel.app/
 
-# Analysis of Environmental and Anthropogenic Factors Driving Persistent Sea Lice Outbreaks in Norwegian Salmon Farms (2015-2025)
+## Analysis of Environmental and Anthropogenic Factors Driving Persistent Sea Lice Outbreaks in Norwegian Salmon Farms (2015-2025)
 
 ## Overview
 This comprehensive analysis investigates six key factors that may explain why certain salmon farms experience persistent sea lice outbreaks (defined as outbreaks in 9-10 years out of the decade). Building on our previous predictive modeling work, this study identifies which environmental and operational characteristics distinguish persistent hotspots from farms with sporadic outbreaks. Understanding these drivers is essential for targeted interventions and sustainable management strategies.
