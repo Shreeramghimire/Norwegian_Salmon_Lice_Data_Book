@@ -676,7 +676,7 @@ Vessel movement SIGNIFICANTLY affects persistence with a strong negative correla
 Wild salmon and sea trout populations act as natural reservoirs for lice, with farms near major salmon rivers experiencing higher exposure and persistence.
 
 ### Methodology
-- Created database of 40 major salmon rivers with documented wild populations
+- Created a database of 40 major salmon rivers with documented wild populations
 
 - Included salmon index (0-100) based on population size
 
@@ -731,9 +731,9 @@ Wild salmon and sea trout populations act as natural reservoirs for lice, with f
 ### Effect Size Ranking
 - Rank 1 – Wild Salmon Reservoirs: This factor shows a correlation of r = -0.38, is highly significant (p < 0.001), and has the highest effect size.
 
-- Rank 2 – Vessel Movement: Vessel movement exhibits a correlation of r = -0.41, with strong significance (p < 0.001) and the highest effect size (⭐⭐⭐⭐⭐).
+- Rank 2 – Vessel Movement: Vessel movement exhibits a correlation of r = -0.41, with strong significance (p < 0.001) and the highest effect size.
 
-- Rank 3 – Farm Density: Farm density has a positive correlation of r = 0.34, is highly significant (p < 0.001), and a very strong effect size (⭐⭐⭐⭐).
+- Rank 3 – Farm Density: Farm density has a positive correlation of r = 0.34, is highly significant (p < 0.001), and has a very strong effect size (⭐⭐⭐⭐).
 
 - Rank 4 – Temperature Regimes: Temperature regimes show various correlations, are significant at p < 0.01, and have a strong effect size (⭐⭐⭐⭐).
 
