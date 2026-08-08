@@ -733,13 +733,13 @@ Wild salmon and sea trout populations act as natural reservoirs for lice, with f
 
 - Rank 2 – Vessel Movement: Vessel movement exhibits a correlation of r = -0.41, with strong significance (p < 0.001) and the highest effect size.
 
-- Rank 3 – Farm Density: Farm density has a positive correlation of r = 0.34, is highly significant (p < 0.001), and has a very strong effect size (⭐⭐⭐⭐).
+- Rank 3 – Farm Density: Farm density has a positive correlation of r = 0.34, is highly significant (p < 0.001), and has a very strong effect size.
 
-- Rank 4 – Temperature Regimes: Temperature regimes show various correlations, are significant at p < 0.01, and have a strong effect size (⭐⭐⭐⭐).
+- Rank 4 – Temperature Regimes: Temperature regimes show various correlations, are significant at p < 0.01, and have a strong effect size.
 
-- Rank 5 – Fjord Position: Fjord position was analyzed with ANOVA (p = 0.004), is significant at p < 0.01, and has a moderate effect size (⭐⭐⭐).
+- Rank 5 – Fjord Position: Fjord position was analyzed with ANOVA (p = 0.004), is significant at p < 0.01, and has a moderate effect size.
 
-- Rank 6 – River Systems: River systems show a correlation of r = 0.21, are significant at p = 0.018, and have a small effect size (⭐⭐).
+- Rank 6 – River Systems: River systems show a correlation of r = 0.21, are significant at p = 0.018, and have a small effect size.
 
 ### Persistent Hotspot Profile
 The typical persistent hotspot farm is characterized by:
